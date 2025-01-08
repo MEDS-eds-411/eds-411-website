@@ -14,6 +14,11 @@ In this website you will find the materials covered during lectures for the 2024
 The goal of  MEDS Capstone Courses EDS 411A and EDS 411B is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. 
 Additionally, these courses provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution). 
 
+## Syllabus
+
+- [411A Syllabus](https://docs.google.com/document/d/1LLTRDEoQZcwMq2pO05AhvCiyG0uigxl2If1VM5lJrCw/edit?usp=share_link)
+
+
 ## Instructor
 **Carmen Galaz García** (she/her/hers)
 
