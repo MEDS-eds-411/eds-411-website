@@ -1,0 +1,59 @@
+# 411A Resources
+
+## Winter Quarter Deadlines
+
+![](/images/winter_deadlines.png)
+
+## Capstone Process Documents
+
+📑 Capstone Project Guidelines MEDS 2024. Available for download at [Bren's Academic Resources website](https://bren.ucsb.edu/academic-resources-current-students).
+
+[🛟 Capstone help "order of operations"](https://drive.google.com/file/d/1W699qeRlQOw_wQCJg0eAMziwCNrvQ7Ur/view?usp=share_link) (only available to EDS 411 students). 
+
+## UCSB Library Research Data Services
+
+[🆗 Good enough practices to manage your project.](https://ucsb-library-research-data-services.github.io/project-data-management/)
+
+📨 Contact RDS at: rds@library.ucsb.edu
+
+## Faculty Review Resources
+
+[✅  Faculty Review Logistics - Emily Case](https://docs.google.com/presentation/d/1SS1xtBQEhOVMLV6JcKNH5MXBEe6D4ZmWaeHTKmqhnmE/edit?usp=sharing)
+
+[🗓️  Faculty Review Schedule](https://docs.google.com/document/d/13rNpK38MZSpTbZVxK5n2d2VGZptAqtR_7c0Ekvvup_E/edit?usp=sharing)
+
+[💯  Faculty Review Rubric](https://docs.google.com/document/d/1Rx8zHqRvHuzLxQxEmjBns4Jvs_A_tt2hiDnw8VPYNhY/edit?usp=sharing)
+
+## Public Speaking Resources
+
+[💬  Responding to questions slides](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing)
+
+[🌟  Ten Ways to Improve Presentations - Alex Phillips, PhD](https://docs.google.com/presentation/d/1z9URIEa5Ex7FtDcTMTPbQrWO7mD8XHhdzlKLZzXhfEQ/edit#slide=id.g2b923656a78_0_20)
+
+## Design and Implementation Plan Resources
+
+[📓 Sample DIPs](https://drive.google.com/drive/folders/1i5dkR96C_OOfU57eioQzDL4hi_pso9y8?usp=share_link) (only available to EDS 411 students). 
+
+
+🗺️ Roadmap to First Draft of Design and Implementation Plan
+
+| DIP section      | Covered in class on | 1st draft due on |
+| ---------------- | ------------------- | ---------------- | 
+| Title page       |  -  | Week 5 - Feb 9 | 
+| Executive summary   | Week 5 - Feb 7 | Week 5 - Feb 9 | 
+| Problem statement and objectives | Week 2 - Jan 17 | Week 3 - Jan 23 | 
+| Solution Design: Approach and Methods | Week 3 - Jan 24 | Week 4 - Jan 30 |
+| Solution Design: Data Management Plan | Week 4 - Jan 31 | Week 5 - Feb 6|
+| Solution Design: Proposed Software and Tools |  Week 3 - Jan 24 | Week 4 - Jan 30 |
+| Products and Deliverables | Week 2 - Jan 17 | Week 3 - Jan 23|
+| Documentation Plan | Week 4 - Jan 31 | Week 5 - Feb 7 | 
+| Testing Plan | Week 5 - Feb 7 | Week 5 - Feb 9 ^1^ | 
+| Timelines and Milestones | Week 3 - Jan 24 | Week 4 - Jan 30 |
+| Team Management Plan | Week 2 - Jan 17 | Week 3 - Jan 23 |
+| Budget and Budget Justification | - | Week 5 - Feb 9 ^2^ | 
+| References | - | Week 5 - Feb 9 | 
+
+
+1. Revisit timeline, milestones, and software & tools to include testing
+
+2. See PROJECT BUDGET and DIP Budget and Budget Justification sections in Capstone Guidelines

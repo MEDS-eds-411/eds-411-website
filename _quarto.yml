@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "EDS 411"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Winter 411A"
+        menu: 
+          #- 411a_winter/411a_resources.qmd        
+          #- 411a_winter/411a_overview.qmd
+          - 411a_winter/week1.qmd 
+          # - week2.qmd      
+          # - week3.qmd 
+          # - week4.qmd
+          # - week5.qmd
+          # - week6.qmd
+          # - week7.qmd
+          # - week8.qmd
+          # - week10.qmd
+
+      # - text: "Spring 411B"
+      #   menu: 
+      #     - 411b_spring/411b_overview.qmd   
+      #     - 411b_spring/411b_week1.qmd
+      #     - 411b_spring/411b_week2.qmd   
+      #     - 411b_spring/411b_week3.qmd   
+      #     - 411b_spring/411b_week4.qmd   
+      #     - 411b_spring/411b_week5.qmd   
+      #     - 411b_spring/411b_week6.qmd   
+      #     - 411b_spring/411b_week7.qmd   
+      #     - 411b_spring/411b_week8.qmd  
+      #     - 411b_spring/411b_week9.qmd   
+      #     - 411b_spring/411b_resources.qmd       
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

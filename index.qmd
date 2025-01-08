@@ -1,0 +1,39 @@
+---
+title: "EDS 411: MEDS Capstone Courses"
+---
+
+# Welcome! {.unnumbered}
+
+Welcome to the course materials for MEDS Capstone Courses EDS 411A and EDS 411B! 
+This course sequence is part of the [UCSB Masters in Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at the [Bren School of Environmental Science and Mananagement](https://bren.ucsb.edu). 
+
+In this website you will find the materials covered during lectures for the 2024 Winter and Spring terms. 
+*This site will be under construction throughout the course.* 
+
+## About
+The goal of  MEDS Capstone Courses EDS 411A and EDS 411B is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. 
+Additionally, these courses provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution). 
+
+## Instructor
+**Carmen Galaz García** (she/her/hers)
+
+E-mail: c_galazgarcia@ucsb.edu
+
+Office hours: by appointment
+
+Best way to contact me: e-mail, Slack
+
+## TA
+**Sandy Sum** (she/her/hers)
+
+E-mail: sandysum@ucsb.edu
+
+Office hours: Mondays 9am-12pm, Tuesdays 2pm-5pm. Appointments in 15-minute slots are available at [https://calendly.com/sandysum](https://calendly.com/sandysum). 
+
+Best way to contact me: e-mail / Slack
+
+
+<!--
+## About this website
+This website is created with [Quarto](https://quarto.org) and is published  through [GitHub pages](https://quarto.org/docs/publishing/github-pages.html). [Click here to go to the website's GitHub repository](https://github.com/carmengg/eds-411-website).
+-->

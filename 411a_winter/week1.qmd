@@ -1,0 +1,100 @@
+# Week 1
+
+## Materials
+
+📕 [Class slides](https://docs.google.com/presentation/d/1zCizrurJE1kqmOfhHGqAjvBfzIskGtmhoK7LTiLR1I4/edit?usp=share_link)
+
+📘 [Client Relations Presentation - Miya Scheble](https://docs.google.com/presentation/d/12p1xqVYr9p0brCnrxiXHFBhsR-vz7BcacWa0HfIA9Xw/edit?usp=sharing)
+
+## Schedule
+
+1:00 - 1:45 : Overview of EDS 411, Capstone Project, and DIP
+
+1:45 - 2:15: Client relations workshop - Miya Scheble, Bren School
+
+2:15 - 2:20: BREAK
+
+2:20 - 3:00: Communication roles activity
+
+3:00 - 3:10: BREAK
+
+3:10 - 3:50: Capstone project summary
+
+3:50 - 4:00: Checklist for next class
+
+## Upcoming deadlines
+
+![](/411a_winter/images/411a_2025_deadlines1.png)
+
+
+## To do by next week
+
+### 🤝 Client meeting
+
+**Goals** for first client meeting (to be held before next class):
+
+☑️ Clarify what the objectives are (if you have any questions - know what they are before the meeting)
+
+☑️ Address any issue with accessing data (determine beforehand what these might be)
+
+☑️ Find out who the audience for your product will be and if there will be people who can test it
+
+**Before** meeting the client meeting, develop an agenda, including:
+
+- who will be the meeting facilitator/chair and who will take notes
+- agenda (with times)
+- list of clarifying questions you want to ask the client
+- any questions about the data - make sure you know how to access it
+- PRO TIP: use the [agenda template](https://docs.google.com/document/d/1Y9PcCfJrf8KJVcRqKVjkxQHzrDSoJx8VrmpnlpUc8Kk/edit?usp=sharing) provided during the Fall quarter.
+
+
+**After** meeting: reflect with your team on how it went and what could be improved. 
+
+***
+### 💬 Prepare a flash talk
+
+
+Prepare 4 slides covering:
+
+- Slide 1: A cover slide  
+- Slide 2: An ultra summarized slide covering what your project will do
+- Slide 3: A brief overview of the datasets you’ll use
+- Slide 4:  One graph showing exploratory visualization of your data
+
+Pick a person or two who are ready to do a 3 minute presentation next class
+Add slides to [Week 2 - Flash talks](https://drive.google.com/drive/folders/19YewWLJGEzCe8MM-NwbxhLlVyfyeq6SE?usp=share_link).
+
+Focus on: 
+
+- Avoiding big blocks of text.
+- Seamless transitions between sections, clear, and precise speech.
+- Practice and time it! 
+- Listen for every qualifier you use. “Kind of” “sort of” “I guess.” Avoid these!
+
+**Flash talks are the first steps in practicing for the faculty reviews.**
+
+***
+
+### 📄 Read
+
+Read the following resources:
+
+☑️ [MEDS Capstone Project Guidelines](https://drive.google.com/file/d/1qftu6sNqHeiv0p5K2xhfV8rfdc14oOk_/view?usp=share_link). 
+
+☑️ [Sample DIPs](https://drive.google.com/drive/folders/1Wi1izA-w2jLl3RRhSPEC334XcFLuY653?usp=share_link)*
+
+☑️ [Ten simple rules to cultivate belonging in collaborative data science research teams](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010567)
+
+Come prepared with questions about the guidelines and the sample DIPs.
+The “Ten simple rules…” paper will give you a good background for your team management plan (we’ll work on it next week). 
+
+*We have reworked the DIP this year to streamline it. So, **the sample DIPs from previous years do not completely match the new DIP format**. However they will still give you a good idea of the information that will go into it.
+
+
+***
+
+### 📥 Submit
+
+
+**Submit by 5pm on Friday 1/19:**
+Finalize your summary paragraph for Bren website, add to [Capstone Summaries](https://docs.google.com/document/d/1OhL7BuIQbqAEb7W5m5feDl0bdvsBNWT-ZKTrCuSig8A/edit?usp=share_link). <u> Your advisor must review your summary before submitting it. </u>
