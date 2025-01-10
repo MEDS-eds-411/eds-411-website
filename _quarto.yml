@@ -21,6 +21,8 @@ website:
           # - week7.qmd
           # - week8.qmd
           # - week10.qmd
+      - href: office_hours.qmd
+        text: Office Hours
 
       # - text: "Spring 411B"
       #   menu: 
