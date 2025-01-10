@@ -1,0 +1,37 @@
+# Calendars
+
+<br>
+
+## 📝 Course Activities
+
+![](/411a_winter/images/course_activities.png)
+*Activities may be subject to change.*
+
+<br>
+
+## 🗺️ Roadmap to First DIP Draft
+
+| DIP section      | Covered in class on | 1st draft due on |
+| ---------------- | ------------------- | ---------------- | 
+| Title Page               |  -              | Week 5 - Feb 7 ^1^  | 
+| Project Summary          | Week 1 - Jan 8  | Week 2 - Feb 17 | 
+| Objectives               | Week 2 - Jan 15 | Week 3 - Jan 21 | 
+| Deliverables             | Week 2 - Jan 15 | Week 3 - Jan 21 | 
+| Solution Design          | Week 3 - Jan 22 | Week 4 - Jan 28 |
+| Data Management Plan     | Week 4 - Jan 29 | Week 5 - Feb 4  |
+| Documentation Plan       | Week 3 - Jan 22 | Week 4 - Jan 28  | 
+| Timeline and Milestones  | Week 4 - Jan 29 | Week 5 - Feb 4 |
+| Team Management Plan     | Week 2 - Jan 15 | Week 3 - Jan 21 |
+| Budget and Budget Justification | - | Week 5 - Feb 7 ^2^ | 
+| References | - | Week 5 - Feb 7 | 
+
+
+1. Use the template in the Capstone Guidelines.
+
+2. See PROJECT BUDGET and DIP Budget and Budget Justification sections in Capstone Guidelines
+
+<br>
+
+## ⏰️ Capstone Deadlines
+
+![](/411a_winter/images/411a_2025_deadlines1.png)

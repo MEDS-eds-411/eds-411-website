@@ -4,17 +4,19 @@
 
 📕 [Class slides](https://docs.google.com/presentation/d/1zCizrurJE1kqmOfhHGqAjvBfzIskGtmhoK7LTiLR1I4/edit?usp=share_link)
 
+📗 [TA Office Hours Logistics - Sandy Sum](https://docs.google.com/presentation/d/1tr9OIiFolKfSyn7OAuhdj4ZK0Vz6UM5mt729TvRaV-8/edit?usp=sharing)
+
 📘 [Client Relations Presentation - Miya Scheble](https://docs.google.com/presentation/d/12p1xqVYr9p0brCnrxiXHFBhsR-vz7BcacWa0HfIA9Xw/edit?usp=sharing)
 
 ## Schedule
 
-1:00 - 1:45 : Overview of EDS 411, Capstone Project, and DIP
+1:00 - 2:00 : Overview of EDS 411, Capstone Project, and DIP
 
-1:45 - 2:15: Client relations workshop - Miya Scheble, Bren School
+2:00 - 2:30: Client relations workshop - Miya Scheble, Bren School
 
-2:15 - 2:20: BREAK
+2:30 - 2:35: BREAK
 
-2:20 - 3:00: Communication roles activity
+2:35 - 3:00: Communication roles activity
 
 3:00 - 3:10: BREAK
 
@@ -22,7 +24,7 @@
 
 3:50 - 4:00: Checklist for next class
 
-## Upcoming deadlines
+## Upcoming capstone deadlines
 
 ![](/411a_winter/images/411a_2025_deadlines1.png)
 

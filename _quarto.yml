@@ -9,9 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - text: "Winter 411A"
-        menu: 
-          #- 411a_winter/411a_resources.qmd        
-          #- 411a_winter/411a_overview.qmd
+        menu:   
+          - 411a_winter/411a_calendars.qmd
+          #- 411a_winter/411a_resources.qmd                
           - 411a_winter/week1.qmd 
           # - week2.qmd      
           # - week3.qmd 
