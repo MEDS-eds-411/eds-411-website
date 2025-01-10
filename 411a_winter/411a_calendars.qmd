@@ -9,7 +9,7 @@
 
 <br>
 
-## 🗺️ Roadmap to First DIP Draft
+## 🗺️ Roadmap to DIP Draft Submission
 
 | DIP section      | Covered in class on | 1st draft due on |
 | ---------------- | ------------------- | ---------------- | 
