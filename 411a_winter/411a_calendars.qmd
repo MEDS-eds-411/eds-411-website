@@ -19,8 +19,8 @@
 | Deliverables             | Week 2 - Jan 15 | Week 3 - Jan 21 | 
 | Solution Design          | Week 3 - Jan 22 | Week 4 - Jan 28 |
 | Data Management Plan     | Week 4 - Jan 29 | Week 5 - Feb 4  |
-| Documentation Plan       | Week 3 - Jan 22 | Week 4 - Jan 28  | 
-| Timeline and Milestones  | Week 4 - Jan 29 | Week 5 - Feb 4 |
+| Documentation Plan       | Week 4 - Jan 22 | Week 5 - Feb 4  | 
+| Timeline and Milestones  | Week 3 - Jan 22 | Week 4 - Jan 28 |
 | Team Management Plan     | Week 2 - Jan 15 | Week 3 - Jan 21 |
 | Budget and Budget Justification | - | Week 5 - Feb 7 ^2^ | 
 | References | - | Week 5 - Feb 7 | 
