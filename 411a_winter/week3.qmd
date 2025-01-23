@@ -1,5 +1,15 @@
 # Week 3
 
+::: {.callout-important icon=false}
+## 💻🤓 REMINDER: Dive into your data and start coding!
+
+**Don’t wait** for your DIP planning to be finalized- jump into coding and exploring your data now!
+While writing the DIP, keep actively engaging with your data, running preliminary analyses, and coming up with questions.
+**Divide tasks among team members** so you can make progress on multiple fronts.
+
+✨**You got this!**✨
+:::
+
 ## Materials
 
 📕 [Class slides](https://docs.google.com/presentation/d/1aEMKe4IlfFPBV9JHwsRblpCS1DzMwgA8Fj4P3g3xyM4/edit?usp=sharing)
@@ -68,8 +78,11 @@ Complete the following tasks in preparation for this meeting:
 
 Prepare 4 slides covering:
 
-- Slide 1: A cover slide  (see template)
+- Slide 1: A cover slide (see template)
 - Slide 2: Your ABT elevator pitch telling us what your project is about **(30 seconds max)**
+    - Your ABT slide should look like the in-class examples: include "and", "but", "therefore"
+    - Audience for ABT pitch: general audience (think anyone at Bren)
+
 - Slide 3: Brief overview of project’s products and deliverables
 - Slide 4:  Approach and methods draft diagram
 
