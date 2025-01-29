@@ -6,6 +6,8 @@
 
 📗 [Computing resources slides](https://docs.google.com/presentation/d/1dO3eNAM37yjKQTQIkV5zbGcYkfb9Yhph1A32mHA4ErY/edit?usp=sharing)  - Kat Le, Technical Applications Manager, Bren School 
 
+📖 [Capstone Guidelines](https://drive.google.com/file/d/1qftu6sNqHeiv0p5K2xhfV8rfdc14oOk_/view?usp=share_link)
+
 ## Schedule
 
 1:00 - 1:10 : Check-in & checklist for next class

@@ -13,6 +13,9 @@ This Friday 1/31. Check the [schedule here](https://docs.google.com/document/d/1
 📗 [Good enough practices to manage your project data](https://ucsb-library-research-data-services.github.io/project-data-management/)
 
 
+📖 [Capstone Guidelines](https://drive.google.com/file/d/1qftu6sNqHeiv0p5K2xhfV8rfdc14oOk_/view?usp=share_link)
+
+
 ## Schedule
 
 1:00 - 1:05 : Questions & check-in 
