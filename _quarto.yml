@@ -15,7 +15,7 @@ website:
           - 411a_winter/week1.qmd 
           - 411a_winter/week2.qmd      
           - 411a_winter/week3.qmd      
-          # - week4.qmd
+          - 411a_winter/week4.qmd      
           # - week5.qmd
           # - week6.qmd
           # - week7.qmd
