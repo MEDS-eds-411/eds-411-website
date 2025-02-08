@@ -63,7 +63,7 @@ Prepare 4 slides covering:
 - Slide 1: A cover slide  
 - Slide 2: An ultra summarized slide covering what your project will do
 - Slide 3: A brief overview of the datasets you’ll use
-- Slide 4:  One graph showing exploratory visualization of your data
+- Slide 4: One graph showing exploratory visualization of your data
 
 Pick a person or two who are ready to do a 3 minute presentation next class
 Add slides to [Week 2 - Flash talks](https://drive.google.com/drive/folders/19YewWLJGEzCe8MM-NwbxhLlVyfyeq6SE?usp=share_link).
