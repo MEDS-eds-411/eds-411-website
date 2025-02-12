@@ -10,7 +10,7 @@
 
 ## Schedule
 
-1:00 - 1:10 : Questions, check-in & upcoming assignments
+1:00 - 1:10 : Questions, check-in, & upcoming assignments
 
 1:10 - 1:55 : Flash presentations
 
@@ -30,16 +30,38 @@
 
 ## To do by next week
 
-### Prepare faculty review mock presentation
+### 💬 Prepare faculty review mock presentation
 
-1. Read these [guidelines for your presentation]()
+1. Read the [rubric for faculty reviews](https://docs.google.com/presentation/d/1qYm7QCg1T05E8DFLZGTb2JkCVnazUEZ-5pxDRidLuuo/edit#slide=id.ge6b7f452cd_0_6982).
 
-2. Decide with your team what preliminary results, progress, or prototype you will include in your presentation
+2. 💥Read these [guidelines for your presentation](https://docs.google.com/presentation/d/1rMpHTbqVPNEDBZc_o8asS2wf_RsBU7IXkBNN91qx2SA/edit?usp=sharing)💥
 
-3. Put together a complete presentation deck following [Alex’s presentation, point 6](). It’s ok if you add stand-in figures for prototypes or preliminary results for now. Focus on the story line. 
+3. Decide with your team what preliminary results, progress, or prototype you will include in your presentation
 
-4. Discuss your draft slides with your faculty advisor. 
+4. Put together a complete presentation deck following Alex’s presentation, point 6. It’s ok if you add stand-in figures for prototypes or preliminary results for now. Focus on the story line. 
 
-5. Decide who will be presenting in faculty review (and who in public final presentation). Every person in the team should be ready to present if needed.
+5. Discuss your draft slides with your faculty advisor. 
 
-6. Add your draft to our [shared drive](https://drive.google.com/drive/folders/1B_060OmEx5nZZwuoeDGjKWrCQ3Zl95sQ?usp=share_link) and be ready to do a formal mock presentation next week! 
+6. Decide who will be presenting in faculty review (and who in public final presentation). Every person in the team should be ready to present if needed.
+
+7. Add your draft to our [shared drive](https://drive.google.com/drive/folders/1iJWmncW70KHbPyDfCPQraPg6rOcis75m?usp=share_link) and be ready to do a formal mock presentation next week! 
+
+<br>
+
+### 📝 Update DIP
+
+If you have already received feedback from your advisor:
+
+- discuss feedback with your team
+- start working on updating your draft
+- contact advisors or clients for clarification and share suggestions, and reply to comments within the document as needed. Remember to always do your research and discuss with your team first! 
+
+## Next class schedule
+
+The class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00. Each time will present and provide feedback to another team as follows:
+
+![](/411a_winter/images/presentations_blocks_1.png)
+
+Your theam should work on their project outside of their "presentation block". The following rooms are reserved for you so you have a dedicated workspace during our usual class time. You’re welcome to use other places to work. 
+
+![](/411a_winter/images/presentations_rooms_1.png)
