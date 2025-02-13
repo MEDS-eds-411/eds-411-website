@@ -9,7 +9,7 @@
 
 📘 [Style guidelines for your Faculty Review presentation](https://docs.google.com/presentation/d/1rMpHTbqVPNEDBZc_o8asS2wf_RsBU7IXkBNN91qx2SA/edit?usp=sharing)
 
-<!-- 📙 [Ten Ways to Improve Presentations](https://docs.google.com/presentation/d/1ddl9cCrWf8AL0adNmq1y8_WEeAxIyo_RlBnUlTXPqpw/edit?usp=sharing) -->
+📙 [Ten Ways to Improve Presentations](https://docs.google.com/presentation/d/1ddl9cCrWf8AL0adNmq1y8_WEeAxIyo_RlBnUlTXPqpw/edit?usp=sharing)
 
 📖 [Capstone Guidelines](https://drive.google.com/file/d/1qftu6sNqHeiv0p5K2xhfV8rfdc14oOk_/view?usp=share_link)
 
@@ -44,11 +44,7 @@
 
 3. Decide with your team what preliminary results, progress, or prototype you will include in your presentation
 
-4. Put together a complete presentation deck following Alex’s presentation, point 6. It’s ok if you add stand-in figures for prototypes or preliminary results for now. Focus on the story line. 
-
-<!--
 4. Put together a complete presentation deck following [Alex’s presentation, point 6]((https://docs.google.com/presentation/d/1ddl9cCrWf8AL0adNmq1y8_WEeAxIyo_RlBnUlTXPqpw/edit?usp=sharing)). It’s ok if you add stand-in figures for prototypes or preliminary results for now. Focus on the story line. 
--->
 
 5. Discuss your draft slides with your faculty advisor. 
 
