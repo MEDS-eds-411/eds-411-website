@@ -1,0 +1,83 @@
+# Week 7
+
+
+## Materials
+
+📕 [Class slides](https://docs.google.com/presentation/d/1BTkb1Zhe5kHfzpIy31fwXiFezqfmuGnmetUaWXeG-FE/edit?usp=sharing)
+
+📗 [Responding to questions slides](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing)
+
+📖 [Capstone Guidelines](https://drive.google.com/file/d/1qftu6sNqHeiv0p5K2xhfV8rfdc14oOk_/view?usp=share_link)
+
+
+## Schedule
+Today the class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to another teams as follows:
+
+![](/411a_winter/images/presentations_blocks_1.png)
+
+Your theam should work on their project outside of their “presentation block”. Check last week's slide to see the room(s) that are booked for your team.
+
+## Upcoming capstone deadlines
+
+![](/411a_winter/images/411a_2025_deadlines4.png)
+
+
+## To do by next week
+
+### 💬 Prepare mock presentation 2.0
+
+- I might send you some extra comments and feedback
+- Incorporate the feedback and streamline your presentation
+- Iterate with your faculty advisor
+- Practice makes perfect!
+
+Add your slides to [this shared folder](https://drive.google.com/drive/folders/1Gf0zctr2LxVwx382vJ4e9PPcdBHLQEuj?usp=share_link) before class.
+
+Be sure to review the following resources when preparing your presentation:
+
+📗 [Faculty Reviews presentation slides](https://docs.google.com/presentation/d/1qYm7QCg1T05E8DFLZGTb2JkCVnazUEZ-5pxDRidLuuo/edit#slide=id.ge6b7f452cd_0_6982)
+
+📘 [Style guidelines for your Faculty Review presentation](https://docs.google.com/presentation/d/1rMpHTbqVPNEDBZc_o8asS2wf_RsBU7IXkBNN91qx2SA/edit?usp=sharing)
+
+📙 [Ten Ways to Improve Presentations - Dr. Alex Phillips](https://docs.google.com/presentation/d/1ddl9cCrWf8AL0adNmq1y8_WEeAxIyo_RlBnUlTXPqpw/edit?usp=sharing)
+
+<br>
+
+### 🤔 Prepare for Q&A
+
+Next week, we’ll practice answering questions a bit more. 
+
+1. **Review** this [presentation about best practices to answer questions about your presentation](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing).
+
+2. **Identify** 4 - 5 bins that you expect faculty review questions to fall into (e.g. model selection, data management, statistical analyses). Write them down.
+
+3. **Decide** who would be most appropriate to respond to questions in each bin.
+
+4. **Write** down 2 - 3 questions in each bin that you might expect (and/or are afraid of getting) during your faculty review
+
+5. **Prepare**, if necessary, any extra slides you might need during your Q&A
+
+<br>
+
+### 📝 Keep working on...
+
+- Updating your DIP:
+all DIPs need **more details about their methods and main deliverables**
+
+- Getting your **preliminary results or creating a prototype for review**
+
+
+:::{.callout-tip appearance="minimal"}
+## Reminder
+Have you let clients / external advisors / others you want to invite know when your faculty review is? 
+:::
+
+## Next class schedule
+
+**Next class we will be at the Environmental Science Seminar Room 4016.** It's one floor above our usual classroom. 
+
+Again, the class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to other teams as follows:
+
+![](/411a_winter/images/presentations_blocks_2.png)
+
+Your theam should be in our usual classroom working on their project outside of their "presentation block".
