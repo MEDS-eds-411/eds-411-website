@@ -61,11 +61,25 @@ Next week, we’ll practice answering questions a bit more.
 
 ### 📝 Keep working on...
 
-- Updating your DIP:
-all DIPs need **more details about their methods and main deliverables**
+- Updating your DIP. *I might provide some feedback by the end of this week.* 
 
 - Getting your **preliminary results or creating a prototype for review**
 
+
+:::{.callout-warning appearance="minimal"}
+## DIP page limit
+The Design and Implementation plan should be limited to **5-10 single-spaced pages of written text**. This page limit does not include :
+
+- the title page, 
+- table of contents, 
+- budget and justification, 
+- references cited, 
+- timeline and milestones, 
+- the team management plan.
+
+The last two items not counting for the page limit is an update from the current capstone guidelines. 
+
+:::
 
 :::{.callout-tip appearance="minimal"}
 ## Reminder
