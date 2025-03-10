@@ -20,7 +20,7 @@ website:
           - 411a_winter/week6.qmd   
           - 411a_winter/week7.qmd  
           - 411a_winter/week8.qmd                                    
-          # - week10.qmd
+          - 411a_winter/week10.qmd                                    
       - href: office_hours.qmd
         text: Office Hours
 
