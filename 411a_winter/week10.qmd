@@ -7,17 +7,27 @@
 ## Upcoming Capstone Deadlines
 ![](/411a_winter/images/411a_2025_deadlines5.png)
 
+:::{.callout-warning}
+### No need to "Send repository access to CP coordinator"
+
+The previous deadlines outline contained an out-of-date instruction about "Sending repository access to CP coordinator." You don’t need to do anything! We needed it last year, but this year I have the URLs to all your GitHub orgs where you have your project's code. 
+
+Thanks to the groups who brought this to my attention!
+
+Carmen
+:::
+
 ## To do by Friday
 
 ### 📥 Submit Final Design and Implementation Plan
-- Upload it to [Box]() in PDF format with your Capstone Project short name (e.g., Seamissions Design and Implementation Plan.pdf).
+- Upload it to [Box](https://ucsb.app.box.com/f/c37d6e026e1243fd9d331051c5751c4c) in PDF format with your Capstone Project short name (e.g., Seamissions Design and Implementation Plan.pdf).
 - Email to your faculty advisor and client: be professional and thank them for their involvement.
 
 <br>
 
 ### 📥 Submit Peer/Self Evaluation
 - Each student must complete a Capstone Project Peer & Self Evaluation Form for Winter Quarter. 
-- Upload your evaluation form to [Box]() and save your document with your Capstone Project short name and your full name as the file name (e.g., SaferSeafood Carmen Galaz García).
+- Upload your evaluation form to [Box](https://ucsb.app.box.com/f/0dd4b45d2eb1497f922d92a422ff0c13) and save your document with your Capstone Project short name and your full name as the file name (e.g., SaferSeafood Carmen Galaz García).
 - **You must also email your evaluation directly to your faculty advisor.** 
 
 <br>
