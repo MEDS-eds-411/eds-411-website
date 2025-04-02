@@ -1,0 +1,64 @@
+# Week 1
+
+# ✨ Welcome back! ✨
+
+## Materials
+
+📕 [Slides](https://docs.google.com/presentation/d/1QDZMGqhYkSEh5hOXt3ykJRiCf2_GlmUOdJw6FDJNS4M/edit?usp=share_link)
+
+📗 [Capstone Guidelines (updated)](https://drive.google.com/file/d/1uz8WfrL-c8gSVKFmsmXpAijgoIawMy-U/view?usp=share_link)
+
+📘 [Syllabus](https://docs.google.com/document/d/1AKoxetDwUMfaYZi89BTcT3NxgxP6mEMErUSZiRyUPLw/edit?usp=sharing)
+
+## Schedule
+
+1:00 - 2:30 : Overview of:
+
+-  EDS 411B
+- Spring Quarter deliverables
+- Technical Documentation
+- Checklist for next class
+
+2:30 - 2:45: Team Reflections
+
+Dedicated work time & meetings with teams
+
+2:45 - 4:00: Dedicated work time (class dismissed since there’s no internet at Bren)
+
+## Upcoming deadlines
+
+![](/411b_spring/images/411b_2025_deadlines1.png)
+
+## To do by next week
+
+### 📝 Submit Technical Documentation Sections Outline
+
+**Submit by next class (1 PM on Wednesday 4/9).**
+
+Create a single Google doc with the following information:
+
+1. Information for your executive summary about background, motivation, problem statement, objectives, and deliverables. Have each of these as a separate section for this draft 
+
+2. A **detailed list of the sections** (outline) your team will have in their Technical Documentation.
+    - Specify who is the audience for each section or group of sections.
+    - *Discuss this with your advisor.*
+
+2. A **timeline to completion** for your Technical Documentation taking into account the capstone deadlines. Consider making a Gantt chart, but also a list of dates and deliverables is ok.
+    Tips:
+    - If you liked how we split up the DIP by sections per week, try implementing something similar.
+    - Write your executive summary and abstract last, your project might evolve along the quarter.
+
+
+- It’s ok to use your DIP as a starting point. Here’s some  [examples for this assignment](https://drive.google.com/drive/folders/1wsSO4-tMG97xGonh0R8lSnqEYXWB-x43?usp=share_link) for reference.
+
+- Add your document to our [shared folder TD Outlines and Timeline](https://drive.google.com/drive/folders/1wFdkjj4wb6Y-SDn7wiBOrRpD8K_3VF7P?usp=share_link). 
+
+
+### 🗓️ Revise your project timeline
+
+- Revise the timeline you submitted in your DIP: are you on time to complete it? 
+- Revise and discuss your updated timeline with your advisor. 
+- Update your client on any significant changes.
+
+### 🌟 Read the class syllabus
+Please read it and don’t hesitate to contact me if you have any questions!

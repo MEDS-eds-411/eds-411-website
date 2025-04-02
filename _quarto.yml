@@ -11,7 +11,6 @@ website:
       - text: "Winter 411A"
         menu:   
           - 411a_winter/411a_calendars.qmd
-          #- 411a_winter/411a_resources.qmd                
           - 411a_winter/week1.qmd 
           - 411a_winter/week2.qmd      
           - 411a_winter/week3.qmd      
@@ -21,13 +20,14 @@ website:
           - 411a_winter/week7.qmd  
           - 411a_winter/week8.qmd                                    
           - 411a_winter/week10.qmd                                    
-      - href: office_hours.qmd
-        text: Office Hours
 
-      # - text: "Spring 411B"
-      #   menu: 
-      #     - 411b_spring/411b_overview.qmd   
-      #     - 411b_spring/411b_week1.qmd
+      - text: "Spring 411B"
+        menu: 
+          #- 411b_spring/411b_calendars_and_deadlines.qmd   
+          - text: Syllabus
+            href: https://docs.google.com/document/d/1AKoxetDwUMfaYZi89BTcT3NxgxP6mEMErUSZiRyUPLw/edit?usp=sharing
+            target: _blank
+          - 411b_spring/411b_week1.qmd
       #     - 411b_spring/411b_week2.qmd   
       #     - 411b_spring/411b_week3.qmd   
       #     - 411b_spring/411b_week4.qmd   
@@ -36,7 +36,10 @@ website:
       #     - 411b_spring/411b_week7.qmd   
       #     - 411b_spring/411b_week8.qmd  
       #     - 411b_spring/411b_week9.qmd   
-      #     - 411b_spring/411b_resources.qmd       
+      #     - 411b_spring/411b_resources.qmd   
+      
+      - href: office_hours.qmd
+        text: Office Hours          
       
 
 format:
