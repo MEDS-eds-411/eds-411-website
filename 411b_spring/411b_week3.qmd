@@ -1,0 +1,45 @@
+# Week 3
+
+## Materials
+
+📕 [Slides](https://docs.google.com/presentation/d/1_7Wn9zcsBj2eYe5rVqnA-unvNnAZ2FHVqgo6Rihrn-8/edit?usp=sharing)
+
+## Schedule
+
+1:00 - 1:15: Questions & check-in
+
+1:15 - 1:50: Peer feedback of Technical Documentation draft
+
+1:50 - 2:00: Break
+
+2:00 - 2:45: Dedicated work time & meetings with teams
+
+2:45 - 3:00: Break
+
+3:00 - 3:45: Dedicated work time & meetings with teams
+
+3:45 - 4:00: Team reflections
+
+## Upcoming deadlines
+
+![](/411b_spring/images/411b_2025_deadlines1.png)
+
+## To do by next week
+
+### 📥 Submit Technical Documentation Preliminary Draft
+
+**Submit by 5pm on Friday 4/18**
+
+- Send an email to your advisor and me with a link to your Google doc. You can continue working on the document in our [shared folder Week 3 - TD draft](https://drive.google.com/drive/folders/155IaWz1Gw_KtooPyo2MrvbM2IniNCGVb?usp=share_link).
+
+- Make the most out of this revision: it’s great to request specific feedback from your advisor! Is there any section you’d particularly like their input on? Let them know in your message. You can also tag us in comments inside your document.
+
+**For each section:**
+
+1. include as much information as completed to date. Clearly indicated placeholders or bulleted lists are acceptable at this point. 
+2. note the extent to which the section is completed and any remaining obstacles to its completion. 
+
+**As an appendix to the draft:**
+
+1. describe the work to be completed during the remainder of Spring Quarter 
+2. include a timeline for remaining tasks and deliverables.
