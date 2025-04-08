@@ -28,7 +28,7 @@ website:
             href: https://docs.google.com/document/d/1AKoxetDwUMfaYZi89BTcT3NxgxP6mEMErUSZiRyUPLw/edit?usp=sharing
             target: _blank
           - 411b_spring/411b_week1.qmd
-      #     - 411b_spring/411b_week2.qmd   
+          - 411b_spring/411b_week2.qmd   
       #     - 411b_spring/411b_week3.qmd   
       #     - 411b_spring/411b_week4.qmd   
       #     - 411b_spring/411b_week5.qmd   
