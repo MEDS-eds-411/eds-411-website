@@ -4,6 +4,15 @@
 
 📕 [Slides](https://docs.google.com/presentation/d/1Mm8YUpEW-TjPHRXBNwpqPIyDlF3PsMGwTxTxikzL8jY/edit?usp=share_link)
 
+:::{.callout-tip}
+## Past Technical Documentations
+All Technical Documentationsfrom past years are publicly avaialble through the Bren website. I've selected a few good examples from last year that you may want to take a look at:
+
+[2024 Technical Documentations](https://drive.google.com/drive/folders/1zm-ib4Q9yDZD_9k5ouPCiJSv82wp_jaP?usp=share_link)
+
+Please note that the Technical Documentation format has been updated this year, so these examples may have different organization, sections, or depth than what you are expected to produce. However, these teams did a good job explaining their project and you may find their work to be valuable inspiration for yours.
+:::
+
 ## Schedule
 
 1:00 - 1:15: Questions & check-in
