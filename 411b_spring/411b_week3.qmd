@@ -1,5 +1,18 @@
 # Week 3
 
+:::{.callout-caution appearance="minimal"}
+## Next class 1-2:30 PM: Unit Testing Workshop
+
+Workshop led by Sam Shanny-Csik on unit testing for dashboard development. 
+
+- It will cover how to think about testing, regardless of the language. Conceptually, this will be relevant to all teams developing a dashboard. 
+- All examples will be in R using `testthat`, `shiny`, and `shinytest2`.
+
+ **Highly encouraged, but optional!** Discuss with your team whether it is relevant for your project. It’s ok if some team members attend and others don’t. 
+ 
+ **We will also meet in the classroom at 2:30 PM.**
+:::
+
 ## Materials
 
 📕 [Slides](https://docs.google.com/presentation/d/1_7Wn9zcsBj2eYe5rVqnA-unvNnAZ2FHVqgo6Rihrn-8/edit?usp=sharing)
