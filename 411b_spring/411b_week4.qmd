@@ -1,0 +1,50 @@
+# Week 4
+
+## Materials
+
+📕 [Slides](https://docs.google.com/presentation/d/1Z5Mso5iKDJ8Y8v2I_oYarjNjqR4ErDp-J2Zw6XG5YuE/edit?usp=sharing)
+
+📗 [Unit Testing for Web Apps Workshop - 
+Sam Shanny-Csik](https://ucsb-meds.github.io/EDS-296-Intro-to-Shiny/course-materials/slides/part7.2-unit-testing-slides-ABRIDGED.html#/title-slide)
+
+## Schedule
+
+1:00 - ~2:15: Unit Testing Web Apps Workshop - Sam Shanny-Csik
+
+~2:15 - 2:30: Break
+
+2:30 - 2:40: Questions, Check-in, & Upcoming assignments
+
+2:40 - 3:50: Dedicated work time & meetings with teams
+
+3:50 - 4:00: Team Reflection
+
+
+## Upcoming deadlines
+
+![](/411b_spring/images/411b_2025_deadlines2.png)
+
+## To do by next week
+
+### 🌱 Complete Personal Reflection 1
+
+Please complete and share your Personal Reflection 1 with the instructor:
+
+[[TEMPLATE] Personal Reflection 1 – 411B](https://docs.google.com/document/d/1yWDeJ5iI21u_-L9PtmzDQe6NcjhIvXUwOzAM6RG_g_o/edit?usp=sharing)
+
+Detailed instructions are included in the template.
+
+This is an individual assignment. Each person is responsible for submitting their own reflection and making sure the instructor is notified once it’s shared.
+
+**Due by 5 PM on Wednesday, April 28 (before our next class).**
+
+
+### 📝 Update your Techincal Documentation
+
+If you have already received feedback from your advisor:
+
+- discuss feedback with your team
+- start working on updating your draft
+- contact advisors or clients for clarification and reply to comments within the document as needed. Remember to always do your research and discuss with your team first! 
+
+
