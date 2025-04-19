@@ -27,6 +27,7 @@ Sam Shanny-Csik](https://ucsb-meds.github.io/EDS-296-Intro-to-Shiny/course-mater
 ## To do by next week
 
 ### 🌱 Complete Personal Reflection 1
+**Due by 5 PM on Wednesday, April 28.**
 
 Please complete and share your Personal Reflection 1 with the instructor:
 
@@ -36,7 +37,21 @@ Detailed instructions are included in the template.
 
 This is an individual assignment. Each person is responsible for submitting their own reflection and making sure the instructor is notified once it’s shared.
 
-**Due by 5 PM on Wednesday, April 28 (before our next class).**
+
+:::{.callout-important appearance="minimal"}
+Update: Personal Reflection II was moved from week 7 to week 9. It is now due on Wednesday week 10. 
+:::
+
+### 🗂 Update your GitHub org and repositories
+**Due by next class, Wednesday, April 28.**
+
+1. Use [this checklist](https://docs.google.com/document/d/10d9-h8UBC1JwZ08MdxI-WJhxfc7DnUolXjgBV1N-pJA/edit?usp=sharing) to update and clean your GitHub organization, repositories, and files by next class.
+
+2. In [this spreadsheet](https://docs.google.com/spreadsheets/d/16T0eucIDxxn1Yed_7Xqw-ihqmmfJN3G1yHPBtNiTAfk/edit?usp=sharing), confirm this is still the URL for your GitHub organization. 
+
+3. Make sure your code and repositories are public so they can be reviewed next week.
+
+**Next class, we’ll have a round of in-class peer feedback for to review your GitHub files.**
 
 
 ### 📝 Update your Techincal Documentation
