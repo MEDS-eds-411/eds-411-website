@@ -39,9 +39,11 @@ Detailed instructions are included in the template.
 
 This is an individual assignment. Each person is responsible for submitting their own reflection and making sure the instructor is notified once it’s shared.
 
+If you would like to set up a meeting with me (Carmen) to chat about anything, please schedule a [meeting on my calendar](https://calendar.app.google/yP2NbzRsZru6R3DE9).
+If none of these times work for you, send me a Slack message and we can find a time that works.
 
 :::{.callout-important appearance="minimal"}
-Update: Personal Reflection II was moved from week 7 to week 9. It is now due on Wednesday week 10. 
+**Update**: Personal Reflection II was moved from week 7 to week 9. It is now due on Wednesday week 10. 
 :::
 
 ### 🗂 Update your GitHub org and repositories
