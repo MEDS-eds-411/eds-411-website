@@ -1,0 +1,62 @@
+# Week 5
+
+## Materials
+
+📕 [Slides](https://docs.google.com/presentation/d/1k_u1j1tDyUDpRsQEazCP1253oJW8Famft25nMmVN4FY/edit?usp=sharing)
+
+🗂 [In-class Peer Review: GitHub Materials Checklists](https://drive.google.com/drive/folders/1YVhw5943Ob3PuhFM82SQjHY6RN1WvjP9?usp=share_link)
+
+🏛️ [GitHub Organizations List](https://docs.google.com/spreadsheets/d/16T0eucIDxxn1Yed_7Xqw-ihqmmfJN3G1yHPBtNiTAfk/edit?usp=sharing)
+
+💭 [In-class Team Reflections](https://docs.google.com/presentation/d/1GFxVZH9zdJRviDavUqVE1Kt3kw43rTosD-5ygOELcRw/edit?usp=sharing)
+
+## Schedule
+
+1:00 - 1:15: Questions, Check-in, Upcoming Assignments
+
+1:15 - 1:50: Peer feedback of GitHub organization & repositories
+
+1:50 - 2:00: Break
+
+2:00 - 2:45: Dedicated work time & meetings with teams
+
+2:45 - 2:00: Break
+
+3:00 - 3:45: Dedicated work time & meetings with teams
+
+3:45 - 4:00: Team Reflection
+
+
+## Recent & upcoming deadlines
+
+![](/411b_spring/images/411b_2025_deadlines3.png)
+
+## To do by next week
+
+### 📝 Update your Techincal Documentation
+
+Work on updating your Technical Documentation based on your advisor's feedback:
+
+- discuss feedback with your team
+- start working on updating your draft
+- contact advisors or clients for clarification and reply to comments within the document as needed. Remember to always do your research and discuss with your team first! 
+
+### 🗂 Update your GitHub Organization and respositories
+
+- Integrate the peer feedback into your GitHub materials.
+
+- All the items in the [Checklist for MEDS Capstone Projects Organizations and Repository](https://docs.google.com/document/d/10d9-h8UBC1JwZ08MdxI-WJhxfc7DnUolXjgBV1N-pJA/edit?usp=sharing)  must be updated by your submission on week 7. Make sure you integrate anything that was missing!
+
+
+### 💥 Give your project a **big push**
+
+In about 10 days we will start preparing for final presentations. **This is a good time to make a big push towards finishing your final deliverables!**
+
+<!--
+<center>
+<iframe src="https://giphy.com/embed/Ym7JUEUTAyFSTJLc4K" width="350" height="350" frameBorder="0"  allowFullScreen></iframe></center>
+-->
+
+<center>
+![](/411b_spring/images/super_busy_gif.gif){width=35%}
+</center>

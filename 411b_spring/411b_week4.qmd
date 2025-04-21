@@ -7,6 +7,8 @@
 📗 [Unit Testing for Web Apps Workshop - 
 Sam Shanny-Csik](https://ucsb-meds.github.io/EDS-296-Intro-to-Shiny/course-materials/slides/part7.2-unit-testing-slides-ABRIDGED.html#/title-slide)
 
+💭 [In-class Team Reflections](https://docs.google.com/presentation/d/1GFxVZH9zdJRviDavUqVE1Kt3kw43rTosD-5ygOELcRw/edit?usp=sharing)
+
 ## Schedule
 
 1:00 - ~2:15: Unit Testing Web Apps Workshop - Sam Shanny-Csik
