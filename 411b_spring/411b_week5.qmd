@@ -33,7 +33,16 @@
 
 ## To do by next week
 
+### 🖋 Confirm the title for your Capstone Project
+**Due by Friday, May 2 at 5PM.**
+
+The Capstone Coordinator and I are starting to prepare the materials for the MEDS Final Presentations.
+
+Please add the final  title for your capstone project to [this spreadsheet](https://docs.google.com/spreadsheets/d/1S9Bl-dHDRgyZ1mBM4HrO8cxO_0L4D7wnlr1jxtaTeYk/edit?usp=sharing). If your title has not changed, please add add it anyway. 
+
+
 ### 📝 Update your Techincal Documentation
+**Due by Monday, May 12 at 5PM (second and final TD revision).**
 
 Work on updating your Technical Documentation based on your advisor's feedback:
 
@@ -42,13 +51,14 @@ Work on updating your Technical Documentation based on your advisor's feedback:
 - contact advisors or clients for clarification and reply to comments within the document as needed. Remember to always do your research and discuss with your team first! 
 
 ### 🗂 Update your GitHub Organization and respositories
+**Due by Monday, May 12 at 5PM.**
 
 - Integrate the peer feedback into your GitHub materials.
 
 - All the items in the [Checklist for MEDS Capstone Projects Organizations and Repository](https://docs.google.com/document/d/10d9-h8UBC1JwZ08MdxI-WJhxfc7DnUolXjgBV1N-pJA/edit?usp=sharing)  must be updated by your submission on week 7. Make sure you integrate anything that was missing!
 
 
-### 💥 Give your project a **big push**
+### 💥 Give your project a big push
 
 In about 10 days we will start preparing for final presentations. **This is a good time to make a big push towards finishing your final deliverables!**
 
