@@ -1,0 +1,93 @@
+# Week 6
+
+## Materials
+
+📕 [Class Slides]()
+
+📗 [Faculty Review Logistics Slides]()
+
+🎥 (1)[MEDS final presentation recording](https://vimeo.com/brenucsb/review/971009759/a05aa59467) - Improving Access to Fish Consumption Advisories and Maintaining Confidence in California’s Healthy Seafood Products. [Project Website](https://bren.ucsb.edu/projects/improving-access-fish-consumption-advisories-and-maintaining-confidence-californias)
+
+🎥 (2)[MEDS final presentation recording](https://vimeo.com/brenucsb/review/971010502/888fdbeee9) - Identifying Priority Survey Sites for Early-Season Milkweed Conservation [Project Website](https://bren.ucsb.edu/projects/identifying-priority-survey-sites-early-season-milkweed-conservation)
+
+💭 [In-class Team Reflections](https://docs.google.com/presentation/d/1GFxVZH9zdJRviDavUqVE1Kt3kw43rTosD-5ygOELcRw/edit?usp=sharing)
+
+## Schedule
+
+1:00 - 1:05: Questions, Check-in, Upcoming Assignments
+
+1:05 - 1:35: Faculty Review Logistics - Sam Shanny-Csik
+
+1:35 - 2:00: 2023 MEDS capstone final presentation screening
+
+1:50 - 2:00: Break
+
+2:00 - 2:50: Dedicated work time & meetings with teams
+
+2:50 - 2:00: Break
+
+3:00 - 3:50: Dedicated work time & meetings with teams
+
+3:50 - 4:00: Team Reflection
+
+
+## Recent & upcoming deadlines
+
+![](/411b_spring/images/411b_2025_deadlines3.png)
+
+## To do
+
+### 📥 Submit complete draft of TD and project repository
+**When? Due on Monday, May 12 at 5 PM.**
+
+**How? Send links via email to your advisor and casptone instructor.** 
+
+- Incorporate the feedback you’ve received so far for your Technical Documentation and GitHub materials.
+- Send an email to your advisor and casptone instructor with a link to you Google doc and a link to your project’s GitHub organization.
+- Make the most out of this revision: it’s great to request specific feedback from your advisor! Is there any section you’d particularly like their input on? Let them know in your message. You can also tag us in comments inside your document.
+
+### 🎤 Prepare final presentation mock presentation
+**When? Due by next class Wednesday, May 14.**
+
+**How? Add slides to [shared drive](https://drive.google.com/drive/folders/1Tgh93ucbzfrmzLblkZRRHHVfuLDwvhMS?usp=share_link).**
+
+1. Decide who will be presenting in the final public presentation. 
+Remember every person in the team should be ready to present if needed.
+2. Review the [guidelines for your presentation]() covered today
+3. **Prepare a formal mock presentation (14 minutes long) for next Wednesday**
+- Strongly suggest following [Alex’s presentation, point 6](https://docs.google.com/presentation/d/1ddl9cCrWf8AL0adNmq1y8_WEeAxIyo_RlBnUlTXPqpw/edit?usp=sharing) to prepare your slides. 
+- The [presentation design considerations from last quarter](https://docs.google.com/presentation/d/1rMpHTbqVPNEDBZc_o8asS2wf_RsBU7IXkBNN91qx2SA/edit?usp=sharing) still apply.
+- It’s ok if you add stand-in figures for prototypes and results for now.
+- Focus on the story line: this is a public presentation for a general audience. 
+4. Discuss your draft slides with your faculty advisor. 
+5. Add your draft to our [shared drive](https://drive.google.com/drive/folders/1Tgh93ucbzfrmzLblkZRRHHVfuLDwvhMS?usp=share_link) and be ready to do present next week! 
+
+
+### 📝 Submit final abstract and acknowledgements
+**When? Due on Friday, May 16 at 5 PM.**
+
+**How? Send via email to Capstone Coordinator (Jamie Montgomery).**
+
+Abstracts and acknowledgments will be posted to the Bren website on your individual project pages and linked to the digital event program.
+
+**Abstract instructions:**
+
+- The abstract is a one-paragraph brief summary of the Capstone Project, meant for a non-technical audience. The length of the abstract should be roughly 200 words.  It can be the same as the one in your Technical Documentation. 
+- If your project title has changed, please include the new title in the abstract. 
+- Your advisor must approve the final abstract and any title updates before submission.
+
+**Acknowledgments instructions:**
+
+- The acknowledgements should include advisors, professionals, organizations, funding sources, etc. that assisted the Capstone Project. 
+- Each acknowledgment should include the person’s name, title (if known), and affiliation or organization. 
+- You should obtain authorization from each person or party being acknowledged that their names can be included in the abstract. 
+- Be consistent when listing your acknowledgments. You can list several people within an organization. Alphabetical order is preferred if listing several people in the same grouping. 
+    - Example 1: Joan Dudney, Assistant Professor, Bren School 
+    - Example 2: Bren School: Max Czapanskiy, Assistant Teaching Professor; Roland Geyer, Professor; Ruth Oliver, Assistant Professor 
+    - Example 3: The Nature Conservancy: Kelly Easterday, Heather Gately, Moses Katkowski, Diego Ortiz, Dr. Mark Reynolds, and Dr. Rae Wynn-Grant
+
+Tip: You can view Bren faculty titles [here](https://bren.ucsb.edu/people/faculty). Also, if you have an email from someone, you may find their title in their email signature. 
+
+## Schedule for next class
+
+![](/images/411b_spring/mocks1.png)
