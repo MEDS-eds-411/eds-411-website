@@ -35,6 +35,12 @@
 
 ![](/411b_spring/images/411b_2025_deadlines3.png)
 
+## Reminder
+:::{.callout-caution appearance="minimal"}
+## Schedule for class on Week 9, Wednesday, May 28
+Remember that on Week 9 class (Wednesday, May 28) our **class will take place 2-4 at Bren Hall 1414**. Please plan accordingly for this different schedule. 
+:::
+
 ## To do
 
 ### 📥 Submit complete draft of TD and project repository
