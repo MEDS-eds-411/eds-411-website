@@ -2,7 +2,7 @@
 
 ## Materials
 
-📕 [Class Slides]()
+📕 [Class Slides](https://docs.google.com/presentation/d/1We9kp18VcB7RcwmejF9JslT8xMFIlZ31SBJzgkkbSGM/edit?usp=sharing)
 
 📗 [Faculty Review Logistics Slides]()
 
@@ -63,7 +63,7 @@ Remember every person in the team should be ready to present if needed.
 5. Add your draft to our [shared drive](https://drive.google.com/drive/folders/1Tgh93ucbzfrmzLblkZRRHHVfuLDwvhMS?usp=share_link) and be ready to do present next week! 
 
 
-### 📝 Submit final abstract and acknowledgements
+### 📥 Submit final abstract and acknowledgements
 **When? Due on Friday, May 16 at 5 PM.**
 
 **How? Send via email to Capstone Coordinator (Jamie Montgomery).**
@@ -88,6 +88,23 @@ Abstracts and acknowledgments will be posted to the Bren website on your individ
 
 Tip: You can view Bren faculty titles [here](https://bren.ucsb.edu/people/faculty). Also, if you have an email from someone, you may find their title in their email signature. 
 
-## Schedule for next class
+### 📊 Initiate data archival 
 
-![](/images/411b_spring/mocks1.png)
+Friday, May 23 is the final due date to archive your capstone project data. This is an academic requirement. 
+
+Use this week and next to:
+
+1. Discuss with your advisor or client what data (if any) should be archived as part of the project deliverables.
+2. If necessary, make an appointment with the RDS team (rds@library.ucsb.edu) to discuss archival of data associated with your capstone project. 
+
+Before contacting the Library RDS team or archiving your data, please read through the [Archiving and Preserving Your Data](https://ucsb-library-research-data-services.github.io/project-data-management/preserve.html) information by the Library RDS team for detailed guidelines about what to archive and the submission process to Dryad. 
+
+## Next class schedule
+
+The class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to other teams as follows:
+
+![](/411b_spring/images/presentations_blocks_1.png)
+
+Your theam should work on their project outside of their "presentation block". The following rooms are reserved for you so you have a dedicated workspace during our usual class time. You’re welcome to use other places to work. 
+
+![](/411b_spring/images/presentations_rooms_1.png)
