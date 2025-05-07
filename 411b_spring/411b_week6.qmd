@@ -4,7 +4,7 @@
 
 📕 [Class Slides](https://docs.google.com/presentation/d/1We9kp18VcB7RcwmejF9JslT8xMFIlZ31SBJzgkkbSGM/edit?usp=sharing)
 
-📗 [Faculty Review Logistics Slides]()
+📗 [Faculty Review Logistics Slides](https://docs.google.com/presentation/d/1GTzGrQWq1cf2_yVP_IN55A9vbYLtVgNLYVjTn5cqflM/edit?usp=sharing)
 
 🎥 (1)[MEDS final presentation recording](https://vimeo.com/brenucsb/review/971009759/a05aa59467) - Improving Access to Fish Consumption Advisories and Maintaining Confidence in California’s Healthy Seafood Products. [Project Website](https://bren.ucsb.edu/projects/improving-access-fish-consumption-advisories-and-maintaining-confidence-californias)
 
@@ -46,7 +46,7 @@ Remember that on Week 9 class (Wednesday, May 28) our **class will take place 2-
 ### 📥 Submit complete draft of TD and project repository
 **When? Due on Monday, May 12 at 5 PM.**
 
-**How? Send links via email to your advisor and casptone instructor.** 
+**How? Send links to Google Doc and GitHub organization via email to advisor and casptone instructor.** 
 
 - Incorporate the feedback you’ve received so far for your Technical Documentation and GitHub materials.
 - Send an email to your advisor and casptone instructor with a link to you Google doc and a link to your project’s GitHub organization.
@@ -59,7 +59,7 @@ Remember that on Week 9 class (Wednesday, May 28) our **class will take place 2-
 
 1. Decide who will be presenting in the final public presentation. 
 Remember every person in the team should be ready to present if needed.
-2. Review the [guidelines for your presentation]() covered today
+2. Review the [guidelines for your presentation](https://docs.google.com/presentation/d/1GTzGrQWq1cf2_yVP_IN55A9vbYLtVgNLYVjTn5cqflM/edit?usp=sharing) covered today
 3. **Prepare a formal mock presentation (14 minutes long) for next Wednesday**
 - Strongly suggest following [Alex’s presentation, point 6](https://docs.google.com/presentation/d/1ddl9cCrWf8AL0adNmq1y8_WEeAxIyo_RlBnUlTXPqpw/edit?usp=sharing) to prepare your slides. 
 - The [presentation design considerations from last quarter](https://docs.google.com/presentation/d/1rMpHTbqVPNEDBZc_o8asS2wf_RsBU7IXkBNN91qx2SA/edit?usp=sharing) still apply.
