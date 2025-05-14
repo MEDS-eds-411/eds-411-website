@@ -36,6 +36,9 @@ Have you let clients, external advisors, friends or family you want to invite kn
 
 **How? Upload to [this Box folder](https://ucsb.app.box.com/f/56626ceb02e24d94b886c08a262ecf34) as Word (.doc) or Google doc format, not PDF.**
 
+<details>
+<summary>**Instructions**</summary>
+
 Abstracts and acknowledgments will be posted to the Bren website on your individual project pages and linked to the digital event program.
 
 - Upload your abstract and acknowledgments in a single file to [this Box folder](https://ucsb.app.box.com/f/56626ceb02e24d94b886c08a262ecf34).
@@ -59,11 +62,17 @@ Abstracts and acknowledgments will be posted to the Bren website on your individ
     - Example 3: The Nature Conservancy: Kelly Easterday, Heather Gately, Moses Katkowski, Diego Ortiz, Dr. Mark Reynolds, and Dr. Rae Wynn-Grant
 
 Tip: You can view Bren faculty titles [here](https://bren.ucsb.edu/people/faculty). Also, if you have an email from someone, you may find their title in their email signature.
+</details>
+
+<br>
 
 ### 🎤 Prepare mock presentation and Q&A 
 **When? Due by next class Wednesday, May 14.**
 
 **How? Add slides to [shared drive](https://drive.google.com/drive/folders/13w2pizodM_M5w1MwDHjmZUn_5hm0M_Hu?usp=share_link).**
+
+<details>
+<summary>**Instructions**</summary>
 
 - Assess or incorporate the feedback you received today and streamline your presentation. Iterate with your faculty advisor, TA, instructor, as needed. 
 - You got this! Practice is everything!
@@ -77,6 +86,9 @@ In addition, next week you’ll practice answering questions a bit more. Questio
 - **Prepare**, if necessary, any extra slides you might need during your Q&A.
 
 Make your best effort so that everyone in your team gets a chance to answer something.  Specially the team members who are not presenting. 
+</details>
+
+<br>
 
 ### 📊 Complete data archival 
 
@@ -84,6 +96,8 @@ Make your best effort so that everyone in your team gets a chance to answer some
 
 **How? Submit data's DOI or explain why there is no data archival using [this Google form](https://forms.gle/yGoKVjNgUR69D3XP9).**
 
+<details>
+<summary>**Instructions**</summary>
 Friday, May 23 is the final due date to archive your capstone project data. This is an academic requirement. 
 
 Use this week and next to:
@@ -94,6 +108,9 @@ Use this week and next to:
 4. 
 
 When you submit data to Dryad (recommended repository) the data archival process won’t be complete yet, as your submission might need to be revised. However, you will get a DOI associated with your data. **To fulfill the data archival requirement, you must [submit your data’s DOI](https://forms.gle/yGoKVjNgUR69D3XP9) by Friday, May 23. If you are not archiving any data related to your capstone project, you must briefly explain why that is the case.**
+</details>
+
+<br>
 
 ### 💥 Keep implementing your project!
 <center>
@@ -108,3 +125,4 @@ The class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00.
 Your theam should work on their project outside of their "presentation block". The following rooms are reserved for you so you have a dedicated workspace during our usual class time. You’re welcome to use other places to work. 
 
 ![](/411b_spring/images/presentations_rooms_2.png)
+
