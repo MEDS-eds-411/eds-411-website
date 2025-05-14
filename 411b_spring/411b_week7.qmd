@@ -12,37 +12,99 @@
 
 ## Schedule
 
-![]()
+The class will be divided in two blocks from 1:10 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to other teams as follows:
+
+![](/411b_spring/images/presentations_blocks_1.png)
+
+Your theam should work on their project outside of their "presentation block". The following rooms are reserved for you so you have a dedicated workspace during our usual class time. You’re welcome to use other places to work. 
+
+![](/411b_spring/images/presentations_rooms_1.png)
 
 ## Upcoming deadlines
 
-![]()
+![](/411b_spring/images/411b_2025_deadlines4.png)
 
 ::: {.callout-tip}
-## Reminder about inviting advisors 
+## Reminder
 Have you let clients, external advisors, friends or family you want to invite know when your final presentation is? 
-
 :::
 
 ## To do by next week
 
-### 1. Keep working on you capstone deliverables!
+### 📥 Submit final abstract and acknowledgements
+**When? Due on Friday, May 16 at 5 PM.**
 
-### 2. Submit abstract and acknowledgements
+**How? Upload to [this Box folder](https://ucsb.app.box.com/f/56626ceb02e24d94b886c08a262ecf34) as Word (.doc) or Google doc format, not PDF.**
 
-The abstract and acknowledgements are due this Friday, May 17.
+Abstracts and acknowledgments will be posted to the Bren website on your individual project pages and linked to the digital event program.
 
-### 3. Prepare data archival
-Ideally, this process is already underway. If not, start working on this ASAP.  Please refer to class slides for details.
+- Upload your abstract and acknowledgments in a single file to [this Box folder](https://ucsb.app.box.com/f/56626ceb02e24d94b886c08a262ecf34).
+- Include your group name in the file name.
+- Word (.doc) or Google doc format preferred, not PDF (must be copy & paste-able).
 
-### 4. Prepare mock presentation 2.0
+**Abstract instructions:**
 
-- Incorporate the feedback you received today and streamline your presentation
-- Prepare for Q&A (check class slides)
-- Iterate with your faculty advisor
-- Schedule practice presentations or feedback sessions with Allie
+- The abstract is a one-paragraph brief summary of the Capstone Project, meant for a non-technical audience. The length of the abstract should be roughly 200 words.  It can be the same as the one in your Technical Documentation. 
+- If your project title has changed, please include the new title in the abstract. 
+- Your advisor must approve the final abstract and any title updates before submission.
+
+**Acknowledgments instructions:**
+
+- The acknowledgements should include advisors, professionals, organizations, funding sources, etc. that assisted the Capstone Project. 
+- Each acknowledgment should include the person’s name, title (if known), and affiliation or organization. 
+- You should obtain authorization from each person or party being acknowledged that their names can be included in the abstract. 
+- Be consistent when listing your acknowledgments. You can list several people within an organization. Alphabetical order is preferred if listing several people in the same grouping. 
+    - Example 1: Joan Dudney, Assistant Professor, Bren School 
+    - Example 2: Bren School: Max Czapanskiy, Assistant Teaching Professor; Roland Geyer, Professor; Ruth Oliver, Assistant Professor 
+    - Example 3: The Nature Conservancy: Kelly Easterday, Heather Gately, Moses Katkowski, Diego Ortiz, Dr. Mark Reynolds, and Dr. Rae Wynn-Grant
+
+Tip: You can view Bren faculty titles [here](https://bren.ucsb.edu/people/faculty). Also, if you have an email from someone, you may find their title in their email signature.
+
+### 🎤 Prepare mock presentation and Q&A 
+**When? Due by next class Wednesday, May 14.**
+
+**How? Add slides to [shared drive](https://drive.google.com/drive/folders/13w2pizodM_M5w1MwDHjmZUn_5hm0M_Hu?usp=share_link).**
+
+- Assess or incorporate the feedback you received today and streamline your presentation. Iterate with your faculty advisor, TA, instructor, as needed. 
 - You got this! Practice is everything!
 
+In addition, next week you’ll practice answering questions a bit more. Questions during final presentations don’t tend to be as technical as questions during faculty reviews, but you should still be ready to answer about any details in your project.
+
+- **Review** this [presentation about best practices to answer questions](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing). Especially the “dos” and “don'ts”
+- **Identify** 4 - 5 bins that you expect questions to fall into (e.g. data management, statistical analyses, working with a client). Write them down.
+- **Brainstorm** who would be most appropriate to respond to questions in each bin.
+- **Write down** 2 - 3 questions in each bin that you might expect (and/or are nervous of getting) during your presentation
+- **Prepare**, if necessary, any extra slides you might need during your Q&A.
+
+Make your best effort so that everyone in your team gets a chance to answer something.  Specially the team members who are not presenting. 
+
+### 📊 Complete data archival 
+
+**When? Due on Friday, May 23 at 5 PM.**
+
+**How? Submit data's DOI or explain why there is no data archival using [this Google form](https://forms.gle/yGoKVjNgUR69D3XP9).**
+
+Friday, May 23 is the final due date to archive your capstone project data. This is an academic requirement. 
+
+Use this week and next to:
+
+1. Discuss with your advisor or client what data (if any) should be archived as part of the project deliverables.
+2. Read through the [Archiving and Preserving Your Data](https://ucsb-library-research-data-services.github.io/project-data-management/preserve.html) information by the Library RDS team for detailed guidelines about what to archive and the submission process to Dryad. 
+3. If necessary, make an appointment with the RDS team (rds@library.ucsb.edu) to discuss archival of data associated with your capstone project. 
+4. 
+
+When you submit data to Dryad (recommended repository) the data archival process won’t be complete yet, as your submission might need to be revised. However, you will get a DOI associated with your data. **To fulfill the data archival requirement, you must [submit your data’s DOI](https://forms.gle/yGoKVjNgUR69D3XP9) by Friday, May 23. If you are not archiving any data related to your capstone project, you must briefly explain why that is the case.**
+
+### 💥 Keep implementing your project!
+<center>
+![](/411b_spring/images/coding.gif){width=35%}
+</center>
 
 ## Schedule for next class
-![]()
+The class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to other teams as follows:
+
+![](/411b_spring/images/presentations_blocks_2.png)
+
+Your theam should work on their project outside of their "presentation block". The following rooms are reserved for you so you have a dedicated workspace during our usual class time. You’re welcome to use other places to work. 
+
+![](/411b_spring/images/presentations_rooms_2.png)
