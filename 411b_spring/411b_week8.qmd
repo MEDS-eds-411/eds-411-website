@@ -1,0 +1,111 @@
+# Week 8
+
+## Materials
+
+📕 [Class slides](https://docs.google.com/presentation/d/1I_D_K3XhmCsvxjxRsw3IY1UhcQEtFtcSkGkOvYEyg2I/edit?usp=sharing)
+
+🔄 [Feedback grid for Block 1](https://docs.google.com/spreadsheets/d/1RMiqhIX0HoIu0j8FInnopLKkJ9WD5BI2_pmcABapuIQ/edit?usp=sharing)
+
+🔄 [Feedback grid for Block 2](https://docs.google.com/spreadsheets/d/1VYVt12BbB6Cu2wq41wBwHvSiWB4AUwpwL4_I1SJuEJ0/edit?usp=sharing)
+
+📗 [Responding to questions slides - Dr. Allison Horst](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing)
+
+📗 [Faculty Review Logistics Slides](https://docs.google.com/presentation/d/1GTzGrQWq1cf2_yVP_IN55A9vbYLtVgNLYVjTn5cqflM/edit?usp=sharing)
+
+## Schedule
+
+The class will be divided in two blocks from 1:10 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to other teams as follows:
+
+![](/411b_spring/images/presentations_blocks_2.png)
+
+Your theam should work on their project outside of their "presentation block". The following rooms are reserved for you so you have a dedicated workspace during our usual class time. You’re welcome to use other places to work. 
+
+![](/411b_spring/images/presentations_rooms_2.png)
+
+## Upcoming deadlines
+
+![](/411b_spring/images/411b_2025_deadlines5.png)
+
+
+## To do by next week
+
+### 📊 Complete data archival 
+
+**When? Due on Friday, May 23 at 5 PM.**
+
+**How? Submit data's DOI or explain why there is no data archival using [this Google form](https://forms.gle/yGoKVjNgUR69D3XP9).**
+
+<details>
+<summary>**Instructions**</summary>
+Friday, May 23 is the final due date to archive your capstone project data. This is an academic requirement. 
+
+Use this week and next to:
+
+1. Discuss with your advisor or client what data (if any) should be archived as part of the project deliverables.
+2. Read through the [Archiving and Preserving Your Data](https://ucsb-library-research-data-services.github.io/project-data-management/preserve.html) information by the Library RDS team for detailed guidelines about what to archive and the submission process to Dryad. 
+3. If necessary, make an appointment with the RDS team (rds@library.ucsb.edu) to discuss archival of data associated with your capstone project. 
+4. 
+
+When you submit data to Dryad (recommended repository) the data archival process won’t be complete yet, as your submission might need to be revised. However, you will get a DOI associated with your data. **To fulfill the data archival requirement, you must [submit your data’s DOI](https://forms.gle/yGoKVjNgUR69D3XP9) by Friday, May 23. If you are not archiving any data related to your capstone project, you must briefly explain why that is the case.**
+</details>
+
+<br>
+
+### 💬 Submit editable file of closed captioning script
+
+**When? Due on Sunday, May 25 at midnight.**
+
+**How? Upload as a Word (.doc) to [this Box folder](https://ucsb.app.box.com/f/9acee047302e4ccbadf8be8a6b78d262). Not PDF.**
+
+<details>
+<summary>**Instructions**</summary>
+- Don’t need to create a script but submit it if you have one; outline or working notes are fine
+- Provide as much information as possible about what you will be saying in your presentation to assist the live closed captioner and increase caption accuracy
+- All proper names and technical words at minimum, but more detail is helpful
+- Word (.doc) format preferred, **not PDF**, can even be slide notes (must be editable text)
+- Upload [this Box folder](https://ucsb.app.box.com/f/9acee047302e4ccbadf8be8a6b78d262) no later than Sunday, May 25 midnight.
+</details>
+
+<br>
+
+### 🎤 Prepare final presentation and Q&A 
+
+**When? Due by next class Wednesday, May 28.**
+
+**How? Add slides to [shared drive](https://drive.google.com/drive/folders/10PdjZwq0sI8EzUcxd4G3hLcCuYCw6bq8?usp=share_link).**
+
+<details>
+<summary>**Instructions**</summary>
+
+- Incorporate the feedback you received today and streamline your presentation
+- *Practice at least once with your faculty advisor*
+- Prepare for Q&A (check class slides!!!)
+- Schedule extra practice presentations or feedback sessions with TA or instructor
+- You got this! 
+
+</details>
+
+<br>
+
+### 🧰 Update Technical Documentation and clean repositories
+**When? Due last day of quarter, Friday June 6.**
+
+<details>
+<summary>**Instructions**</summary>
+- Discuss feedback with your team
+- Start working on updating your TD and repositories
+- Contact advisors or clients for clarification and reply to comments within the document as needed. 
+- Update GitHub repositories 
+- Final versions due in two weeks! 
+</details>
+
+<br>
+
+### 💥 Keep implementing your project!
+<center>
+![](/411b_spring/images/coding.gif){width=35%}
+</center>
+
+
+## Schedule for next class
+![](/411b_spring/images/presentations_blocks_3.png)
