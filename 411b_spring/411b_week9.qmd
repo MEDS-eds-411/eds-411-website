@@ -1,0 +1,52 @@
+# Week 9
+
+## Materials
+
+📕 [Class slides](https://docs.google.com/presentation/d/1pjTNTTAkcbMCKcOW-ih96m8q7emYI4Pvb6AoDJpTz5o/edit?usp=sharing)
+
+🔄 [Questions grid for Block 1]()
+
+🔄 [Questions grid for Block 2]()
+
+📗 [Answering questions slides - Dr. Alex Phillips (ESM 438 materials)](https://docs.google.com/presentation/d/16jORzWr-3fYxEVkQmozTHbKKCiUcuKhbX6J7Y1qnQEw/edit?slide=id.g3393906af1c_0_688#slide=id.g3393906af1c_0_688)
+
+📗 [Faculty Review Logistics slides](https://docs.google.com/presentation/d/1GTzGrQWq1cf2_yVP_IN55A9vbYLtVgNLYVjTn5cqflM/edit?usp=sharing)
+
+## Schedule
+
+![](/411b_spring/images/presentations_blocks_3.png)
+
+## Upcoming deadlines
+
+![](/411b_spring/images/411b_2025_deadlines6.png)
+
+
+## To do by next week
+### 📃 Update and submit final Technical Documentation and GitHub repository
+
+**When? Due on Monday, June 2 at 5 PM.**
+
+**How? Send an email with a link to your final TD and GitHub repo to you advisor and instructor. Send DocuSign to collect signatures for TD signature page.**
+
+- Finish updating your TD and repositories
+- Designate an editor in your team who will read the whole document and give it cohesion. Editor, be on the lookout for:
+    - Inconsistent spelling (ex: github, GitHub, gitHub)
+    - Inconsistent terms (ex: app, dashboard, interactive dashboard, etc)
+- Request approval and signatures from advisor and instructor. Advisor must sign first. The easiest way to do this is collect it via DocuSign.
+
+
+<br>
+
+### 🌱 Complete Personal Reflection 2
+**When? Due on Wednesday, June 4 at 5 PM.**
+
+**How? Share document or send via email to instructor (detailed instructions in the template).**
+Please complete and share your Personal Reflection 2 with the instructor:
+
+[[TEMPLATE] Personal Reflection 2 – 411B](https://docs.google.com/document/d/1kZvkDdX1syY6bKxbNKnaDtkfHZ2JY_zD7HelEkvwfyo/edit?usp=share_link)
+
+Detailed instructions are included in the template.
+
+This is an individual assignment. Each person is responsible for submitting their own reflection and making sure the instructor is notified once it’s shared.
+
+If you would like to set up a meeting with me (Carmen) to chat about anything, please message me and we can find a time that works.
