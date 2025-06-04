@@ -36,7 +36,7 @@ website:
           - 411b_spring/411b_week7.qmd   
           - 411b_spring/411b_week8.qmd  
           - 411b_spring/411b_week9.qmd   
-      #     - 411b_spring/411b_resources.qmd   
+          - 411b_spring/411b_week10.qmd   
       
       - href: office_hours.qmd
         text: Office Hours          

@@ -1,0 +1,77 @@
+# Week 10
+
+## Materials
+
+📕 [Class slides](https://docs.google.com/presentation/d/1gGLS3jzgc0AGBM6ktiJsKK7C5b8buPxiNIeZokrgY_Q/edit?usp=sharing)
+
+📗 [MEDS Computational Server Offboarding](https://docs.google.com/presentation/d/1hA1uWbd2hh_yjHhSmQOUlzkHbWBMGPXYxES_vXG53Hc/edit?slide=id.g35e6e6f2d1d_0_5#slide=id.g35e6e6f2d1d_0_5)
+
+## Surveys
+
+🗂 [UCSB Course Evaluation](https://ucsb.bluera.com/ucsb)
+
+🗂 [Internal Course Survey](https://docs.google.com/forms/d/e/1FAIpQLSefV4zsK_ME85Dbled1o6xZTZHgRcSKUGEsozbYxov5kpkFYQ/viewform?usp=header)
+
+🗂 [Capstone Advisor Evaluation](https://ucsb.co1.qualtrics.com/jfe/form/SV_eFkt8W8NC512s2W)
+
+## Schedule
+
+1:00 - 1:15 : Final Presentations Check-in
+
+1:15 - 1:30 : Remaining deadlines
+
+1:30 - 2:00 : GitHub releases
+
+2:00 - 2:30 : Secure Copy Protocol (SCP) demo -  Kat Le, Bren School
+
+2:30 - 2:50 : Capstone Wrap-up: individual and team reflection
+
+2:50 - 4:00 : Pizza and surveys! 🍕😋
+
+
+## Upcoming deadlines
+
+![](/411b_spring/images/411b_2025_deadlines7.png)
+
+## To do by Friday, June 6
+
+### 🗂 Complete Faculty Advisor Evaluation and Course Surveys
+
+**When? Due on Friday, June 6 at 5 PM.**
+
+**How? Just complete the surveys through the links.**
+
+Thank you completing these! Your feedback really helps to improve the capstone courses!
+
+1. [UCSB Course Evaluation](https://ucsb.bluera.com/ucsb)
+
+2. [Internal Course Survey](https://docs.google.com/forms/d/e/1FAIpQLSc5ytdKeI0vduJyZMYPBHBsxSi1-ct6su6KyQ22U0jf9688hA/viewform?usp=pp_url)
+
+3. [Capstone Advisor Evaluation](https://ucsb.co1.qualtrics.com/jfe/form/SV_eFkt8W8NC512s2W)
+
+The Capstone Advisor Evaluation is part of your MEDS academic final deliverables.
+
+### 📥 Submit final Technical Documentation and GitHub repository
+
+**When? Due on Friday, June 6 at 5 PM.**
+
+**How? [Upload files to Box](https://ucsb.app.box.com/f/3825d6797ae94eb3bf50e94bb0bbe1cb).**
+
+- Your faculty advisor must have approved it and signed before submitting it.
+- Collect signature from your advisor (first), then me. DocuSign might be the easiest way to do this.
+- You will need to upload two *separate* files for your TD:
+    1. The final version of your TD with a blank signature page in PDF format with your Capstone Project short name 
+    2. The signature page in PDF format.
+
+### 📥  Submit Peer/Self Evaluation
+**When? Due on Friday, June 6 at 5 PM.**
+
+**How? [Upload file to Box](https://ucsb.app.box.com/f/894684b7664a4a018f3caee42d067139).**
+
+- Each student must complete a [Capstone Project Peer & Self Evaluation Form](https://bren.ucsb.edu/media/3922) for Winter Quarter. 
+- Upload your evaluation form to Box and save your document with your Capstone Project short name and your full name as the file name (e.g., SaferSeafood Emily Case).
+- You must also email your peer evaluation directly to your faculty advisor. 
+
+## Congratulations on Finishing Your Capstone Projects!
+
+![](/411b_spring/images/commencement.png)
