@@ -158,7 +158,7 @@
     "href": "index.html",
     "title": "EDS 411: MEDS Capstone Courses",
     "section": "",
-    "text": "Welcome to the course materials for MEDS Capstone Courses EDS 411A and EDS 411B! This course sequence is part of the UCSB Masters in Environmental Data Science at the Bren School of Environmental Science and Mananagement.\nIn this website you will find the materials covered during lectures for the 2024 Winter and Spring terms. This site will be under construction throughout the course.\n\n\nThe goal of MEDS Capstone Courses EDS 411A and EDS 411B is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, these courses provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution).\n\n\n\nCarmen Galaz García (she/her/hers)\nE-mail: c_galazgarcia@ucsb.edu\nBest way to contact me: e-mail / Slack\n\n\n\nAllie Caughman (she/her/hers)\nE-mail: acaughman@bren.ucsb.edu\nBest way to contact me: e-mail / Slack"
+    "text": "Welcome to the course materials for MEDS Capstone Courses EDS 411A and EDS 411B! This course sequence is part of the UCSB Masters in Environmental Data Science at the Bren School of Environmental Science and Mananagement.\nIn this website you will find the materials covered during lectures for the 2024 Winter and Spring terms.\n\n\nThe goal of MEDS Capstone Courses EDS 411A and EDS 411B is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, these courses provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution).\n\n\n\n\n\n\nCarmen Galaz García (she/her/hers)\nE-mail: c_galazgarcia@ucsb.edu\nBest way to contact me: e-mail / Slack\n\n\n\nAllie Caughman (she/her/hers)\nE-mail: acaughman@bren.ucsb.edu\nBest way to contact me: e-mail / Slack"
   },
   {
     "objectID": "index.html#about",
@@ -168,18 +168,11 @@
     "text": "The goal of MEDS Capstone Courses EDS 411A and EDS 411B is to facilitate student learning, work, and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, these courses provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations, team science, panel discussions, and conflict resolution)."
   },
   {
-    "objectID": "index.html#instructor",
-    "href": "index.html#instructor",
+    "objectID": "index.html#teaching-team",
+    "href": "index.html#teaching-team",
     "title": "EDS 411: MEDS Capstone Courses",
     "section": "",
-    "text": "Carmen Galaz García (she/her/hers)\nE-mail: c_galazgarcia@ucsb.edu\nBest way to contact me: e-mail / Slack"
-  },
-  {
-    "objectID": "index.html#ta",
-    "href": "index.html#ta",
-    "title": "EDS 411: MEDS Capstone Courses",
-    "section": "",
-    "text": "Allie Caughman (she/her/hers)\nE-mail: acaughman@bren.ucsb.edu\nBest way to contact me: e-mail / Slack"
+    "text": "Carmen Galaz García (she/her/hers)\nE-mail: c_galazgarcia@ucsb.edu\nBest way to contact me: e-mail / Slack\n\n\n\nAllie Caughman (she/her/hers)\nE-mail: acaughman@bren.ucsb.edu\nBest way to contact me: e-mail / Slack"
   },
   {
     "objectID": "411a_winter/week10.html",
@@ -543,42 +536,35 @@
     "href": "411a_winter/411a_calendars.html",
     "title": "Calendars",
     "section": "",
-    "text": "Activities may be subject to change.\n\n\n\n\n\n\n\nDIP section\nCovered in class on\n1st draft due on\n\n\n\n\nTitle Page\n-\nWeek 5 - Feb 7 1\n\n\nProject Summary\nWeek 1 - Jan 8\nWeek 2 - Feb 17\n\n\nObjectives\nWeek 2 - Jan 15\nWeek 3 - Jan 21\n\n\nDeliverables\nWeek 2 - Jan 15\nWeek 3 - Jan 21\n\n\nSolution Design\nWeek 3 - Jan 22\nWeek 4 - Jan 28\n\n\nData Management Plan\nWeek 4 - Jan 29\nWeek 5 - Feb 4\n\n\nDocumentation Plan\nWeek 4 - Jan 22\nWeek 5 - Feb 4\n\n\nTimeline and Milestones\nWeek 3 - Jan 22\nWeek 4 - Jan 28\n\n\nTeam Management Plan\nWeek 2 - Jan 15\nWeek 3 - Jan 21\n\n\nBudget and Budget Justification\n-\nWeek 5 - Feb 7 2\n\n\nReferences\n-\nWeek 5 - Feb 7\n\n\n\n\nUse the template in the Capstone Guidelines.\nSee PROJECT BUDGET and DIP Budget and Budget Justification sections in Capstone Guidelines"
-  },
-  {
-    "objectID": "411a_winter/411a_calendars.html#course-activities",
-    "href": "411a_winter/411a_calendars.html#course-activities",
-    "title": "Calendars",
-    "section": "",
-    "text": "Activities may be subject to change."
+    "text": "DIP section\nCovered in class on\n1st draft due on\n\n\n\n\nTitle Page\n-\nWeek 5 - Feb 6 1\n\n\nProject Summary\nWeek 1\nWeek 2 - Feb 16\n\n\nObjectives\nWeek 2\nWeek 3 - Jan 19\n\n\nDeliverables\nWeek 2\nWeek 3 - Jan 19\n\n\nSolution Design\nWeek 3\nWeek 4 - Jan 26\n\n\nData Management Plan\nWeek 3\nWeek 5 - Feb 6\n\n\nTimeline and Milestones\nWeek 3\nWeek 4 - Jan 26\n\n\nTeam Management Plan\nWeek 2\nWeek 3 - Jan 19\n\n\nBudget and Budget Justification\n-\nWeek 5 - Feb 6 2\n\n\nReferences\n-\nWeek 5 - Feb 6\n\n\n\n\nUse the template in the Capstone Guidelines.\nSee PROJECT BUDGET and DIP Budget and Budget Justification sections in Capstone Guidelines"
   },
   {
     "objectID": "411a_winter/411a_calendars.html#roadmap-to-dip-draft-submission",
     "href": "411a_winter/411a_calendars.html#roadmap-to-dip-draft-submission",
     "title": "Calendars",
     "section": "",
-    "text": "DIP section\nCovered in class on\n1st draft due on\n\n\n\n\nTitle Page\n-\nWeek 5 - Feb 7 1\n\n\nProject Summary\nWeek 1 - Jan 8\nWeek 2 - Feb 17\n\n\nObjectives\nWeek 2 - Jan 15\nWeek 3 - Jan 21\n\n\nDeliverables\nWeek 2 - Jan 15\nWeek 3 - Jan 21\n\n\nSolution Design\nWeek 3 - Jan 22\nWeek 4 - Jan 28\n\n\nData Management Plan\nWeek 4 - Jan 29\nWeek 5 - Feb 4\n\n\nDocumentation Plan\nWeek 4 - Jan 22\nWeek 5 - Feb 4\n\n\nTimeline and Milestones\nWeek 3 - Jan 22\nWeek 4 - Jan 28\n\n\nTeam Management Plan\nWeek 2 - Jan 15\nWeek 3 - Jan 21\n\n\nBudget and Budget Justification\n-\nWeek 5 - Feb 7 2\n\n\nReferences\n-\nWeek 5 - Feb 7\n\n\n\n\nUse the template in the Capstone Guidelines.\nSee PROJECT BUDGET and DIP Budget and Budget Justification sections in Capstone Guidelines"
+    "text": "DIP section\nCovered in class on\n1st draft due on\n\n\n\n\nTitle Page\n-\nWeek 5 - Feb 6 1\n\n\nProject Summary\nWeek 1\nWeek 2 - Feb 16\n\n\nObjectives\nWeek 2\nWeek 3 - Jan 19\n\n\nDeliverables\nWeek 2\nWeek 3 - Jan 19\n\n\nSolution Design\nWeek 3\nWeek 4 - Jan 26\n\n\nData Management Plan\nWeek 3\nWeek 5 - Feb 6\n\n\nTimeline and Milestones\nWeek 3\nWeek 4 - Jan 26\n\n\nTeam Management Plan\nWeek 2\nWeek 3 - Jan 19\n\n\nBudget and Budget Justification\n-\nWeek 5 - Feb 6 2\n\n\nReferences\n-\nWeek 5 - Feb 6\n\n\n\n\nUse the template in the Capstone Guidelines.\nSee PROJECT BUDGET and DIP Budget and Budget Justification sections in Capstone Guidelines"
   },
   {
     "objectID": "office_hours.html",
     "href": "office_hours.html",
-    "title": "Office Hours",
+    "title": "Student Hours",
     "section": "",
-    "text": "When: By appointment\nWhere: Carmen’s office (Bren Hall 4024) or Zoom\nI’m here to help! Office hours are by appointment—just send me a message via email or Slack, and we’ll find a time that works for you or your team. Supporting each student and team with their capstone project is a top priority, so don’t hesitate to reach out. Looking forward to working with you!\nContact: e-mail (c_galazgarcia@ucsb.edu) or Slack\n\n\n\n\nWhen: Mondays 9am-12pm, Tuesdays 2pm-5pm.\nWhere: Sandy’s office (Bren Hall 3017) or Zoom\nOur class TA, Sandy Sum, is here to help!\nUse this calendar to schedule a time that works for you.\n\nBefore your appointment, please fill out this form to share your question or problem.\nEach team can book up to 45 minutes per week using the link above.\nAppointments are available in 15-minute slots throughout the quarter.\nAppointments outside of these times may be requested.\nDrop by for quick questions—just double-check that Sandy isn’t already in a scheduled appointment.\n\nContact: e-mail (sandysum@ucsb.edu) or Slack"
+    "text": "When: By appointment\nWhere: Carmen’s office (Bren Hall 4024) or Zoom\nI’m here to help! Office hours are by appointment—just send me a message via email or Slack, and we’ll find a time that works for you or your team. Supporting each student and team with their capstone project is a top priority, so don’t hesitate to reach out. Looking forward to working with you!\nContact: e-mail (c_galazgarcia@ucsb.edu) or Slack\n\n\n\n\nWhen: Tuesday and Thursday, 2 pm - 5 pm\nWhere: Allie’s office (Bren Hall 3313) or Zoom\nOur class TA, Allie Caughman, is here to help!\nUse this calendar to schedule a time that works for you.\n\nBefore your appointment, please fill out this form to share your question or problem.\nEach team can book up to 45 minutes per week using the link above.\nAppointments are available in 15-minute slots throughout the quarter.\nAppointments outside of these times may be requested.\nDrop by for quick questions—just double-check that Sandy isn’t already in a scheduled appointment.\n\nContact: e-mail (acaughman@bren.ucsb.edu) or Slack"
   },
   {
-    "objectID": "office_hours.html#instructor-office-hours",
-    "href": "office_hours.html#instructor-office-hours",
-    "title": "Office Hours",
+    "objectID": "office_hours.html#instructor-student-hours",
+    "href": "office_hours.html#instructor-student-hours",
+    "title": "Student Hours",
     "section": "",
     "text": "When: By appointment\nWhere: Carmen’s office (Bren Hall 4024) or Zoom\nI’m here to help! Office hours are by appointment—just send me a message via email or Slack, and we’ll find a time that works for you or your team. Supporting each student and team with their capstone project is a top priority, so don’t hesitate to reach out. Looking forward to working with you!\nContact: e-mail (c_galazgarcia@ucsb.edu) or Slack"
   },
   {
-    "objectID": "office_hours.html#ta-office-hours",
-    "href": "office_hours.html#ta-office-hours",
-    "title": "Office Hours",
+    "objectID": "office_hours.html#ta-student-hours",
+    "href": "office_hours.html#ta-student-hours",
+    "title": "Student Hours",
     "section": "",
-    "text": "When: Mondays 9am-12pm, Tuesdays 2pm-5pm.\nWhere: Sandy’s office (Bren Hall 3017) or Zoom\nOur class TA, Sandy Sum, is here to help!\nUse this calendar to schedule a time that works for you.\n\nBefore your appointment, please fill out this form to share your question or problem.\nEach team can book up to 45 minutes per week using the link above.\nAppointments are available in 15-minute slots throughout the quarter.\nAppointments outside of these times may be requested.\nDrop by for quick questions—just double-check that Sandy isn’t already in a scheduled appointment.\n\nContact: e-mail (sandysum@ucsb.edu) or Slack"
+    "text": "When: Tuesday and Thursday, 2 pm - 5 pm\nWhere: Allie’s office (Bren Hall 3313) or Zoom\nOur class TA, Allie Caughman, is here to help!\nUse this calendar to schedule a time that works for you.\n\nBefore your appointment, please fill out this form to share your question or problem.\nEach team can book up to 45 minutes per week using the link above.\nAppointments are available in 15-minute slots throughout the quarter.\nAppointments outside of these times may be requested.\nDrop by for quick questions—just double-check that Sandy isn’t already in a scheduled appointment.\n\nContact: e-mail (acaughman@bren.ucsb.edu) or Slack"
   },
   {
     "objectID": "411b_spring/411b_week3.html",
