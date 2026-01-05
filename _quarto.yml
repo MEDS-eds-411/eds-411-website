@@ -8,18 +8,25 @@ website:
     left:
       - href: index.qmd
         text: Home
+
+      - text: Capstone Guidelines
+        href: https://bren.ucsb.edu/sites/default/files/Capstone%20Project%20Guidelines%20MEDS%202026.pdf
+        target: _blank 
       - text: "Winter 411A"
         menu:   
+          - text: Syllabus
+            href: https://docs.google.com/document/d/1LLTRDEoQZcwMq2pO05AhvCiyG0uigxl2If1VM5lJrCw/edit?usp=sharing
+            target: _blank          
           - 411a_winter/411a_calendars.qmd
           - 411a_winter/week1.qmd 
-          - 411a_winter/week2.qmd      
-          - 411a_winter/week3.qmd      
-          - 411a_winter/week4.qmd      
-          - 411a_winter/week5.qmd      
-          - 411a_winter/week6.qmd   
-          - 411a_winter/week7.qmd  
-          - 411a_winter/week8.qmd                                    
-          - 411a_winter/week10.qmd                                    
+          # - 411a_winter/week2.qmd      
+          # - 411a_winter/week3.qmd      
+          # - 411a_winter/week4.qmd      
+          # - 411a_winter/week5.qmd      
+          # - 411a_winter/week6.qmd   
+          # - 411a_winter/week7.qmd  
+          # - 411a_winter/week8.qmd                                    
+          # - 411a_winter/week10.qmd                                    
 
       - text: "Spring 411B"
         menu: 
@@ -27,16 +34,16 @@ website:
           - text: Syllabus
             href: https://docs.google.com/document/d/1AKoxetDwUMfaYZi89BTcT3NxgxP6mEMErUSZiRyUPLw/edit?usp=sharing
             target: _blank
-          - 411b_spring/411b_week1.qmd
-          - 411b_spring/411b_week2.qmd   
-          - 411b_spring/411b_week3.qmd   
-          - 411b_spring/411b_week4.qmd   
-          - 411b_spring/411b_week5.qmd   
-          - 411b_spring/411b_week6.qmd   
-          - 411b_spring/411b_week7.qmd   
-          - 411b_spring/411b_week8.qmd  
-          - 411b_spring/411b_week9.qmd   
-          - 411b_spring/411b_week10.qmd   
+          # - 411b_spring/411b_week1.qmd
+          # - 411b_spring/411b_week2.qmd   
+          # - 411b_spring/411b_week3.qmd   
+          # - 411b_spring/411b_week4.qmd   
+          # - 411b_spring/411b_week5.qmd   
+          # - 411b_spring/411b_week6.qmd   
+          # - 411b_spring/411b_week7.qmd   
+          # - 411b_spring/411b_week8.qmd  
+          # - 411b_spring/411b_week9.qmd   
+          # - 411b_spring/411b_week10.qmd   
       
       - href: office_hours.qmd
         text: Office Hours          
@@ -47,6 +54,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
+    link-external-newwindow: true
 
 

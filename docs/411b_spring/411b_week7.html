@@ -92,50 +92,26 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://bren.ucsb.edu/sites/default/files/Capstone%20Project%20Guidelines%20MEDS%202026.pdf" target="_blank"> 
+<span class="menu-text">Capstone Guidelines</span></a>
+  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-winter-411a" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Winter 411A</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-winter-411a">    
         <li>
+    <a class="dropdown-item" href="https://docs.google.com/document/d/1LLTRDEoQZcwMq2pO05AhvCiyG0uigxl2If1VM5lJrCw/edit?usp=sharing" target="_blank">
+ <span class="dropdown-text">Syllabus</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../411a_winter/411a_calendars.html">
  <span class="dropdown-text">Calendars</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../411a_winter/week1.html">
- <span class="dropdown-text">Week 1</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411a_winter/week2.html">
- <span class="dropdown-text">Week 2</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411a_winter/week3.html">
- <span class="dropdown-text">Week 3</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411a_winter/week4.html">
- <span class="dropdown-text">Week 4</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411a_winter/week5.html">
- <span class="dropdown-text">Week 5</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411a_winter/week6.html">
- <span class="dropdown-text">Week 6</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411a_winter/week7.html">
- <span class="dropdown-text">Week 7</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411a_winter/week8.html">
- <span class="dropdown-text">Week 8</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411a_winter/week10.html">
- <span class="dropdown-text">Week 10</span></a>
+ <span class="dropdown-text">Winter Week 1</span></a>
   </li>  
     </ul>
   </li>
@@ -147,46 +123,6 @@ ul.task-list li input[type="checkbox"] {
         <li>
     <a class="dropdown-item" href="https://docs.google.com/document/d/1AKoxetDwUMfaYZi89BTcT3NxgxP6mEMErUSZiRyUPLw/edit?usp=sharing" target="_blank">
  <span class="dropdown-text">Syllabus</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411b_spring/411b_week1.html">
- <span class="dropdown-text">Week 1</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411b_spring/411b_week2.html">
- <span class="dropdown-text">Week 2</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411b_spring/411b_week3.html">
- <span class="dropdown-text">Week 3</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411b_spring/411b_week4.html">
- <span class="dropdown-text">Week 4</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411b_spring/411b_week5.html">
- <span class="dropdown-text">Week 5</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411b_spring/411b_week6.html">
- <span class="dropdown-text">Week 6</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411b_spring/411b_week7.html">
- <span class="dropdown-text">Week 7</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411b_spring/411b_week8.html">
- <span class="dropdown-text">Week 8</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411b_spring/411b_week9.html">
- <span class="dropdown-text">Week 9</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../411b_spring/411b_week10.html">
- <span class="dropdown-text">Week 10</span></a>
   </li>  
     </ul>
   </li>
@@ -473,6 +409,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

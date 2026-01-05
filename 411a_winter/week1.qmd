@@ -1,39 +1,43 @@
-# Week 1
+# Winter Week 1
 
 ## Materials
 
 📕 [Class slides](https://docs.google.com/presentation/d/1zCizrurJE1kqmOfhHGqAjvBfzIskGtmhoK7LTiLR1I4/edit?usp=share_link)
 
-📗 [TA Office Hours Logistics - Sandy Sum](https://docs.google.com/presentation/d/1tr9OIiFolKfSyn7OAuhdj4ZK0Vz6UM5mt729TvRaV-8/edit?usp=sharing) - Sandy Sum, EDS 411 TA & Bren Ph.D. Candidate
+📗 [TA Office Hours Logistics](https://docs.google.com/presentation/d/1gvdl4P9U4X0yNcKIEbC7MEX_3A3P54Zd2ExnySfnpqI/edit?usp=sharing) - Allie Caughman, EDS 411 TA & Bren Ph.D. Candidate
 
 📘 [Client Relations Presentation](https://docs.google.com/presentation/d/12p1xqVYr9p0brCnrxiXHFBhsR-vz7BcacWa0HfIA9Xw/edit?usp=sharing)  - Miya Scheble, MEDS Career Development Program Manager
 
-📖 [Capstone Guidelines](https://drive.google.com/file/d/1qftu6sNqHeiv0p5K2xhfV8rfdc14oOk_/view?usp=share_link)
+📖 [Capstone Guidelines](https://bren.ucsb.edu/sites/default/files/Capstone%20Project%20Guidelines%20MEDS%202026.pdf)
 
 ## Schedule
 
-1:00 - 2:00 : Overview of EDS 411, Capstone Project, and DIP
+12:30 - 1:30 : Overview of EDS 411A, Capstone Project, and DIP
 
-2:00 - 2:30: Client relations workshop - Miya Scheble, Bren School
+1:30 - 2:00: Client relations presentation, Miya Scheble - Bren Career Team
 
-2:30 - 2:35: BREAK
+2:00 - 2:10: BREAK
 
-2:35 - 3:00: Communication roles activity
+2:10 - 3:00: Communication roles activity
 
-3:00 - 3:10: BREAK
+3:00 - 3:15: Capstone project summary
 
-3:10 - 3:50: Capstone project summary
+3:15 - 3:30: Group work
 
-3:50 - 4:00: Checklist for next class
 
-## Upcoming capstone deadlines
+## Upcoming deadlines
 
 ![](/411a_winter/images/411a_2025_deadlines1.png)
 
 
 ## To do by next week
 
-### 🤝 Client meeting
+### 🤝 1. Hold first client meeting
+
+**Due when?** By next class. 
+
+<details>
+<summary>**Instructions**</summary>
 
 **Goals** for first client meeting (to be held before next class):
 
@@ -51,14 +55,24 @@
 - any questions about the data - make sure you know how to access it
 - PRO TIP: use the [agenda template](https://docs.google.com/document/d/1Y9PcCfJrf8KJVcRqKVjkxQHzrDSoJx8VrmpnlpUc8Kk/edit?usp=sharing) provided during the Fall quarter.
 
-
 **After** meeting: reflect with your team on how it went and what could be improved. 
 
-***
-### 💬 Prepare a flash talk
+</details>
+
+<br>
+
+### 💬 2. Prepare flash talk
+
+**Due when?** Presentations will happen during next class. Add your slides by then. 
+
+**How to submit:** Add slides to [Week 2 - Flash talks shared folder](https://drive.google.com/drive/folders/19VFg2U3FVeGc9PL29LfstnU5Zmbc1-sX?usp=share_link).
 
 
-Prepare 4 slides covering:
+<details>
+<summary>**Instructions**</summary>
+
+
+Prepare four slides covering:
 
 - Slide 1: A cover slide  
 - Slide 2: An ultra summarized slide covering what your project will do
@@ -66,26 +80,31 @@ Prepare 4 slides covering:
 - Slide 4: One graph showing exploratory visualization of your data
 
 Pick a person or two who are ready to do a 3 minute presentation next class
-Add slides to [Week 2 - Flash talks](https://drive.google.com/drive/folders/19YewWLJGEzCe8MM-NwbxhLlVyfyeq6SE?usp=share_link).
 
 Focus on: 
 
 - Avoiding big blocks of text.
-- Seamless transitions between sections, clear, and precise speech.
-- Practice and time it! 
-- Listen for every qualifier you use. “Kind of” “sort of” “I guess.” Avoid these!
+- Smooth transitions between sections, clear, and precise speech.
+- Practice it a bit and time it! 
 
 **Flash talks are the first steps in practicing for the faculty reviews.**
 
-***
+</details>
 
-### 📄 Read
+<br>
+
+### 📄 3. Read sample DIPs and Capstone resources and bring in questions
+
+**Due when?** By next class. 
+
+<details>
+<summary>**Instructions**</summary>
 
 Read the following resources:
 
-☑️ [MEDS Capstone Project Guidelines](https://drive.google.com/file/d/1qftu6sNqHeiv0p5K2xhfV8rfdc14oOk_/view?usp=share_link). 
+☑️ [MEDS Capstone Project Guidelines](https://bren.ucsb.edu/sites/default/files/Capstone%20Project%20Guidelines%20MEDS%202026.pdf). 
 
-☑️ [Sample DIPs](https://drive.google.com/drive/folders/1Wi1izA-w2jLl3RRhSPEC334XcFLuY653?usp=share_link)*
+☑️ [Sample DIPs](https://drive.google.com/drive/folders/1ZpxTPDm0DlXn3fzkpcM3sYRfnY4gTM7I?usp=share_link)*
 
 ☑️ [Ten simple rules to cultivate belonging in collaborative data science research teams](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010567)
 
@@ -94,11 +113,14 @@ The “Ten simple rules…” paper will give you a good background for your tea
 
 *We have reworked the DIP this year to streamline it. So, **the sample DIPs from previous years do not completely match the new DIP format**. However they will still give you a good idea of the information that will go into it.
 
+</details>
 
-***
+<br>
 
-### 📥 Submit
+### 📥 4. Prepare summary paragraph for Bren website
 
+**Due when?** Submit by 5pm on Friday 1/16.
 
-**Submit by 5pm on Friday 1/17:**
-Finalize your summary paragraph for Bren website, add to [Capstone Summaries](https://docs.google.com/document/d/1OhL7BuIQbqAEb7W5m5feDl0bdvsBNWT-ZKTrCuSig8A/edit?usp=share_link). <u> Your advisor must review your summary before submitting it. </u>
+**How to submit:**  add to [Capstone Summaries](https://docs.google.com/document/d/1kw324cJP-Iqsn8rfakFHtEW5tN5DW-IFXyVNFfc1I1c/edit?usp=sharing). <u> Your advisor must review your summary before submitting it. </u>
+
+See class slides for details about how to prepare your summary. 
