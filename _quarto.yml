@@ -17,7 +17,7 @@ website:
           - text: Syllabus
             href: https://docs.google.com/document/d/1LLTRDEoQZcwMq2pO05AhvCiyG0uigxl2If1VM5lJrCw/edit?usp=sharing
             target: _blank          
-          - 411a_winter/411a_calendars.qmd
+          #- 411a_winter/411a_calendars.qmd
           - 411a_winter/week1.qmd 
           # - 411a_winter/week2.qmd      
           # - 411a_winter/week3.qmd      
