@@ -2,13 +2,13 @@
 
 ## Materials
 
-📕 [Class slides](https://docs.google.com/presentation/d/1zCizrurJE1kqmOfhHGqAjvBfzIskGtmhoK7LTiLR1I4/edit?usp=share_link)
+📕 [Class slides]({{< var winter-week1-class-slides >}})
 
-📗 [TA Office Hours Logistics](https://docs.google.com/presentation/d/1gvdl4P9U4X0yNcKIEbC7MEX_3A3P54Zd2ExnySfnpqI/edit?usp=sharing) - Allie Caughman, EDS 411 TA & Bren Ph.D. Candidate
+📗 [TA Office Hours Logistics]({{< var ta-office-hours-logistics >}}) - Allie Caughman, EDS 411 TA & Bren Ph.D. Candidate
 
-📘 [Client Relations Presentation](https://docs.google.com/presentation/d/12p1xqVYr9p0brCnrxiXHFBhsR-vz7BcacWa0HfIA9Xw/edit?usp=sharing)  - Miya Scheble, MEDS Career Development Program Manager
+📘 [Client Relations Presentation]({{< var client-relations-presentation >}})  - Miya Scheble, MEDS Career Development Program Manager
 
-📖 [Capstone Guidelines](https://bren.ucsb.edu/sites/default/files/Capstone%20Project%20Guidelines%20MEDS%202026.pdf)
+📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
 
 ## Schedule
 
@@ -53,7 +53,7 @@
 - agenda (with times)
 - list of clarifying questions you want to ask the client
 - any questions about the data - make sure you know how to access it
-- PRO TIP: use the [agenda template](https://docs.google.com/document/d/1Y9PcCfJrf8KJVcRqKVjkxQHzrDSoJx8VrmpnlpUc8Kk/edit?usp=sharing) provided during the Fall quarter.
+- PRO TIP: use the [agenda template]({{< var email-and-agenda-templates-project-kickoff >}}) provided during the Fall quarter.
 
 **After** meeting: reflect with your team on how it went and what could be improved. 
 
@@ -65,7 +65,7 @@
 
 **Due when?** Presentations will happen during next class. Add your slides by then. 
 
-**How to submit:** Add slides to [Week 2 - Flash talks shared folder](https://drive.google.com/drive/folders/19VFg2U3FVeGc9PL29LfstnU5Zmbc1-sX?usp=share_link).
+**How to submit:** Add slides to [Week 2 - Flash talks shared folder]({{< var flash-talks-1-shared-folder >}}).
 
 
 <details>
@@ -102,11 +102,11 @@ Focus on:
 
 Read the following resources:
 
-☑️ [MEDS Capstone Project Guidelines](https://bren.ucsb.edu/sites/default/files/Capstone%20Project%20Guidelines%20MEDS%202026.pdf). 
+☑️ [MEDS Capstone Project Guidelines]({{< var capstone-guidelines >}}). 
 
-☑️ [Sample DIPs](https://drive.google.com/drive/folders/1ZpxTPDm0DlXn3fzkpcM3sYRfnY4gTM7I?usp=share_link)*
+☑️ [Sample DIPs]({{< var sample-dips >}})
 
-☑️ [Ten simple rules to cultivate belonging in collaborative data science research teams](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010567)
+☑️ [Ten simple rules to cultivate belonging in collaborative data science research teams]({{< var ten-simple-rules-paper >}})
 
 Come prepared with questions about the guidelines and the sample DIPs.
 The “Ten simple rules…” paper will give you a good background for your team management plan (we’ll work on it next week). 
@@ -121,6 +121,6 @@ The “Ten simple rules…” paper will give you a good background for your tea
 
 **Due when?** Submit by 5pm on Friday 1/16.
 
-**How to submit:**  add to [Capstone Summaries](https://docs.google.com/document/d/1kw324cJP-Iqsn8rfakFHtEW5tN5DW-IFXyVNFfc1I1c/edit?usp=sharing). <u> Your advisor must review your summary before submitting it. </u>
+**How to submit:**  add to [Capstone Summaries]({{< var capstone-summaries-doc >}}). <u> Your advisor must review your summary before submitting it. </u>
 
 See class slides for details about how to prepare your summary. 
