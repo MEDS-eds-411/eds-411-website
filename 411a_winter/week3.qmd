@@ -12,7 +12,7 @@ While writing the DIP, keep actively engaging with your data, running preliminar
 
 ## Materials
 
-📕 [Class slides](https://docs.google.com/presentation/d/1aEMKe4IlfFPBV9JHwsRblpCS1DzMwgA8Fj4P3g3xyM4/edit?usp=sharing)
+📕 [Class slides]({{< var winter-week3-class-slides >}})
 
 📖 [Capstone Guidelines](https://drive.google.com/file/d/1qftu6sNqHeiv0p5K2xhfV8rfdc14oOk_/view?usp=share_link)
 

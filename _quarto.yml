@@ -25,7 +25,8 @@ website:
             href: 411a_winter/411a_calendars.qmd
           - text: Week 1
             href: 411a_winter/week1.qmd 
-          # - 411a_winter/week2.qmd      
+          - text: Week 2
+            href: 411a_winter/week2.qmd                 
           # - 411a_winter/week3.qmd      
           # - 411a_winter/week4.qmd      
           # - 411a_winter/week5.qmd      

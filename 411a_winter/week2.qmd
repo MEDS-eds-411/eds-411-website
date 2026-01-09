@@ -2,7 +2,7 @@
 
 ## Materials
 
-📕 [Class slides](https://docs.google.com/presentation/d/1aI6PwKkeGgcLvqo8tXP1PSXlaWyEL6Yc_ztxJ4AAX5A/edit#slide=id.g3254c492a60_0_0)
+📕 [Class slides]({{< var winter-week2-class-slides >}})
 
 📗 [Computing resources slides](https://docs.google.com/presentation/d/1dO3eNAM37yjKQTQIkV5zbGcYkfb9Yhph1A32mHA4ErY/edit?usp=sharing)  - Kat Le, Technical Applications Manager, Bren School 
 
