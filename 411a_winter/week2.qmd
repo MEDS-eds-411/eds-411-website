@@ -10,19 +10,21 @@
 
 ## Schedule
 
-1:00 - 1:10 : Check-in & checklist for next class
+12:30 - 12:40 : Check-in & checklist for next class
 
-1:10 - 2:30: Building Bridges: Giving and Receiving Effective Feedback // Dr. Krystal Onyekwuluje, Bren School Diversity, Equity and Inclusion Coordinator
+12:40 - 12:55 : Computing resources presentation - Kat Le, Bren Technical Applications Manager
 
-2:30 - 2:35: BREAK
+12:55 - 1:40 : Flash presentations
 
-2:35 - 2:45 : Computing resources presentation - Kat Le, Bren Technical Applications Manager
+1:40 - 1:50: BREAK
 
-2:45 - 3:30 : Flash presentations
+1:50 - 2:20 : GitHub organizations
 
-3:30 - 3:35: BREAK
+2:20 - 2:35 DIP project statement and objectives
 
-3:35 - 4:00: Co-working on project statement and objectives
+2:35 - 3:20: Independent co-working 
+
+3:20 - 3:30: Team reflections
 
 ## Upcoming capstone deadlines
 
@@ -30,41 +32,88 @@
 
 ## To do by next week
 
-### 📥 Submit
+### 📥 1. Prepare summary paragraph for Bren website
 
-**Submit by 5pm on Friday 1/17:**
+**Due when?** Submit by {{< var website-project-abstract-deadline >}}.
 
-Finalize your summary paragraph for Bren website, add to [Capstone Summaries]({{< var capstone-summaries-doc >}}). <u> Your advisor must review your summary before submitting it. </u>
+**How to submit:**  Add to [Capstone Summaries]({{< var capstone-summaries-doc >}}). <u> Your advisor must review your summary before submitting it. </u>
+
+See [week 1 class slides]({{< var winter-week1-class-slides >}}) for details about how to prepare your summary. 
 
 <br>
 
-**Submit by 5pm on Tuesday 1/21:**
 
-- Finish drafting the DIP Team Management Plan section using the [Team Management Plan template](https://docs.google.com/document/d/1Sn487xG0ldEjA3gycFw8LomIACw3ey57GQcl5hnMcHU/edit?tab=t.0#heading=h.awsjhxqkbm1m).
+### 🤝 2. Submit Team Management Plan draft
 
-- Add document to the [Team Management Plan draft shared folder](https://drive.google.com/drive/folders/1U__jjNExwMCqZIZc77VrtO24shVySnam?usp=share_link).
+**Due when?** Submit by next class {{< var winter-w3-class-date >}}
+
+**How to submit:** Add document to the [Team Management Plan draft shared folder]({{< var team-management-plan-drafts-shared-folder >}}).
+
+<details>
+<summary>**Instructions**</summary>
+
+- Finish drafting the DIP Team Management Plan section using the [Team Management Plan template]({{< var team-management-plan-template >}}).
 
 Consider the following resources when writing the Team Management Plan:
 
 - MEDS Capstone Project Guidelines
 - Team’s project roles and responsibilities
-- [Ten simple rules to cultivate belonging in collaborative data science research teams](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010567)
+- [Ten simple rules to cultivate belonging in collaborative data science research teams]({{< var ten-simple-rules-paper >}})
 - Communication roles activity form last week
 - [Dr. Allison Horst’s Code of Conduct](https://allisonhorst.github.io/EDS_212_essential-math/code_of_conduct.html)
 
+Additionally, check your “Expectations between students and advisor” section in Team Management Plan with your advisor. You can add this as a discussion item to the agenda for your next meeting with your advisor or email them asking for their feedback. If you are not sure how to bring this up try something like: 
+
+> “Our Team Management Plan must include a section about expectations between students and faculty advisor. We have included some of these expectations and would like to discuss them with you. We also want to integrate expectations you have about how our team will conduct its work in this project.”
+
+If you have already checked these expectations with your advisor, great! You’re done.
+
+</details>
+
 <br>
 
-**Submit by 5pm on Tuesday 1/21:**
+### 📝 3. Draft summary, objectives, and deliverables DIP sections
 
-Draft of the following sections of the DIP (they should be short!):
+**Due when?** Submit by next class {{< var winter-w3-class-date >}}
+
+**How to submit:** Add this document to the [DIP drafts shared folder]({{< var dip-drafts-shared-folder >}}). This document will be used to draft all sections of the DIP except the Team Management Plan.
+
+<details>
+<summary>**Instructions**</summary>
+
+Draft the following sections of the DIP (they should be short!):
 
 - Summary
 - Objectives 
 - Deliverables
 
-Add the this document to the [DIP drafts shared folder](https://drive.google.com/drive/folders/1rumSHeD2cVxZG86N3xuNZRPrS6nEm9Tr?usp=share_link). This document will be used to draft all sections of the DIP except the Team Management Plan.
+You can see more details about how to structure these sections on [ths week's class slides]({{< var winter-week2-class-slides >}}) and the [Capstone Guidelines]({{< var capstone-guidelines >}}).
 
 Remember: 
 
 - your team is responsible for reaching out to your client or advisor with any questions needed to clarify these sections
-- as needed, you can seek feedback from your advisor on your DIP sections before submitting a complete first draft on 2/9.
+- as needed, you can seek feedback from your advisor on your DIP sections before submitting a complete first draft on {{< var dip-draft-deadline >}}.
+
+</details>
+
+<br>
+
+### 📑 4. Prepare for data management meeting with Research Data Services
+
+**Due when?** Submit by next class {{< var winter-w3-class-date >}}.
+
+**How to submit:**  Add your answered questionnaire to the [“RDS meeting questionnaire” shared folder]({{< var  rds-questionnaire-shared-folder >}}).
+
+<details>
+<summary>**Instructions**</summary>
+
+Next week, each team will meet independently with the Research Data Services (RDS) team from the UCSB Library to help you plan your Data Management Plan.  Complete the following tasks in preparation for this meeting:
+
+1. Read the Data Management Plan section of the MEDS Capstone Project Guidelines (1 page)
+2. Answer [this questionnaire prepared by RDS]({{< var rds-questionnaire-doc >}}). This is an informal document, short answers are ok. If a question is not relevant you can skip it or write a short explanation why this does not apply. 
+3. Come prepared with questions about data management and archival for your project.
+</details>
+
+<br>
+
+### 🧠 ONGOING: Work on data exploration and implementing your project! 

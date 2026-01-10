@@ -119,7 +119,7 @@ The “Ten simple rules…” paper will give you a good background for your tea
 
 ### 📥 4. Prepare summary paragraph for Bren website
 
-**Due when?** Submit by 5pm on Friday 1/16.
+**Due when?** Submit by 5pm on {{< var website-project-abstract-deadline >}}.
 
 **How to submit:**  add to [Capstone Summaries]({{< var capstone-summaries-doc >}}). <u> Your advisor must review your summary before submitting it. </u>
 
