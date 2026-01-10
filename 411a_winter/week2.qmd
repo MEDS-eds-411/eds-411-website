@@ -6,7 +6,10 @@
 
 📗 [Computing resources slides]({{< var computer-resources-presentation >}})  - Kat Le, Technical Applications Manager, Bren School 
 
+💭 [In-class Team Reflections]({{< var team-reflections-411A >}})
+
 📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
+
 
 ## Schedule
 
@@ -45,7 +48,7 @@ See [week 1 class slides]({{< var winter-week1-class-slides >}}) for details abo
 
 ### 🤝 2. Submit Team Management Plan draft
 
-**Due when?** Submit by next class {{< var winter-w3-class-date >}}
+**Due when?** Submit by next class {{< var winter-w3-class-date >}}.
 
 **How to submit:** Add document to the [Team Management Plan draft shared folder]({{< var team-management-plan-drafts-shared-folder >}}).
 
@@ -74,7 +77,7 @@ If you have already checked these expectations with your advisor, great! You’r
 
 ### 📝 3. Draft summary, objectives, and deliverables DIP sections
 
-**Due when?** Submit by next class {{< var winter-w3-class-date >}}
+**Due when?** Submit by next class {{< var winter-w3-class-date >}}.
 
 **How to submit:** Add this document to the [DIP drafts shared folder]({{< var dip-drafts-shared-folder >}}). This document will be used to draft all sections of the DIP except the Team Management Plan.
 
@@ -100,7 +103,7 @@ Remember:
 
 ### 📑 4. Prepare for data management meeting with Research Data Services
 
-**Due when?** Submit by next class {{< var winter-w3-class-date >}}.
+**Due when?** Submit *before* next class {{< var winter-w3-class-date >}}.
 
 **How to submit:**  Add your answered questionnaire to the [“RDS meeting questionnaire” shared folder]({{< var  rds-questionnaire-shared-folder >}}).
 
