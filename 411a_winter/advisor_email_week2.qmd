@@ -1,16 +1,19 @@
 ---
-title: "Advisor emails"
+title: "411A Advisor Emails"
 format: 
   html:
     embed-resources: true
 ---
 
-## Week 2
+## SUBJECT
 
+MEDS Capstone Updates - Winter Week X
+
+## Week 2
 
 Hello MEDS Capstone Advisors, 
 
-I hope you are doing great and enjoyed the beautiful weather at Santa Barbara this weekend. 
+I hope you are doing great.
 
 This is your weekly EDS 411 - MEDS Capstone project newsletter. Please feel free to reach out with any questions or suggestions.
 
@@ -18,30 +21,35 @@ Best wishes,
 
 Carmen 
  
-[signature]
+{{< include /_email_signature.qmd >}}
 
 ---
 
-**[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}**
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
 
 **[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}**
 
 ![](/411a_winter/images/411a_2025_deadlines1.png)
 
-**Advisor Check-ins**
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+<span style="font-weight: bold;">Advisor Check-ins</span>
 
 - All groups should get their advisor's feedback and approval on their project summary before submitting it this {{< var website-project-abstract-deadline >}}.
 
-- Students might reach out about feedback on section VII of the [Team Management Plan]({{< var team-management-plan-template >}}){style="color: #0066cc;"}. This outlines overall work expectations between team members and their faculty advisor.
+- Students might reach out about feedback on section VII of the [Team Management Plan]({{< var team-management-plan-template >}}){style="color: #0066cc;"}. This section outlines overall work expectations between team members and their faculty advisor.
 
-- Students will start working on their Design and Implementation Plan this week. The DIP is the primary written academic deliverable for students this term. You can find all the details in the [Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"} and read some sample DIPs from previous years [here]({{< var sample-dips >}}){style="color: #0066cc;"}. The format has been slightly updated this year, but these examples are still useful to have in mind.
+- Students will start working on their Design and Implementation Plan this week. <span style="font-weight: bold;">The DIP is the primary written academic deliverable for students this term.</span> You can find all the details in the [Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"} and read some sample DIPs from previous years [here]({{< var sample-dips >}}){style="color: #0066cc;"}. The format has been slightly updated this year, but these examples are still useful to have in mind.
 
 - In week 5, advisors will review a complete draft of their group's DIP, but students might contact you with questions or feedback before this. 
 
 - Students can and should keep working on data analysis and deliverables while writing their DIP! 
+:::
+
+<br>
 
 
-**In 411A Today [slides @ website]({{< var winter-week1-website >}}){style="color: #0066cc;"}**
+<span style="font-weight: bold;">In 411A Today</span> [(slides @ website)]({{< var winter-week1-website >}}){style="color: #0066cc;"}
 
 - Each group gave a 3-minute presentation with an overview of their project and a graph showing preliminary data exploration
 
@@ -51,7 +59,9 @@ Carmen
 
 - Overview of DIP’s Problem Statement and Objectives and Products and Deliverables sections, and group work
 
-**Tasks all groups are expected to complete before next 411A class:**
+<br>
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411A class:</span>
 
 1. Due {{< var website-project-abstract-deadline >}}: Summary paragraph for Bren website with advisor approval
 2. Due {{< var winter-w3-class-date >}}: Team Management Plan draft

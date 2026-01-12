@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  render: 
+    - "*.qmd"
+    - "!411a_winter/advisor_emails/"
 
 website:
   title: "EDS 411"

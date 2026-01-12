@@ -1,0 +1,6 @@
+::: {style="font-size: 14px; color: #666666; line-height: 1.4; margin-top: 20px;"}
+<span style="font-weight: bold;">Carmen Galaz García</span> | Assistant Teaching Professor  
+Bren School of Environmental Science and Management  
+University of California, Santa Barbara  
+(she / her / hers)
+:::
