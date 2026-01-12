@@ -1,0 +1,61 @@
+---
+title: "Advisor emails"
+format: 
+  html:
+    embed-resources: true
+---
+
+## Week 2
+
+
+Hello MEDS Capstone Advisors, 
+
+I hope you are doing great and enjoyed the beautiful weather at Santa Barbara this weekend. 
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please feel free to reach out with any questions or suggestions.
+
+Best wishes, 
+
+Carmen 
+ 
+[signature]
+
+---
+
+**[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}**
+
+**[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}**
+
+![](/411a_winter/images/411a_2025_deadlines1.png)
+
+**Advisor Check-ins**
+
+- All groups should get their advisor's feedback and approval on their project summary before submitting it this {{< var website-project-abstract-deadline >}}.
+
+- Students might reach out about feedback on section VII of the [Team Management Plan]({{< var team-management-plan-template >}}){style="color: #0066cc;"}. This outlines overall work expectations between team members and their faculty advisor.
+
+- Students will start working on their Design and Implementation Plan this week. The DIP is the primary written academic deliverable for students this term. You can find all the details in the [Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"} and read some sample DIPs from previous years [here]({{< var sample-dips >}}){style="color: #0066cc;"}. The format has been slightly updated this year, but these examples are still useful to have in mind.
+
+- In week 5, advisors will review a complete draft of their group's DIP, but students might contact you with questions or feedback before this. 
+
+- Students can and should keep working on data analysis and deliverables while writing their DIP! 
+
+
+**In 411A Today [slides @ website]({{< var winter-week1-website >}}){style="color: #0066cc;"}**
+
+- Each group gave a 3-minute presentation with an overview of their project and a graph showing preliminary data exploration
+
+- [Computing resources presentation]({{< var computer-resources-presentation >}}){style="color: #0066cc;"} - Kat Le, Bren School’s Technical Applications Manager, covering Google groups, shiny app deployment, and other computer resources
+
+- Each team created a GitHub organization where they will host their project’s code repositories. We also explored GitHub issues, milestones, and projects as a tool for project management.
+
+- Overview of DIP’s Problem Statement and Objectives and Products and Deliverables sections, and group work
+
+**Tasks all groups are expected to complete before next 411A class:**
+
+1. Due {{< var website-project-abstract-deadline >}}: Summary paragraph for Bren website with advisor approval
+2. Due {{< var winter-w3-class-date >}}: Team Management Plan draft
+
+3. Due {{< var winter-w3-class-date >}}: draft of DIP Team Management Plan, DIP Summary, Objectives, and Deliverables sections.
+3. Fill out a [questionnaire about their Data Management Plan]({{< var rds-questionnaire-doc >}}){style="color: #0066cc;"} in preparation for meeting with the Research Data Services from UCSB’s Library this week during the 411 class.
+- Continue working on independent data exploration and project implementation!
