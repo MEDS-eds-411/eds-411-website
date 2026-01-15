@@ -14,69 +14,82 @@ While writing the DIP, keep actively engaging with your data, running preliminar
 
 📕 [Class slides]({{< var winter-week3-class-slides >}})
 
-📖 [Capstone Guidelines](https://drive.google.com/file/d/1qftu6sNqHeiv0p5K2xhfV8rfdc14oOk_/view?usp=share_link)
+📗 [Good enough practices to manage your project data]({{< var good-enough-data-management >}})
 
+💭 [In-class Team Reflections]({{< var team-reflections-411A >}})
+
+📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
 
 ## Schedule
 
-1:00 - 1:10 : Questions & check-in 
+12:30 - 12:35 : Questions & check-in 
 
-1:10 - 1:20: Upcoming assignments
+12:35 - 12:45: Upcoming assignments
 
-1:20 - 1:55: GitHub organization & projects
+12:45 - 1:25: DIP Solution Design & ABT elevator pitch
 
-1:55 - 2:00: BREAK
+1:25 - 1:30: BREAK
 
-2:00 - 2:55: DIP Solution Design / Check-ins with groups
+1:30 - 3:20:  
 
-2:55 - 3:00: BREAK
+- Meetings with Research Data Services, UCSB Library
+- Coworking
+- Check-ins with groups
 
-3:00 - 3:45: DIP Timelines & Milestones / Check-ins with groups
-
-3:45 - 4:00: ABT elevator pitch
+* BREAK at 2:30
 
 ## Upcoming capstone deadlines
 
-![](/411a_winter/images/411a_2025_deadlines2.png)
-
+![](/411a_winter/images/411a_deadlines2.png)
 
 ## To do by next week
 
-### 📥 Submit (all due by Tuesday 1/28)
+### 📝 1. Draft of DIP Solution Design section, including Approach, Methods, and Research Data.
 
-**Draft of DIP Solution Design section, including Approach, Methods, and Research Data**
+**Due when?** Submit by next class {{< var winter-w4-class-date >}}.
 
-Include your workflow diagram draft (a screenshot is ok). In your final DIP this should become a finalized figure with an overview of your project’s workflow. Add these sections to your DIP draft in the [DIP drafts shared folder](https://drive.google.com/drive/folders/1rumSHeD2cVxZG86N3xuNZRPrS6nEm9Tr?usp=share_link).
+**How to submit:** Add section to your DIP draft in the [DIP drafts shared folder]({{< var dip-drafts-shared-folder >}}).
+
+<details>
+<summary>**Instructions**</summary>
+
+ Add all sections of the Solution Design to your DIP draft in the [DIP drafts shared folder]({{< var dip-drafts-shared-folder >}}).
+
+Include your workflow diagram draft (a screenshot is ok). This should become a finalized figure with an overview of your project’s workflow for the final draft due on week 5.
 
 There might be details, questions, or even gaps about how you’ll create your  deliverables. Start filling those in. First step is always to research, brainstorm, and clarify with your team. Then, as needed, reach out to your advisor or client with questions or options. 
 
+</details>
+
 <br>
 
-**Draft of DIP Timeline & Milestones**
+### 🗓️ 2. Draft DIP Timeline & Milestones
 
-Include a Gantt Chart to visualize represent your project’s timeline. Some [Gantt chart resources](https://docs.google.com/document/d/1eIcWfopk3owdXdjkzbEmZRg3oObdQLvYprrEMxP0jIQ/edit?usp=sharing) from Casey O’Hara. You can also make a nice looking one in Google sheets.
+**Due when?** Submit by next class {{< var winter-w4-class-date >}}.
+
+**How to submit:** Add section to your DIP draft in the [DIP drafts shared folder]({{< var dip-drafts-shared-folder >}}).
+
+<details>
+<summary>**Instructions**</summary>
+
+Include a Gantt Chart to visualize represent your project’s timeline. Some [Gantt chart resources]({{< var gantt-chart-resources >}}) from Dr. Casey O’Hara. You can also make a nice looking one in Google sheets.
 
 Timeline should include client’s and academic deliverables, and appropriate intermediate deliverables leading to the project’s completion
 
-Add these sections to your DIP draft in the [DIP drafts shared folder](https://drive.google.com/drive/folders/1rumSHeD2cVxZG86N3xuNZRPrS6nEm9Tr?usp=share_link).
+Add these sections to your DIP draft in the [DIP drafts shared folder]({{< var dip-drafts-shared-folder >}}).
+
+</details>
 
 <br>
 
-**Research Data Services Questionnaire**
+### 💬 3. Prepare flash talk
 
-Next week, each team will meet independently with the Research Data Services (RDS) team from the UCSB Library to help you plan your Data Management Plan. 
+**Due when?** Presentations will happen during next class on {{< var winter-w4-class-date >}}. 
 
-Complete the following tasks in preparation for this meeting:
+**How to submit:** Add slides to [Week 4 - Flash talks shared folder]({{< var flash-talks-2-shared-folder >}}).
 
-- Read the Data Management Plan section of the MEDS Capstone Project Guidelines (1 page)
-- Answer [this questionnaire](https://docs.google.com/document/d/1dLV5RK3_sVuX-jbL0QaqaeFAa1JZ6cxo7nwfGUWjX7s/edit?usp=sharing) prepared by RDS. **This is an informal document, short answers are ok.** If a question is not relevant you can skip it or write a short explanation why this does not apply. 
-- Add your answered questionnaire to the [“DRP meeting questionnaire” shared folder](https://drive.google.com/drive/folders/1CqMWOcWt8zDM_8GDVnVS0dKYNoNcbm2n?usp=share_link) by Tuesday 1/28.
-- Come prepared with questions about data management and archival for your project.
-
-***
-
-### 💬 Prepare a flash talk
-
+<details>
+<summary>**Instructions**</summary>
 
 Prepare 4 slides covering:
 
@@ -90,26 +103,30 @@ Prepare 4 slides covering:
 
 Pick a person or two who are ready to do a 3 minute presentation next class.
 
-Add slides to [Week 4 - Flash talks](https://drive.google.com/drive/folders/1a448sn7WctgC9nMvm0MkIWNPA6AIlVdV?usp=share_link) before class.
+Add slides to [Week 4 - Flash talks]({{< var flash-talks-2-shared-folder >}}) before class.
 
 Focus on: 
 
 - Avoiding big blocks of text. 
 - Make sure font is not too small.
-- Seamless transitions between sections, clear, and precise speech.
-- Practice and time it! 
-- Listen for every qualifier you use. “Kind of” “sort of” “I guess.” Avoid these!
+- Practice it a bit and time it.
+- Listen for every qualifier you use. “Kind of” “sort of” “I guess.” Try to avoid these!
 - When describing your workflow diagram, practice curious statements. Instead of “We have no idea how we’re going to do this part,” what can you say? 
 - Project your voice!
 - Ask for questions at the end of the presentation
 
+</details>
 
-*** 
+### 🧼 4. Add summary to GitHub organization and delete demo repos
 
-### 📝 If needed: Update GitHub organization & team management plan
+**Due when?** By next class {{< var winter-w4-class-date >}}.
 
-Update: 
+**How to submit:** Verify the URL to your GitHub organization on [this spreadsheet]({{< var github-organizations-urls-spreadsheet >}}) is correct and update if needed.
 
-- Your GitHub organization’s landing page to include the project summary you submitted a on week 2. Delete all the repositories, issues, and projects from this week's demo sessions.
+<details>
+<summary>**Instructions**</summary>
 
-- If your team plans to use GitHub issues, milestones, and projects to track progress or allocate tasks, update your team management plan to include these.
+Update your GitHub organization’s landing page to include the project summary you submitted on week 2. Delete all the repositories, issues, and projects from this week's demo sessions.
+
+As you create repositories and work in your organization, follow the [Checklist for MEDS Capstone  Projects Organizations and Repositories]({{< var organization-repository-checklist >}}).
+</details>

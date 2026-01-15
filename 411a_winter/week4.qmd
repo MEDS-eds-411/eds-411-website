@@ -10,8 +10,6 @@ This Friday 1/31. Check the [schedule here](https://docs.google.com/document/d/1
 
 📕 [Class slides](https://docs.google.com/presentation/d/1KlsHd3Li_RCku8nNmU59cZersXldISDhY_whoHQ8Tr4/edit?usp=sharing)
 
-📗 [Good enough practices to manage your project data](https://ucsb-library-research-data-services.github.io/project-data-management/)
-
 
 📖 [Capstone Guidelines](https://drive.google.com/file/d/1qftu6sNqHeiv0p5K2xhfV8rfdc14oOk_/view?usp=share_link)
 
