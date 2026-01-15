@@ -30,7 +30,8 @@ website:
             href: 411a_winter/week1.qmd 
           - text: Week 2
             href: 411a_winter/week2.qmd                 
-          # - 411a_winter/week3.qmd      
+          - text: Week 3
+            href: 411a_winter/week3.qmd                             
           # - 411a_winter/week4.qmd      
           # - 411a_winter/week5.qmd      
           # - 411a_winter/week6.qmd   
