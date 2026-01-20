@@ -1,0 +1,75 @@
+---
+title: "🎲 Random Student Picker"
+---
+```{=html}
+<style>
+  .picker-container {
+    max-width: 500px;
+    margin: 50px auto;
+    text-align: center;
+  }
+  .pick-button {
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 20px 0;
+  }
+  .pick-button:hover {
+    background: #1d4ed8;
+  }
+  #result {
+    font-size: 32px;
+    font-weight: bold;
+    color: #1f2937;
+    min-height: 50px;
+    margin: 20px 0;
+  }
+</style>
+
+<div class="picker-container">
+  <button class="pick-button" onclick="pickStudent()">Pick Random Student</button>
+  <div id="result"></div>
+</div>
+
+<script>
+const students = [
+  "Kylie Newcomer",
+  "Joaquin Sandoval",
+  "Vedika Shirtekar",
+  "Marie Tolteca",
+  "Henry Oliver",
+  "Austin Martinez",
+  "Richard Montes Lemus",
+  "Jay Kim",
+  "Joshua Ferrer-Lozano",
+  "William Mullins",
+  "Stephan Kadonoff",
+  "Sofia Rodas",
+  "Sofia Sarak",
+  "Zach Loo",
+  "Ixel Medrano",
+  "Emily Miller",
+  "Kaiju Morquecho",
+  "Hylaea Miller",
+  "Isabella Segarra",
+  "Peter Vitale",
+  "Nathalie Bonnet",
+  "Ava Robillard",
+  "Jaslyn Miura",
+  "Melannie Moreno Rolón",
+  "Aakriti Poudel",
+  "Megan Hessel",
+  "Leela Dixit",
+  "Lucian Scher"
+];
+
+  function pickStudent() {
+    const randomIndex = Math.floor(Math.random() * students.length);
+    document.getElementById('result').textContent = students[randomIndex];
+  }
+</script>
+```
