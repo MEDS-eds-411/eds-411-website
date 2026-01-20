@@ -37,7 +37,9 @@ website:
           # - 411a_winter/week6.qmd   
           # - 411a_winter/week7.qmd  
           # - 411a_winter/week8.qmd                                    
-          # - 411a_winter/week10.qmd                                    
+          # - 411a_winter/week10.qmd   
+          - text: 🎲
+            href: picker.qmd                      
 
       - text: "Spring 411B"
         menu: 
@@ -61,9 +63,7 @@ website:
 
       - text: Capstone Guidelines
         href: https://bren.ucsb.edu/sites/default/files/Capstone%20Project%20Guidelines%20MEDS%202026.pdf
-        target: _blank     
-      - href: picker.qmd
-        text: 🎲                      
+        target: _blank                      
     
 
 format:

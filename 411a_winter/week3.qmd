@@ -20,6 +20,8 @@ While writing the DIP, keep actively engaging with your data, running preliminar
 
 📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
 
+🗓️ [DIP Timeline and milestones]({{< var dip-timeline-and-milestiones >}})
+
 ## Schedule
 
 12:30 - 12:35 : Questions & check-in 
@@ -72,6 +74,8 @@ There might be details, questions, or even gaps about how you’ll create your  
 <details>
 <summary>**Instructions**</summary>
 
+Review the class slides about the [DIP Timeline and milestones]({{< var dip-timeline-and-milestiones >}}).
+
 Include a Gantt Chart to visualize represent your project’s timeline. Some [Gantt chart resources]({{< var gantt-chart-resources >}}) from Dr. Casey O’Hara. You can also make a nice looking one in Google sheets.
 
 Timeline should include client’s and academic deliverables, and appropriate intermediate deliverables leading to the project’s completion
@@ -116,6 +120,8 @@ Focus on:
 - Ask for questions at the end of the presentation
 
 </details>
+
+<br>
 
 ### 🧼 4. Add summary to GitHub organization and delete demo repos
 
