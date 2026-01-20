@@ -1,0 +1,125 @@
+---
+title: "411A Advisor Emails"
+format: 
+  html:
+    embed-resources: true
+---
+
+## SUBJECT
+
+MEDS Capstone Updates - Winter Week X
+
+## Week 2
+
+Hello MEDS Capstone Advisors, 
+
+I hope you are doing great.
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please feel free to reach out with any questions or suggestions.
+
+Best wishes, 
+
+Carmen 
+ 
+{{< include /_email_signature.qmd >}}
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+**[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}**
+
+![](/411a_winter/images/411a_deadlines1.png)
+
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+- All groups should get their advisor's feedback and approval on their project summary before submitting it this {{< var website-project-abstract-deadline >}}.
+
+- Students might reach out about feedback on section VII of the [Team Management Plan]({{< var team-management-plan-template >}}){style="color: #0066cc;"}. This section outlines overall work expectations between team members and their faculty advisor.
+
+- Students will start working on their Design and Implementation Plan this week. <span style="font-weight: bold;">The DIP is the primary written academic deliverable for students this term.</span> You can find all the details in the [Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"} and read some sample DIPs from previous years [here]({{< var sample-dips >}}){style="color: #0066cc;"}. The format has been slightly updated this year, but these examples are still useful to have in mind.
+
+- In week 5, advisors will review a complete draft of their group's DIP, but students might contact you with questions or feedback before this. 
+
+- Students can and should keep working on data analysis and deliverables while writing their DIP! 
+:::
+
+<br>
+
+
+<span style="font-weight: bold;">In 411A Today</span> [(slides @ website)]({{< var winter-week2-website >}}){style="color: #0066cc;"}
+
+- Each group gave a 3-minute presentation with an overview of their project and a graph showing preliminary data exploration
+
+- [Computing resources presentation]({{< var computer-resources-presentation >}}){style="color: #0066cc;"} - Kat Le, Bren School’s Technical Applications Manager, covering Google groups, shiny app deployment, and other computer resources
+
+- Each team created a GitHub organization where they will host their project’s code repositories. We also explored GitHub issues, milestones, and projects as a tool for project management.
+
+- Overview of DIP’s Problem Statement and Objectives and Products and Deliverables sections, and group work.
+
+<br>
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411A class:</span>
+
+1. Due {{< var website-project-abstract-deadline >}}: Summary paragraph for Bren website with advisor approval
+2. Due {{< var winter-w3-class-date >}}: Team Management Plan draft
+3. Due {{< var winter-w3-class-date >}}: Draft of DIP Team Management Plan, DIP Summary, Objectives, and Deliverables sections.
+4. Fill out a [questionnaire about their Data Management Plan]({{< var rds-questionnaire-doc >}}){style="color: #0066cc;"} in preparation for meeting with the Research Data Services from UCSB’s Library this week during the 411 class.
+- Continue working on independent data exploration and project implementation!
+
+---
+
+## Week 3
+
+Hello MEDS Capstone Advisors, 
+
+I hope you had a great long weekend.
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please feel free to reach out with any questions or suggestions.
+
+Best wishes, 
+
+Carmen 
+ 
+{{< include /_email_signature.qmd >}}
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+**[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}**
+
+![](/411a_winter/images/411a_deadlines2.png)
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+- Students are working on the DIP Solution Design section by creating a roadmap for their project, outlining major steps, and identifying gaps in the process. They’re also planning a timeline for completion. They might reach out to you for feedback on these sections or questions about the next steps in the project.
+
+- <span style="font-weight: bold;">At this point, all groups should have access to the project’s data.</span>
+
+- Students shouldn’t wait for your DIP planning to be finalized to jump into coding and exploring the data! While writing the DIP, they should be actively engaging with the data, running preliminary analyses, and coming up with questions. They know this already, but <span style="font-weight: bold;">please encourage them to divide tasks among team members to make progress on multiple fronts.</span>
+
+:::
+
+<br>
+
+<span style="font-weight: bold;">In 411A Today</span> [(slides @ website)]({{< var winter-week3-website >}}){style="color: #0066cc;"}
+
+- We discussed how to create a diagram outlining their project’s development. These will be part of the DIP’s Solution Design and Timeline sections.
+
+- We went over a strategy to create an elevator pitch for their project.
+
+- The Research Data Services group from the UCSB Library met individually with each team to discuss their data management and archival needs as part of students’ preparation for writing their DIP Data Management Plan.
+
+- Students worked independently with their capstone team and I checked in with each team for ~10 minutes.
+
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411A class:</span>
+
+1. Due {{< var winter-w4-class-date >}}: Draft of DIP Solution Design section, including Approach, Methods, and Research Data.
+2. Due {{< var winter-w4-class-date >}}: Draft DIP Timeline & Milestones including a [Gantt chart]({{< var dip-timeline-and-milestiones >}}){style="color: #0066cc;"} to show their expected timeline
+3. Due {{< var winter-w4-class-date >}}: Add project summary to their GitHub organization and delete demo repos
+4. Prepare a flash talk to be presented next class on {{< var winter-w4-class-date >}}. 
