@@ -48,14 +48,14 @@ This {{< var mesm-reviews-date >}}. Check the [schedule here]({{< var mesm-revie
 <details>
 <summary>**Instructions**</summary>
 
-Please complete your the following two reflections:
+Please complete your the following two documents:
 
 1. [[TEMPLATE] Personal Reflection 1 – 411A]({{< var personal-reflection-1-411A >}})
 2. [[TEMPLATE] Peer and Self Evaluation - Mid quarter 411A]({{< var peer-and-self-evaluation-1-411A >}})
 
 Detailed instructions are included in the templates.
 
-This is an individual assignment. Each person is responsible for submitting their own reflection and making sure the instructor is notified once it’s shared.
+This is an individual assignment. Each person is responsible for submitting their own reflection and submitting it to the Box folder.
 
 **If you would like to set up a meeting with me (Carmen) to chat about anything, please send me a Slack message and we can find a time that works.**
 
@@ -63,19 +63,16 @@ This is an individual assignment. Each person is responsible for submitting thei
 
 <br>
 
-### 2. 📝 Draft remaining DIP sections
+### 2. 📝 Draft Data Management Plan
 
-**Due when?** First complete draft of the DIP is due **as a Google doc** on {{< var dip-draft-deadline >}}.
+**Due when?** Include in first complete draft of the DIP on {{< var dip-draft-deadline >}}.
 
 <details> 
 <summary>**Instructions**</summary>
 
-Add the following updates to your DIP draft document:
+- Read the Data Management Plan section in the  [Capstone Guidelines]({{< var capstone-guidelines >}}) to learn how to structure this section. 
 
-- Data Management Plan section
-- Title page, budget and budget justification, and references section
-
-You will find information about how to structure all these sections in the the [Capstone Guidelines]({{< var capstone-guidelines >}}).
+- Leverage the discussion with the Research Data Services and the RDS questionnaire you filled out to write this section.
 
 </details>
 

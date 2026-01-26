@@ -123,3 +123,51 @@ Carmen
 2. Due {{< var winter-w4-class-date >}}: Draft DIP Timeline & Milestones including a [Gantt chart]({{< var dip-timeline-and-milestones >}}){style="color: #0066cc;"} to show their expected timeline
 3. Due {{< var winter-w4-class-date >}}: Add project summary to their GitHub organization and delete demo repos
 4. Prepare a flash talk to be presented next class on {{< var winter-w4-class-date >}}. 
+
+---
+
+## Week 4
+
+I hope you are doing well. 
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please feel free to reach out with any questions, comments, or suggestions.
+
+Best wishes, 
+
+Carmen 
+
+{{< include /_email_signature.qmd >}}
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+**[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}**
+
+![](/411a_winter/images/411a_deadlines2.png)
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+- Students are working on writing a Data Management Plan. They might contact you for feedback on this section or questions about how they will handle data, particularly intermediate data or results.
+
+- The complete DIP draft is due next week on {{< var dip-draft-deadline >}}. Please remind students that submitting a complete, high-quality draft right now will allow them to devote more energy to the project implementation in the second half of the quarter. 
+
+:::
+
+<br>
+
+<span style="font-weight: bold;">In 411A Today</span> [(slides @ website)]({{< var winter-week4-website >}}){style="color: #0066cc;"}
+
+- Each group gave a 3-minute presentation that included an elevator pitch for their project, a list of deliverables, and a diagram outlining their roadmap to project completion. Students received encouragement, constructive feedback, and questions from the whole group. 
+
+- The UCSB Associate Ombuds, Dr. David Rasch, led a workshop on resolving conflict. 
+
+- Students worked independently with their capstone team and I checked in with each team for ~5 minutes.  
+
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411A class:</span>
+
+1. Due {{< var winter-w5-class-date >}}: Complete midterm personal reflection and self/peer evaluation.
+2. Due {{< var dip-draft-deadline >}}: Draft remaining DIP sections. 
+3. Keep working one exploring and implementing their projects!

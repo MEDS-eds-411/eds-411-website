@@ -88,3 +88,19 @@ Discuss what went well and and what could be better:
 - Should you be more proactive in proposing solutions or product details?
 - Does your team need to share work earlier so everyone can revise?
 - Do you need to establish new expectations or ground rules in your team management plan?
+
+### 2. 📝 Draft remaining DIP sections
+
+**Due when?** First complete draft of the DIP is due **as a Google doc** on {{< var dip-draft-deadline >}}.
+
+<details> 
+<summary>**Instructions**</summary>
+
+Add the following sections to your DIP draft document:
+
+- Data Management Plan section
+- Title page, budget and budget justification, and references section
+
+You will find information about how to structure all these sections in the the [Capstone Guidelines]({{< var capstone-guidelines >}}).
+
+</details>
