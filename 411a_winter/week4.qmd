@@ -1,17 +1,18 @@
 # Week 4
 
 ::: {.callout-note icon=false}
-## REMINDER: Attend MESM Group Projects Faculty Reviews
+## REMINDER: Try to attend some of the MESM Group Projects Faculty Reviews
 
-This Friday 1/31. Check the [schedule here](https://docs.google.com/document/d/1zTD7qX1PGmYzXn4YLZVyBuSkMNO6asmf/edit). There might be some with similar topics to your capstone projects!
+This {{< var mesm-reviews-date >}}. Check the [schedule here]({{< var mesm-reviews-schdule >}}). There might be some with similar topics to your capstone projects!
 :::
 
 ## Materials
 
-📕 [Class slides](https://docs.google.com/presentation/d/1KlsHd3Li_RCku8nNmU59cZersXldISDhY_whoHQ8Tr4/edit?usp=sharing)
+📕 [Class slides]({{< var winter-week4-class-slides >}})
 
+💭 [In-class Team Reflections]({{< var team-reflections-411A >}})
 
-📖 [Capstone Guidelines](https://drive.google.com/file/d/1qftu6sNqHeiv0p5K2xhfV8rfdc14oOk_/view?usp=share_link)
+📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
 
 
 ## Schedule
@@ -34,46 +35,19 @@ This Friday 1/31. Check the [schedule here](https://docs.google.com/document/d/1
 
 ## Upcoming capstone deadlines
 
-![](/411a_winter/images/411a_2025_deadlines2.png)
+![](/411a_winter/images/411a_deadlines2.png)
 
 
 ## To do by next week
-
-
-### 💻 Update GitHub organization
-
-**Due by end of 29/1**
-
-Copy your organization’s URL into this [shared spreadsheet](https://docs.google.com/spreadsheets/d/16T0eucIDxxn1Yed_7Xqw-ihqmmfJN3G1yHPBtNiTAfk/edit?usp=sharing).
-
-- Your GitHub organization’s landing page to include the project summary you submitted a on week 2. Delete all the repositories, issues, and projects from this week's demo sessions.
-
-- Make all members in your organization public members, so people can see your GitHub profiles when they visit your org.
-
-<br>
 
 ### 📥 Submit (due on Tuesday 1/28)
 
 Add the following updates to your DIP draft document:
 
-- Updates for all other sections you’ve drafted so far: Resolve all comments
 - Title page, budget and budget justification, and references section
 - Draft of Data Management Plan and Documentation Plan sections due on Friday 2/7
 
 Remember to always read the Capstone Guidelines first if you have questions about how to write any of the DIP sections!
-
-<br>
-
-### 🤝 Check Team Management Plan
-
-Add this item to the agenda for your next meeting with your advisor or email them asking for their feedback:
-
-**Discuss “Expectations between students and advisor”** in TMP
-If you are not sure how to bring this up try something like: 
-
-> “Our Team Management Plan must include a section about expectations between students and faculty advisor. We have included some of these expectations and would like to discuss them with you. We also want to integrate expectations you have about how our team will conduct its work in this project.”
-
-If you have already checked these expectations with your advisor, great! You’re done.
 
 <br>
 

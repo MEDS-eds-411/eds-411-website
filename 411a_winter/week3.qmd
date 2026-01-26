@@ -16,11 +16,14 @@ While writing the DIP, keep actively engaging with your data, running preliminar
 
 📗 [Good enough practices to manage your project data]({{< var good-enough-data-management >}})
 
+🗓️ [DIP Timeline and milestones]({{< var dip-timeline-and-milestiones >}})
+
 💭 [In-class Team Reflections]({{< var team-reflections-411A >}})
 
 📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
 
-🗓️ [DIP Timeline and milestones]({{< var dip-timeline-and-milestiones >}})
+🏛️ [Checklist for MEDS Capstone Projects Organizations and Repositories]({{< var organization-repository-checklist >}})
+
 
 ## Schedule
 
@@ -123,7 +126,7 @@ Focus on:
 
 <br>
 
-### 🧼 4. Add summary to GitHub organization and delete demo repos
+### 🧼 4. Add summary to GitHub organization, delete demo repos, and make all members public
 
 **Due when?** By next class {{< var winter-w4-class-date >}}.
 
@@ -132,7 +135,8 @@ Focus on:
 <details>
 <summary>**Instructions**</summary>
 
-Update your GitHub organization’s landing page to include the project summary you submitted on week 2. Delete all the repositories, issues, and projects from this week's demo sessions.
+Update your GitHub organization’s landing page to include the project summary you submitted on week 2. Delete all the repositories, issues, and projects from this week's demo sessions. Make all members in your organization public members, so people can see your GitHub profiles when they visit your org.
 
 As you create repositories and work in your organization, follow the [Checklist for MEDS Capstone  Projects Organizations and Repositories]({{< var organization-repository-checklist >}}).
+
 </details>

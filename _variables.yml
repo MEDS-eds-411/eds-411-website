@@ -27,6 +27,9 @@ winter-w8-class-date : 'Monday 2/23'
 winter-w9-class-date : 'Monday 3/2'
 winter-w10-class-date : 'Monday 3/9'
 
+# Other dates
+mesm-reviews-date : Friday 1/30 # Happens on week 4
+
 # Shared folders and documents
 flash-talks-1-shared-folder : https://drive.google.com/drive/folders/19VFg2U3FVeGc9PL29LfstnU5Zmbc1-sX?usp=share_link
 flash-talks-2-shared-folder : https://drive.google.com/drive/folders/1QcfjXJm9wcu-6V6B-k-_sNtGbwfIBFXq?usp=share_link
@@ -42,6 +45,7 @@ team-reflections-411A : https://docs.google.com/presentation/d/1pDPTaZfFrNpNuie-
 winter-week1-class-slides : https://docs.google.com/presentation/d/1zCizrurJE1kqmOfhHGqAjvBfzIskGtmhoK7LTiLR1I4/edit?usp=share_link
 winter-week2-class-slides : https://docs.google.com/presentation/d/1aI6PwKkeGgcLvqo8tXP1PSXlaWyEL6Yc_ztxJ4AAX5A/edit#slide=id.g3254c492a60_0_0
 winter-week3-class-slides : https://docs.google.com/presentation/d/1aEMKe4IlfFPBV9JHwsRblpCS1DzMwgA8Fj4P3g3xyM4/edit?usp=sharing
+winter-week4-class-slides : https://docs.google.com/presentation/d/1KlsHd3Li_RCku8nNmU59cZersXldISDhY_whoHQ8Tr4/edit?usp=sharing
 dip-timeline-and-milestiones : https://docs.google.com/presentation/d/14KeJp3UcTVtkp8vNFfRAuEqgdqKWoAKZLVqNt4I2ujg/edit?usp=sharing
 
 
@@ -54,6 +58,7 @@ computer-resources-presentation : https://docs.google.com/presentation/d/1dO3eNA
 ten-simple-rules-paper : https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010567
 gantt-chart-resources : https://docs.google.com/document/d/1eIcWfopk3owdXdjkzbEmZRg3oObdQLvYprrEMxP0jIQ/edit?usp=sharing
 good-enough-data-management : https://ucsb-library-research-data-services.github.io/project-data-management/
+mesm-reviews-schdule : 
 
 
 # ---------------------------------------

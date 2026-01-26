@@ -10,6 +10,8 @@
 
 📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
 
+🏛️ [Checklist for MEDS Capstone Projects Organizations and Repositories]({{< var organization-repository-checklist >}})
+
 
 ## Schedule
 
