@@ -120,6 +120,6 @@ Carmen
 <span style="font-weight: bold;">Tasks all groups are expected to complete before next 411A class:</span>
 
 1. Due {{< var winter-w4-class-date >}}: Draft of DIP Solution Design section, including Approach, Methods, and Research Data.
-2. Due {{< var winter-w4-class-date >}}: Draft DIP Timeline & Milestones including a [Gantt chart]({{< var dip-timeline-and-milestiones >}}){style="color: #0066cc;"} to show their expected timeline
+2. Due {{< var winter-w4-class-date >}}: Draft DIP Timeline & Milestones including a [Gantt chart]({{< var dip-timeline-and-milestones >}}){style="color: #0066cc;"} to show their expected timeline
 3. Due {{< var winter-w4-class-date >}}: Add project summary to their GitHub organization and delete demo repos
 4. Prepare a flash talk to be presented next class on {{< var winter-w4-class-date >}}. 

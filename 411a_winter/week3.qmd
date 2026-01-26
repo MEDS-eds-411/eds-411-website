@@ -16,7 +16,7 @@ While writing the DIP, keep actively engaging with your data, running preliminar
 
 📗 [Good enough practices to manage your project data]({{< var good-enough-data-management >}})
 
-🗓️ [DIP Timeline and milestones]({{< var dip-timeline-and-milestiones >}})
+🗓️ [DIP Timeline and milestones]({{< var dip-timeline-and-milestones >}})
 
 💭 [In-class Team Reflections]({{< var team-reflections-411A >}})
 
@@ -77,7 +77,7 @@ There might be details, questions, or even gaps about how you’ll create your  
 <details>
 <summary>**Instructions**</summary>
 
-Review the class slides about the [DIP Timeline and milestones]({{< var dip-timeline-and-milestiones >}}).
+Review the class slides about the [DIP Timeline and milestones]({{< var dip-timeline-and-milestones >}}).
 
 Include a Gantt Chart to visualize represent your project’s timeline. Some [Gantt chart resources]({{< var gantt-chart-resources >}}) from Dr. Casey O’Hara. You can also make a nice looking one in Google sheets.
 

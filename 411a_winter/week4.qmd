@@ -17,21 +17,17 @@ This {{< var mesm-reviews-date >}}. Check the [schedule here]({{< var mesm-revie
 
 ## Schedule
 
-1:00 - 1:05 : Questions & check-in 
+12:30 - 12:40 : Check-in & checklist for next class
 
-1:05 - 1:15: Upcoming assignments
+12:40 - 1:30 : Flash presentations
 
-1:15 - 1:55: Capstone groups flash presentations 
+1:10 - 2:30: Resolving a Conflict Workshop - Dr. David Rasch, UCSB Associate Ombuds
 
-1:55 - 2:00: BREAK
+2:30 - 2:35: BREAK
 
-2:00 - 2:10: DIP Documentation Plan
+2:35 - 3:25: Independent co-working 
 
-2:10 - 4:00:  
-
-- Meetings with Research Data Services, UCSB Library
-- Coworking
-- Check-ins with groups
+3:25 - 3:30: Team reflections
 
 ## Upcoming capstone deadlines
 
@@ -40,18 +36,54 @@ This {{< var mesm-reviews-date >}}. Check the [schedule here]({{< var mesm-revie
 
 ## To do by next week
 
-### 📥 Submit (due on Tuesday 1/28)
+### 1. 🌱 Complete Personal Reflection 1 & Self/Peer evaluation
 
-Add the following updates to your DIP draft document:
+**Due when?** Submit by next class {{< var winter-w5-class-date >}}.
 
-- Title page, budget and budget justification, and references section
-- Draft of Data Management Plan and Documentation Plan sections due on Friday 2/7
+**How to submit:** Upload the two documents **as PDFs** to [this Box folder]({{< var reflection-1-box-folder-411A >}}). Make sure you use the following file names:
 
-Remember to always read the Capstone Guidelines first if you have questions about how to write any of the DIP sections!
+1. Firstname_Lastname_411A_CapstoneReflection1.pdf
+2. Firstname_Lastname_411A_SelfPeerEvaluation1.pdf
+
+<details>
+<summary>**Instructions**</summary>
+
+Please complete your the following two reflections:
+
+1. [[TEMPLATE] Personal Reflection 1 – 411A]({{< var personal-reflection-1-411A >}})
+2. [[TEMPLATE] Peer and Self Evaluation - Mid quarter 411A]({{< var peer-and-self-evaluation-1-411A >}})
+
+Detailed instructions are included in the templates.
+
+This is an individual assignment. Each person is responsible for submitting their own reflection and making sure the instructor is notified once it’s shared.
+
+**If you would like to set up a meeting with me (Carmen) to chat about anything, please send me a Slack message and we can find a time that works.**
+
+</details>
 
 <br>
 
-### 💬 Schedule 1-1 meeting
+### 2. 📝 Draft remaining DIP sections
 
-We’ll have 1-1 in-person meetings February 6-12 to check how everything is going. Please [book a 10-minute slot to meet on my calendar](https://calendar.app.google/qbNAk8LHeKzRpLMq6). Meetings will take place at my office BH 4424.
+**Due when?** First complete draft of the DIP is due **as a Google doc** on {{< var dip-draft-deadline >}}.
+
+<details> 
+<summary>**Instructions**</summary>
+
+Add the following updates to your DIP draft document:
+
+- Data Management Plan section
+- Title page, budget and budget justification, and references section
+
+You will find information about how to structure all these sections in the the [Capstone Guidelines]({{< var capstone-guidelines >}}).
+
+</details>
+
+<br>
+
+### 3. 💻💫 Keep working on exploring and implementing your project!
+
+
+
+
 
