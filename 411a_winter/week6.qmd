@@ -5,9 +5,15 @@
 
 📕 [Class slides]({{< var winter-week6-class-slides >}})
 
-
-
 📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
+
+#### Faculty Reviews
+
+📗 [Faculty Reviews Logistics slides - Jamie Montgomery, MEDS Program Director]({{< var faculty-review-logistics-slides >}})
+
+📙 [Faculty Reviews Strategies - Dr. Alex Phillips, Astt. Teaching Professor]()
+
+📗 [Faculty Reviews Rubric]({{< var faculty-review-rubric >}})
 
 
 ## Schedule

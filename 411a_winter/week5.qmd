@@ -5,32 +5,36 @@
 
 📕 [Class slides]({{< var winter-week5-class-slides >}})
 
+🧠 [Testing Brainstorm Shared Folder]({{< var week5-testing-brainstorm-folder >}})
+
 💭 [In-class Team Reflections]({{< var team-reflections-411A >}})
 
 📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
 
 #### Faculty Reviews
 
-📗 [Faculty Reviews Logistics slides - Jamie Montgomery]({{< var faculty-review-logistics-slides >}})
+📗 [Faculty Reviews Logistics slides - Jamie Montgomery, MEDS Program Director]({{< var faculty-review-logistics-slides >}})
 
-📙 [Faculty Reviews Strategies - Dr. Alex Phillips]()
+📙 [Faculty Reviews Strategies - Dr. Alex Phillips, Astt. Teaching Professor]()
 
 📗 [Faculty Reviews Rubric]({{< var faculty-review-rubric >}})
 
 
 ## Schedule
 
-1:00 - 1:10: Questions, check-in & upcoming assignments
+**TBD**
 
-2:00 - 3:30: Public Speaking Workshop - Dr. Alex Phillips, Asst. Teaching Professor
+12:30 - 12:40: Questions, check-in & upcoming assignments
 
-3:35 - 4:00: Faculty Review Logistics - Jamie Montgomery, MEDS Program Director
+12:40 - 1:30: Testing brainstorm
 
-2:30 - 2:35: BREAK
+1:30 - 1:35: BREAK
 
-2:35 - 3:20: Testing brainstorm
+1:35 - 2:40 : Faculty Reviews Strategies - Dr. Alex Phillips, Asst. Teaching Professor
 
-2:35 - 3:25: Independent co-working 
+2:40 - 3:00: Faculty Review Logistics - Jamie Montgomery, MEDS Program Director
+
+3:00 - 3:25: Independent co-working 
 
 3:25 - 3:30: Team reflections
 
@@ -65,7 +69,7 @@
 
 <br>
 
-### 💬 Prepare faculty review practice presentation
+### 2. 💬 Prepare faculty review practice presentation
 
 **Due when?** Presentations will happen during next class on {{< var winter-w4-class-date >}}. 
 
@@ -80,7 +84,7 @@
 
 3. Decide with your team what preliminary results, progress, or prototype you will include in your presentation
 
-4. 💥 Put together a complete presentation deck following [LINK TO ALEX'S MATERIALS](). It’s ok if you add stand-in figures for prototypes or preliminary results for now.
+4. 💥 Put together a complete presentation deck following [Dr. Philip's Faculty Review Strategies](). It’s ok if you add stand-in figures for prototypes or preliminary results for now.
 
 5. Discuss your draft slides with your faculty advisor. 
 
@@ -92,7 +96,7 @@
 
 ## Next class schedule
 
-The class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to other teams as follows:
+**Practice presentations will be at Pine Room (BH 3526).** The class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to other teams as follows:
 
 ![](/411a_winter/images/presentations_blocks_1.png)
 
