@@ -3,104 +3,89 @@
 
 ## Materials
 
-📕 [Class slides](https://docs.google.com/presentation/d/1OGFMNllMTYuW2lktg_sdFyft2KUwvmrMdWd8Vk9TKok/edit?usp=sharing)
+📕 [Class slides]({{< var winter-week5-class-slides >}})
 
-[📗 Resolving A Conflict slides - Dr. David Rasch, UCSB Associate Ombuds](https://docs.google.com/presentation/d/1zs2Opt4iWC7UnthN0sNbNdPBdPYDsZoE/edit?usp=sharing&ouid=111507336322611936333&rtpof=true&sd=true)
+💭 [In-class Team Reflections]({{< var team-reflections-411A >}})
 
-📖 [Capstone Guidelines](https://drive.google.com/file/d/1qftu6sNqHeiv0p5K2xhfV8rfdc14oOk_/view?usp=share_link)
+📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
+
+#### Faculty Reviews
+
+📗 [Faculty Reviews Logistics slides - Jamie Montgomery]({{< var faculty-review-logistics-slides >}})
+
+📙 [Faculty Reviews Strategies - Dr. Alex Phillips]()
+
+📗 [Faculty Reviews Rubric]({{< var faculty-review-rubric >}})
 
 
 ## Schedule
 
 1:00 - 1:10: Questions, check-in & upcoming assignments
 
-1:10 - 2:30: Resolving a Conflict Workshop - Dr. David Rasch, UCSB Associate Ombuds
+2:00 - 3:30: Public Speaking Workshop - Dr. Alex Phillips, Asst. Teaching Professor
+
+3:35 - 4:00: Faculty Review Logistics - Jamie Montgomery, MEDS Program Director
 
 2:30 - 2:35: BREAK
 
 2:35 - 3:20: Testing brainstorm
 
-3:20 - 3:25: BREAK
+2:35 - 3:25: Independent co-working 
 
-3:25 - 4:00: MEDS faculty reviews watch party
+3:25 - 3:30: Team reflections
 
 
 ## Upcoming capstone deadlines
 
-![](/411a_winter/images/411a_2025_deadlines2.png)
+![](/411a_winter/images/411a_deadlines2.png)
 
 
 ## To do by next week
 
-### 📥 Submit complete DIP draft
+### 1. 📥 Submit complete DIP draft
 
-**Due by 5pm on Friday 2/7**
+**Due when?** Submit by 5 PM on {{< var dip-draft-deadline >}}.
 
-- Incorporate the feedback you’ve received so far.
-- Email your advisor and me with a link to you google doc. Be professional and remind them of the due date for feedback next Friday. 
+**How to submit:** Email your advisor and me with a link to your *Google doc*. 
+
+<details>
+<summary>**Instructions**</summary>
+
+- **Draft any remaining sections**, including title page, budget and budget justification, and references. You will find information about how to structure every sections in the the [Capstone Guidelines]({{< var capstone-guidelines >}}).
+
+- Assess and, if necessary, incorporate any feedback you’ve received so far.
+
+- Page limit: The Design and Implementation plan should be limited to 5-10 single-spaced pages of written text. This page limit does not include the title page, table of contents, budget and justification, references cited, or the Team Management Plan.
+
+- Be professional when emailing your advisor and remind them that the due date for feedback next Friday. 
 
 - **Make the most out of this revision:** it’s great to request specific feedback from your advisor! Is there any section you’d particularly like their input on? Let them know in your message. You can also tag us in comments inside your document.
 
-* Page limit: The Design and Implementation plan should be limited to 5-10 single-spaced pages of written text. This page limit does not include the title page, table of contents, budget and justification, or references cited. 
+</details>
 
 <br>
 
-### 📈 Prepare a flash talk (last one!)
+### 💬 Prepare faculty review practice presentation
 
-Prepare 4 slides covering:
+**Due when?** Presentations will happen during next class on {{< var winter-w4-class-date >}}. 
 
-- Slide 1: A cover slide 
-- Slide 2: Brief overview of project’s products and deliverables (don’t include academic ones) and which ones you are currently working on. 
-- Slide 3: An update or two on the progress you’ve made on the deliverables. Include code, graphs, or figures your team has generated. Explain how this work will integrate with or is a step towards your deliverable.
-- Slide 4:  Next steps.
+**How to submit:** Add slides to [Week 4 - Flash talks shared folder]({{< var faculty-reviews-1-shared-folder >}}).
 
-Pick a person or two who are ready to do a 3 minute presentation next class.
-Add slides to [Week 6 - Flash talks](https://drive.google.com/drive/folders/11tDGvX_BeqYKHwGN7c_5QxGmO2F7UFYx?usp=share_link).
-
-Focus on: 
-
-- Switching “Shiny app” for “interactive web app” or “dashboard” (all documents)
-- Avoiding big blocks of text + big enough font size 
-- Clearly explaining the figures you feature and adding references and provenance where appropriate. Check [how to talk about your figures](https://docs.google.com/presentation/d/1OGFMNllMTYuW2lktg_sdFyft2KUwvmrMdWd8Vk9TKok/edit?usp=sharing).
-- Project your voice + LOOK AT YOUR AUDIENCE (i.e. don’t read off your slides all the time)
-- Ask fo questions from the audience at the end
-- Practice and time it! 
-
-
-### 💬 Schedule 1-1 meeting
-
-We’ll have 1-1 in-person meetings February 6-12 to check how everything is going. Please [book a 10-minute slot to meet on my calendar](https://calendar.app.google/qbNAk8LHeKzRpLMq6). Meetings will take place at my office BH 4424.
-
-<br>
-
-### 🤔 Discuss with team
-
-**Context:** your Team Management Plan + DIP draft submissions + flashtalks, and the feedback you received.
-
-**Add this item to the agenda for your next team meeting:**
-
-Discuss what went well and and what could be better:
-
-- ✨How will your team improve?✨
-- Is your team delivering high-quality, timely work?
-- Do you need to re-read the capstone guidelines?
-- Should you seek more feedback or guidance from your client/advisor?
-- Should you be more proactive in proposing solutions or product details?
-- Does your team need to share work earlier so everyone can revise?
-- Do you need to establish new expectations or ground rules in your team management plan?
-
-### 2. 📝 Draft remaining DIP sections
-
-**Due when?** First complete draft of the DIP is due **as a Google doc** on {{< var dip-draft-deadline >}}.
-
-<details> 
+<details>
 <summary>**Instructions**</summary>
 
-Add the following sections to your DIP draft document:
+1. Read the [rubric for faculty reviews]({{< var faculty-review-rubric >}}).
 
-- Data Management Plan section
-- Title page, budget and budget justification, and references section
+2. 💥Review the guidelines for your presentation from the [Faculty Reviews Logistics slides]({{< var faculty-review-logistics-slides >}})
 
-You will find information about how to structure all these sections in the the [Capstone Guidelines]({{< var capstone-guidelines >}}).
+3. Decide with your team what preliminary results, progress, or prototype you will include in your presentation
+
+4. 💥 Put together a complete presentation deck following [LINK TO ALEX'S MATERIALS](). It’s ok if you add stand-in figures for prototypes or preliminary results for now.
+
+5. Discuss your draft slides with your faculty advisor. 
+
+6. Decide who will be presenting in faculty review (and who in public final presentation). Every person in the team should be ready to present if needed.
+
+7. Add your draft to our [shared drive]({{< var faculty-reviews-1-shared-folder >}}) and be ready to do a formal practice presentation next week! 
 
 </details>

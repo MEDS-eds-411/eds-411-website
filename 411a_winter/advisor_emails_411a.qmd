@@ -69,7 +69,7 @@ Carmen
 4. Fill out a [questionnaire about their Data Management Plan]({{< var rds-questionnaire-doc >}}){style="color: #0066cc;"} in preparation for meeting with the Research Data Services from UCSB’s Library this week during the 411 class.
 - Continue working on independent data exploration and project implementation!
 
----
+
 
 ## Week 3
 
@@ -124,7 +124,6 @@ Carmen
 3. Due {{< var winter-w4-class-date >}}: Add project summary to their GitHub organization and delete demo repos
 4. Prepare a flash talk to be presented next class on {{< var winter-w4-class-date >}}. 
 
----
 
 ## Week 4
 
@@ -163,7 +162,7 @@ Carmen
 
 - The UCSB Associate Ombuds, Dr. David Rasch, led a workshop on resolving conflict. 
 
-- Students worked independently with their capstone team and I checked in with each team for ~5 minutes.  
+- Students worked independently with their capstone team and I checked in with each team for ~5 minutes.    
 
 
 <span style="font-weight: bold;">Tasks all groups are expected to complete before next 411A class:</span>

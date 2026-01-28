@@ -3,15 +3,11 @@
 
 ## Materials
 
-📕 [Class slides](https://docs.google.com/presentation/d/1VxwF1LOY-5_-O-npwgSPTzZr9W8pro8UhmJbrvNsZwQ/edit?usp=sharing)
+📕 [Class slides]({{< var winter-week6-class-slides >}})
 
-📗 [Faculty Reviews presentation slides](https://docs.google.com/presentation/d/1qYm7QCg1T05E8DFLZGTb2JkCVnazUEZ-5pxDRidLuuo/edit#slide=id.ge6b7f452cd_0_6982)
 
-📘 [Style guidelines for your Faculty Review presentation](https://docs.google.com/presentation/d/1rMpHTbqVPNEDBZc_o8asS2wf_RsBU7IXkBNN91qx2SA/edit?usp=sharing)
 
-📙 [Ten Ways to Improve Presentations - Dr. Alex Phillips](https://docs.google.com/presentation/d/1ddl9cCrWf8AL0adNmq1y8_WEeAxIyo_RlBnUlTXPqpw/edit?usp=sharing)
-
-📖 [Capstone Guidelines](https://drive.google.com/file/d/1qftu6sNqHeiv0p5K2xhfV8rfdc14oOk_/view?usp=share_link)
+📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
 
 
 ## Schedule
@@ -36,23 +32,6 @@
 
 ## To do by next week
 
-### 💬 Prepare faculty review mock presentation
-
-1. Read the [rubric for faculty reviews](https://docs.google.com/presentation/d/1qYm7QCg1T05E8DFLZGTb2JkCVnazUEZ-5pxDRidLuuo/edit#slide=id.ge6b7f452cd_0_6982).
-
-2. 💥Read these [guidelines for your presentation](https://docs.google.com/presentation/d/1rMpHTbqVPNEDBZc_o8asS2wf_RsBU7IXkBNN91qx2SA/edit?usp=sharing)💥
-
-3. Decide with your team what preliminary results, progress, or prototype you will include in your presentation
-
-4. Put together a complete presentation deck following [Alex’s presentation, point 6]((https://docs.google.com/presentation/d/1ddl9cCrWf8AL0adNmq1y8_WEeAxIyo_RlBnUlTXPqpw/edit?usp=sharing)). It’s ok if you add stand-in figures for prototypes or preliminary results for now. Focus on the story line. 
-
-5. Discuss your draft slides with your faculty advisor. 
-
-6. Decide who will be presenting in faculty review (and who in public final presentation). Every person in the team should be ready to present if needed.
-
-7. Add your draft to our [shared drive](https://drive.google.com/drive/folders/1iJWmncW70KHbPyDfCPQraPg6rOcis75m?usp=share_link) and be ready to do a formal mock presentation next week! 
-
-<br>
 
 ### 📝 Update DIP
 
@@ -71,3 +50,19 @@ The class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00.
 Your theam should work on their project outside of their "presentation block". The following rooms are reserved for you so you have a dedicated workspace during our usual class time. You’re welcome to use other places to work. 
 
 ![](/411a_winter/images/presentations_rooms_1.png)
+
+### 🤔 Discuss with team
+
+**Context:** your Team Management Plan + DIP draft submissions + flashtalks, and the feedback you received.
+
+**Add this item to the agenda for your next team meeting:**
+
+Discuss what went well and and what could be better:
+
+- ✨How will your team improve?✨
+- Is your team delivering high-quality, timely work?
+- Do you need to re-read the capstone guidelines?
+- Should you seek more feedback or guidance from your client/advisor?
+- Should you be more proactive in proposing solutions or product details?
+- Does your team need to share work earlier so everyone can revise?
+- Do you need to establish new expectations or ground rules in your team management plan?
