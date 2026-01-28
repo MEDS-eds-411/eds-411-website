@@ -89,3 +89,13 @@
 7. Add your draft to our [shared drive]({{< var faculty-reviews-1-shared-folder >}}) and be ready to do a formal practice presentation next week! 
 
 </details>
+
+## Next class schedule
+
+The class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to other teams as follows:
+
+![](/411a_winter/images/presentations_blocks_1.png)
+
+Your theam should work on their project outside of their "presentation block". The following rooms are reserved for you so you have a dedicated workspace during our usual class time. You’re welcome to use other places to work. 
+
+![](/411a_winter/images/presentations_rooms_1.png)
