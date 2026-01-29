@@ -15,26 +15,24 @@
 
 📗 [Faculty Reviews Logistics slides - Jamie Montgomery, MEDS Program Director]({{< var faculty-review-logistics-slides >}})
 
-📙 [Faculty Reviews Strategies - Dr. Alex Phillips, Astt. Teaching Professor]()
+📙 [Faculty Reviews Strategies - Dr. Alexandra Phillips, Astt. Teaching Professor]({{< var faculty-reviews-strategies >}})
 
 📗 [Faculty Reviews Rubric]({{< var faculty-review-rubric >}})
 
 
 ## Schedule
 
-**TBD**
-
 12:30 - 12:40: Questions, check-in & upcoming assignments
 
-12:40 - 1:30: Testing brainstorm
+12:40 - 1:25: Testing brainstorm
 
-1:30 - 1:35: BREAK
+1:25 - 1:30: BREAK
 
-1:35 - 2:40 : Faculty Reviews Strategies - Dr. Alex Phillips, Asst. Teaching Professor
+1:30 - 2:30: Faculty Reviews Strategies - Dr. Alex Phillips, Asst. Teaching Professor
 
-2:40 - 3:00: Faculty Review Logistics - Jamie Montgomery, MEDS Program Director
+2:50 - 3:25: Faculty Review Logistics - Jamie Montgomery, MEDS Program Director
 
-3:00 - 3:25: Independent co-working 
+2:50 - 3:25: Independent co-working 
 
 3:25 - 3:30: Team reflections
 
@@ -59,7 +57,7 @@
 
 - Assess and, if necessary, incorporate any feedback you’ve received so far.
 
-- Page limit: The Design and Implementation plan should be limited to 5-10 single-spaced pages of written text. This page limit does not include the title page, table of contents, budget and justification, references cited, or the Team Management Plan.
+- Page limit: The Design and Implementation plan should be limited to 5-10 single-spaced pages of written text. This page limit does not include the title page, table of contents, budget and justification, references cited, timeline and milestones, or the Team Management Plan.
 
 - Be professional when emailing your advisor and remind them that the due date for feedback next Friday. 
 
@@ -69,11 +67,11 @@
 
 <br>
 
-### 2. 💬 Prepare faculty review practice presentation
+### 2. 🎤 Prepare faculty review practice presentation
 
-**Due when?** Presentations will happen during next class on {{< var winter-w4-class-date >}}. 
+**Due when?** Presentations will happen during next class on {{< var winter-w6-class-date >}}. 
 
-**How to submit:** Add slides to [Week 4 - Flash talks shared folder]({{< var faculty-reviews-1-shared-folder >}}).
+**How to submit:** Add slides to [Week 6 - Faculty Reviews DRAFT 1 shared folder]({{< var faculty-reviews-1-shared-folder >}}).
 
 <details>
 <summary>**Instructions**</summary>
@@ -84,7 +82,7 @@
 
 3. Decide with your team what preliminary results, progress, or prototype you will include in your presentation
 
-4. 💥 Put together a complete presentation deck following [Dr. Philip's Faculty Review Strategies](). It’s ok if you add stand-in figures for prototypes or preliminary results for now.
+4. 💥 Put together a complete presentation deck following [Dr. Philip's Faculty Review Strategies]({{< var faculty-reviews-strategies >}}). It’s ok if you add stand-in figures for prototypes or preliminary results for now.
 
 5. Discuss your draft slides with your faculty advisor. 
 
@@ -100,6 +98,4 @@
 
 ![](/411a_winter/images/presentations_blocks_1.png)
 
-Your theam should work on their project outside of their "presentation block". The following rooms are reserved for you so you have a dedicated workspace during our usual class time. You’re welcome to use other places to work. 
-
-![](/411a_winter/images/presentations_rooms_1.png)
+Your theam should **work in our usual classroom** on their project outside of their "presentation block".

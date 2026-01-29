@@ -5,63 +5,107 @@
 
 📕 [Class slides]({{< var winter-week6-class-slides >}})
 
+🔄 [Feedback grid for Block 1]({{< var faculty-reviews-1-feedback-forms-block1 >}})
+
+🔄 [Feedback grid for Block 2]({{< var faculty-reviews-1-feedback-forms-block2 >}})
+
 📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
 
 #### Faculty Reviews
 
 📗 [Faculty Reviews Logistics slides - Jamie Montgomery, MEDS Program Director]({{< var faculty-review-logistics-slides >}})
 
-📙 [Faculty Reviews Strategies - Dr. Alex Phillips, Astt. Teaching Professor]()
+📙 [Faculty Reviews Strategies - Dr. Alexandra Phillips, Astt. Teaching Professor]({{< var faculty-reviews-strategies >}})
 
 📗 [Faculty Reviews Rubric]({{< var faculty-review-rubric >}})
 
 
 ## Schedule
 
-1:00 - 1:10 : Questions, check-in, & upcoming assignments
+**Practice presentations will be at Pine Room (BH 3526).** 
 
-1:10 - 1:55 : Flash presentations
+Today the class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to other teams as follows:
 
-1:55 - 2:00: BREAK
+![](/411a_winter/images/presentations_blocks_1.png)
 
-2:00 - 3:30: Public Speaking Workshop - Dr. Alex Phillips, Asst. Teaching Professor
-
-3:30 - 3:35: BREAK
-
-3:35 - 4:00: Faculty Review Logistics - Jamie Montgomery, MEDS Coordinator
+Your theam should work on their project in our usual clasroom outside of their "presentation block".
 
 
 ## Upcoming capstone deadlines
 
-![](/411a_winter/images/411a_2025_deadlines3.png)
+![](/411a_winter/images/411a_deadlines3.png)
 
 
 ## To do by next week
 
+### 1. 💬 Prepare mock presentation 2.0
 
-### 📝 Update DIP
+**Due when?** Presentations will happen during next class on {{< var winter-w7-class-date >}}. 
 
-If you have already received feedback from your advisor:
+**How to submit:** Add slides to [Week 7 - Faculty Reviews DRAFT 1 shared folder]({{< var faculty-reviews-2-shared-folder >}}).
+
+<details>
+<summary>**Instructions**</summary>
+
+**🎯 Prepare one or two slides with questions for your faculty reviewers** and add them to your slide deck.
+
+- The instructor might send you some extra comments and feedback on your presentation today.
+- Assess and incorporate peer and instructor feedback and streamline your presentation.
+- Iterate with your faculty advisor.
+- Practice will go a long way!
+
+Be sure to review the faculty review materials at the top of the page when preparing your presentation.
+
+</details>
+
+<br>
+
+### 2. 🙋🏽‍♀️ Prepare for Q&A
+
+**Due when?** We will practice answering questions after your presentation next class on {{< var winter-w7-class-date >}}. 
+
+<details>
+<summary>**Instructions**</summary>
+
+Next week, we’ll practice answering questions a bit more. 
+
+1. **Review** this [presentation about best practices to answer questions about your presentation](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing).
+
+2. **Identify** 4 - 5 bins that you expect faculty review questions to fall into (e.g. model selection, data management, statistical analyses). Write them down.
+
+3. **Decide** who would be most appropriate to respond to questions in each bin.
+
+4. **Write** down 2 - 3 questions in each bin that you might expect (and/or are afraid of getting) during your faculty review.
+
+5. **Prepare** any extra slides you might need during your Q&A.
+
+</instructions>
+
+<br>
+
+### 3. 📝 Update DIP
+
+<details>
+<summary>**Instructions**</summary>
+
+Once you receive feedback from your advisor:
 
 - discuss feedback with your team
 - start working on updating your draft
-- contact advisors or clients for clarification and share suggestions, and reply to comments within the document as needed. Remember to always do your research and discuss with your team first! 
+- contact advisors or clients for clarification and share suggestions. Take the initiative suggsting solutions or approaches and reply to comments within the document as needed. Remember to always do your research and discuss with your team first! 
 
-## Next class schedule
+</details>
 
-The class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to other teams as follows:
+<br>
 
-![](/411a_winter/images/presentations_blocks_1.png)
+### 4. 🤔 Have a mid-quarter check-in with team
 
-Your theam should work on their project outside of their "presentation block". The following rooms are reserved for you so you have a dedicated workspace during our usual class time. You’re welcome to use other places to work. 
+**Due when?** Add this item to the agenda for your next team meeting.
 
-![](/411a_winter/images/presentations_rooms_1.png)
+<details>
+<summary>**Instructions**</summary>
 
-### 🤔 Discuss with team
-
-**Context:** your Team Management Plan + DIP draft submissions + flashtalks, and the feedback you received.
-
-**Add this item to the agenda for your next team meeting:**
+**Context:** your Team Management Plan + DIP draft submissions + flashtalks + practice presentation, and the feedback you received.
 
 Discuss what went well and and what could be better:
 
@@ -71,4 +115,16 @@ Discuss what went well and and what could be better:
 - Should you seek more feedback or guidance from your client/advisor?
 - Should you be more proactive in proposing solutions or product details?
 - Does your team need to share work earlier so everyone can revise?
-- Do you need to establish new expectations or ground rules in your team management plan?
+- Do you need to establish new expectations or ground rules in your Team Management Plan?
+
+</details>
+
+## Next class schedule
+
+The class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to other teams as follows:
+
+![](/411a_winter/images/presentations_blocks_2.png)
+
+Your theam should work on their project outside of their "presentation block". The following rooms are reserved for you so you have a dedicated workspace during our usual class time. You’re welcome to use other places to work. 
+
+![](/411a_winter/images/presentations_rooms_2.png)
