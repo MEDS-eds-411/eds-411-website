@@ -38,7 +38,7 @@ Your theam should work on their project in our usual clasroom outside of their "
 
 ## To do by next week
 
-### 1. 💬 Prepare mock presentation 2.0
+### 1. 💬 Prepare practice presentation 2.0
 
 **Due when?** Presentations will happen during next class on {{< var winter-w7-class-date >}}. 
 
@@ -52,7 +52,7 @@ Your theam should work on their project in our usual clasroom outside of their "
 - The instructor might send you some extra comments and feedback on your presentation today.
 - Assess and incorporate peer and instructor feedback and streamline your presentation.
 - Iterate with your faculty advisor.
-- Practice will go a long way!
+- Practice goes a long way!
 
 Be sure to review the faculty review materials at the top of the page when preparing your presentation.
 
@@ -69,13 +69,13 @@ Be sure to review the faculty review materials at the top of the page when prepa
 
 Next week, we’ll practice answering questions a bit more. 
 
-1. **Review** this [presentation about best practices to answer questions about your presentation](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing).
+1. **Review** this [presentation about best practices to answer questions](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing).
 
 2. **Identify** 4 - 5 bins that you expect faculty review questions to fall into (e.g. model selection, data management, statistical analyses). Write them down.
 
 3. **Decide** who would be most appropriate to respond to questions in each bin.
 
-4. **Write** down 2 - 3 questions in each bin that you might expect (and/or are afraid of getting) during your faculty review.
+4. **Write** down 2 - 3 questions in each bin that you might expect (and/or are nervous of getting) during your faculty review.
 
 5. **Prepare** any extra slides you might need during your Q&A.
 

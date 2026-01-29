@@ -5,7 +5,7 @@
 
 📕 [Class slides]({{< var winter-week5-class-slides >}})
 
-🧠 [Testing Brainstorm Shared Folder]({{< var week5-testing-brainstorm-folder >}})
+🗂️ [Testing Brainstorm Shared Folder]({{< var week5-testing-brainstorm-folder >}})
 
 💭 [In-class Team Reflections]({{< var team-reflections-411A >}})
 
@@ -88,7 +88,7 @@
 
 6. Decide who will be presenting in faculty review (and who in public final presentation). Every person in the team should be ready to present if needed.
 
-7. Add your draft to our [shared drive]({{< var faculty-reviews-1-shared-folder >}}) and be ready to do a formal practice presentation next week! 
+7. Add your draft to our [shared drive]({{< var faculty-reviews-1-shared-folder >}}) and be ready to do a complete practice presentation next week! 
 
 </details>
 
