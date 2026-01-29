@@ -42,7 +42,7 @@ Your theam should work on their project in our usual clasroom outside of their "
 
 **Due when?** Presentations will happen during next class on {{< var winter-w7-class-date >}}. 
 
-**How to submit:** Add slides to [Week 7 - Faculty Reviews DRAFT 1 shared folder]({{< var faculty-reviews-2-shared-folder >}}).
+**How to submit:** Add slides to [Week 7 - Faculty Reviews DRAFT 2 shared folder]({{< var faculty-reviews-2-shared-folder >}}).
 
 <details>
 <summary>**Instructions**</summary>

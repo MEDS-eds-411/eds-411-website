@@ -2,95 +2,75 @@
 
 ## Materials
 
-📕 [Class slides](https://docs.google.com/presentation/d/1BTkb1Zhe5kHfzpIy31fwXiFezqfmuGnmetUaWXeG-FE/edit?usp=sharing)
+📕 [Class slides]({{< var winter-week7-class-slides >}})
 
-📗 [Responding to questions slides - Dr. Allison Horst](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing)
+🔄 [Feedback grid for Block 1]({{< var faculty-reviews-2-feedback-forms-block1 >}})
 
-📖 [Capstone Guidelines](https://drive.google.com/file/d/1qftu6sNqHeiv0p5K2xhfV8rfdc14oOk_/view?usp=share_link)
+🔄 [Feedback grid for Block 2]({{< var faculty-reviews-2-feedback-forms-block2 >}})
 
+📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
+
+#### Faculty Reviews
+
+📗 [Faculty Reviews Logistics slides - Jamie Montgomery, MEDS Program Director]({{< var faculty-review-logistics-slides >}})
+
+📙 [Faculty Reviews Strategies - Dr. Alexandra Phillips, Astt. Teaching Professor]({{< var faculty-reviews-strategies >}})
+
+📗 [Faculty Reviews Rubric]({{< var faculty-review-rubric >}})
+
+📙 [Responding to questions slides - Dr. Allison Horst]({{< var allison-horst-responding-questions >}})
 
 ## Class Schedule
 Today the class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to another teams as follows:
 
 ![](/411a_winter/images/presentations_blocks_1.png)
 
-Your team should work on their project outside of their “presentation block”. Check last week's slide to see the room(s) that are booked for your team.
+Your team should work on their project outside of their “presentation block”. Check last week's page to see the room(s) that are booked for your team.
 
 ## Upcoming capstone deadlines
 
-![](/411a_winter/images/411a_2025_deadlines4.png)
+![](/411a_winter/images/411a_deadlines4.png)
 
 
 ## To do by next week
 
-### 💬 Prepare mock presentation 2.0
+### 1. 💬 Finalize and practice your presentation
 
-- I might send you some extra comments and feedback
-- Incorporate the feedback and streamline your presentation
-- Iterate with your faculty advisor
-- Practice makes perfect!
+**Due when?** Faculty reviews will take place during class on {{< var winter-w8-class-date >}}. Please add your slides before then. 
 
-Add your slides to [this shared folder](https://drive.google.com/drive/folders/1Gf0zctr2LxVwx382vJ4e9PPcdBHLQEuj?usp=share_link) before class.
+**How to submit:** Add your final slides to the [*Faculty Reviews Presentations - Final Slides* shared folder]({{< var faculty-reviews-final-shared-folder >}}) it in the folder corresponding to the room you will present in.
 
-Be sure to review the following resources when preparing your presentation:
+<details>
+<summary>**Instructions**</summary>
 
-📗 [Faculty Reviews Logistics](https://docs.google.com/presentation/d/1qYm7QCg1T05E8DFLZGTb2JkCVnazUEZ-5pxDRidLuuo/edit#slide=id.ge6b7f452cd_0_6982)
+- **Have a mock presentation with your faculty advisor. Prioritize their feedback.**
+- Make sure you are ready to explain any technical terms you mention in your presentation. 
+- You may receive extra comments and feedback from the 411 instructor.
 
-📘 [Style guidelines for your Faculty Review presentation](https://docs.google.com/presentation/d/1rMpHTbqVPNEDBZc_o8asS2wf_RsBU7IXkBNN91qx2SA/edit?usp=sharing)
-
-📙 [Ten Ways to Improve Presentations - Dr. Alex Phillips](https://docs.google.com/presentation/d/1ddl9cCrWf8AL0adNmq1y8_WEeAxIyo_RlBnUlTXPqpw/edit?usp=sharing)
+</details>
 
 <br>
 
-### 🤔 Prepare for Q&A
-
-Next week, we’ll practice answering questions a bit more. 
-
-1. **Review** this [presentation about best practices to answer questions about your presentation](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing).
-
-2. **Identify** 4 - 5 bins that you expect faculty review questions to fall into (e.g. model selection, data management, statistical analyses). Write them down.
-
-3. **Decide** who would be most appropriate to respond to questions in each bin.
-
-4. **Write** down 2 - 3 questions in each bin that you might expect (and/or are afraid of getting) during your faculty review
-
-5. **Prepare**, if necessary, any extra slides you might need during your Q&A
+**SEND DIP TO REVIWERS???**
 
 <br>
 
-### 📝 Keep working on...
 
-- Updating your DIP. *I might provide some feedback by the end of this week.* 
+### 2. 📝 Keep working on updating your DIP
 
-- Getting your **preliminary results or creating a prototype for review**
+- Add details about your project your team has gathered while preparing for faculty reviews
+- Got a cool diagram that succinctly describes your process or model? Add it to your DIP!
+- **Obtaining preliminary results or creating a prototype for review.**
+
+<br>
+
+**SEND DIP TO REVIWERS???**
+
+<br>
 
 
-:::{.callout-warning appearance="minimal"}
-## DIP page limit
-The Design and Implementation plan should be limited to **5-10 single-spaced pages of written text**. This page limit does not include :
+<h4 style="text-align:center;">Practice and get ready for faculty reviews!</h4>
 
-- the title page, 
-- table of contents, 
-- budget and justification, 
-- references cited, 
-- timeline and milestones, 
-- the team management plan.
 
-The last two items not counting for the page limit is an update from the current capstone guidelines. 
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnloNzJmaWxqNTZoODFlZTNibGFjbG9vbTE2bTVhcDE0M3o0NGR6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VJNT5NYAmZiFEH6FLV/giphy.gif){fig-align="center" width="40%"}
 
-:::
-
-:::{.callout-tip appearance="minimal"}
-## Reminder
-Have you let clients / external advisors / others you want to invite know when your faculty review is? 
-:::
-
-## Next class schedule
-
-**Next class we will be at the Environmental Science Seminar Room 4016.** It's one floor above our usual classroom. 
-
-Again, the class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to other teams as follows:
-
-![](/411a_winter/images/presentations_blocks_2.png)
-
-Your theam should be in our usual classroom working on their project outside of their "presentation block".
