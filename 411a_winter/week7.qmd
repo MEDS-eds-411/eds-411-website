@@ -4,9 +4,9 @@
 
 📕 [Class slides]({{< var winter-week7-class-slides >}})
 
-🔄 [Feedback grid for Block 1]({{< var faculty-reviews-2-feedback-forms-block1 >}})
+🔄 [Questions & feedback grid for Block 1]({{< var faculty-reviews-2-feedback-forms-block1 >}})
 
-🔄 [Feedback grid for Block 2]({{< var faculty-reviews-2-feedback-forms-block2 >}})
+🔄 [Questions & feedback grid for Block 2]({{< var faculty-reviews-2-feedback-forms-block2 >}})
 
 📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
 
@@ -18,14 +18,16 @@
 
 📗 [Faculty Reviews Rubric]({{< var faculty-review-rubric >}})
 
-📙 [Responding to questions slides - Dr. Allison Horst]({{< var allison-horst-responding-questions >}})
+📅 [Faculty Reviews Schedule]({{< var faculty-review-schedule >}})
 
-## Class Schedule
-Today the class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to another teams as follows:
+<!-- 📙 [Responding to questions slides - Dr. Allison Horst]({{< var allison-horst-responding-questions >}}) -->
 
-![](/411a_winter/images/presentations_blocks_1.png)
+## Schedule
+Today the class will be divided in two blocks from 12:30 to 2:10 and from 2:10 to 3:30. Each team will present and provide feedback to other teams as follows:
 
-Your team should work on their project outside of their “presentation block”. Check last week's page to see the room(s) that are booked for your team.
+![](/411a_winter/images/presentations_blocks_2.png)
+
+Your team should work on their project outside of their “presentation block”. Check the class slides to see the room(s) that are booked for your team.
 
 ## Upcoming capstone deadlines
 
@@ -34,24 +36,35 @@ Your team should work on their project outside of their “presentation block”
 
 ## To do by next week
 
-### 1. 💬 Finalize and practice your presentation
 
-**Due when?** Faculty reviews will take place during class on {{< var winter-w8-class-date >}}. Please add your slides before then. 
+::: {.callout-warning appearance="minimal"}
+# 📩 Strongly encouraged: Send your DIP draft to reviewrs!
 
-**How to submit:** Add your final slides to the [*Faculty Reviews Presentations - Final Slides* shared folder]({{< var faculty-reviews-final-shared-folder >}}) it in the folder corresponding to the room you will present in.
+Send your DIP draft by this Thursday to your faculty reviewers (cc-) Giving your reviewers the opportunity to read your DIP can greatly improve the quality of the questions and feedback you get during the review.
+:::
+
+<br>
+
+### 1. 🛝 Add your presentation slides to shared folder
+
+**Due when?** {{< var faculty-reviews-slides-deadline >}} at midnight.
+
+**How to submit:** Add your slides to the [*Faculty Reviews Presentations - Final Slides* shared folder]({{< var faculty-reviews-final-shared-folder >}}) it in the folder corresponding to the room you will present in.
+
+<br>
+
+### 2. 💬 Practice your presentation and prepare for Q&A
+
+**Due when?** Faculty reviews will take place during class on {{< var winter-w8-class-date >}}. 
 
 <details>
 <summary>**Instructions**</summary>
 
-- **Have a mock presentation with your faculty advisor. Prioritize their feedback.**
+- **Have a practice presentation with your faculty advisor. Prioritize their feedback.**
 - Make sure you are ready to explain any technical terms you mention in your presentation. 
 - You may receive extra comments and feedback from the 411 instructor.
 
 </details>
-
-<br>
-
-**SEND DIP TO REVIWERS???**
 
 <br>
 
@@ -62,9 +75,6 @@ Your team should work on their project outside of their “presentation block”
 - Got a cool diagram that succinctly describes your process or model? Add it to your DIP!
 - **Obtaining preliminary results or creating a prototype for review.**
 
-<br>
-
-**SEND DIP TO REVIWERS???**
 
 <br>
 
