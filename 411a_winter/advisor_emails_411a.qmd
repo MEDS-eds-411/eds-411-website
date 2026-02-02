@@ -29,6 +29,7 @@ Carmen
 
 **[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}**
 
+<span style="font-weight: bold;">Upcoming Major Deadlines </span>
 ![](/411a_winter/images/411a_deadlines1.png)
 
 
@@ -91,6 +92,7 @@ Carmen
 
 **[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}**
 
+<span style="font-weight: bold;">Upcoming Major Deadlines </span>
 ![](/411a_winter/images/411a_deadlines2.png)
 
 ::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
@@ -143,6 +145,7 @@ Carmen
 
 **[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}**
 
+<span style="font-weight: bold;">Upcoming Major Deadlines </span>
 ![](/411a_winter/images/411a_deadlines2.png)
 
 ::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
@@ -170,3 +173,53 @@ Carmen
 1. Due {{< var winter-w5-class-date >}}: Complete midterm personal reflection and self/peer evaluation.
 2. Due {{< var dip-draft-deadline >}}: Draft remaining DIP sections. 
 3. Keep working one exploring and implementing their projects!
+
+
+## Week 5
+
+I hope you are doing well. 
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please feel free to reach out with any questions, comments, or suggestions.
+
+Best wishes, 
+
+Carmen 
+
+{{< include /_email_signature.qmd >}}
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+**[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}**
+
+<span style="font-weight: bold;">Upcoming Major Deadlines </span>
+![](/411a_winter/images/411a_deadlines2.png)
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+- <span style="font-weight: bold;">Students will submit a complete draft of their Design and Implementation Plan (DIP) this Friday. Expect an email with a link to a Google doc on {{< var dip-draft-deadline >}}. Feedback from advisors is due on {{< var feedback-on-dip-draft-deadline >}}.</span>
+
+- The DIP is both the primary academic deliverable this quarter and a concrete plan for how the team will address the client’s problem. A complete, high-quality draft now will provide a clear roadmap for the capstone and allow teams to focus on implementation in the coming weeks. You can see [sample past DIPs here]({{< var sample-dips >}}).
+
+
+- Most teams have a strong sense of their project direction, but some need to further add details to their methods. If you are serving as a client, before {{< var dip-draft-deadline >}} is a great time to check in with your team to confirm deliverables and objectives, ensure shared expectations, and discuss detailed implementation.
+
+- Starting next week, we’ll switch from writing the DIP to preparing for faculty review presentations. During faculty reviews, students must present preliminary results and/or a prototype. Students might contact you to discuss what will be feasible to present on {{< var faculty-reviews-date >}}.
+:::
+
+<br> 
+
+<span style="font-weight: bold;">In 411A Today</span> [(slides @ website)]({{< var winter-week5-website >}}){style="color: #0066cc;"}
+
+- Groups worked on the DIP Testing Plan section, discussing how their data, code, analyses, models, and data products could break and what they could do to prevent that or test their reliability.
+
+- Alex Phillips, Asst. Teaching Professor at Bren, led a workshop about [strategies for a successful Q&A session]({{< var faculty-reviews-strategies >}}) during faculty reviews.
+
+- Jamie Montgomery, the MEDS program director, presented the [logistics for the faculty reviews]({{< var faculty-review-logistics-slides >}}). 
+
+- Students worked independently with their capstone team.
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411A class:</span>
+

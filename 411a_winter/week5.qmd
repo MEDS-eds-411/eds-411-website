@@ -15,7 +15,7 @@
 
 📗 [Faculty Reviews Logistics slides - Jamie Montgomery, MEDS Program Director]({{< var faculty-review-logistics-slides >}})
 
-📙 [Faculty Reviews Strategies - Dr. Alexandra Phillips, Astt. Teaching Professor]({{< var faculty-reviews-strategies >}})
+📙 [Faculty Reviews Strategies - Dr. Alexandra Phillips, Asst. Teaching Professor]({{< var faculty-reviews-strategies >}})
 
 📗 [Faculty Reviews Rubric]({{< var faculty-review-rubric >}})
 
