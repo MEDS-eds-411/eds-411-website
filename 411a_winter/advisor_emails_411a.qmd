@@ -30,6 +30,7 @@ Carmen
 **[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}**
 
 <span style="font-weight: bold;">Upcoming Major Deadlines </span>
+
 ![](/411a_winter/images/411a_deadlines1.png)
 
 
@@ -93,6 +94,7 @@ Carmen
 **[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}**
 
 <span style="font-weight: bold;">Upcoming Major Deadlines </span>
+
 ![](/411a_winter/images/411a_deadlines2.png)
 
 ::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
@@ -129,6 +131,8 @@ Carmen
 
 ## Week 4
 
+Hello MEDS Capstone Advisors, 
+
 I hope you are doing well. 
 
 This is your weekly EDS 411 - MEDS Capstone project newsletter. Please feel free to reach out with any questions, comments, or suggestions.
@@ -146,6 +150,7 @@ Carmen
 **[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}**
 
 <span style="font-weight: bold;">Upcoming Major Deadlines </span>
+
 ![](/411a_winter/images/411a_deadlines2.png)
 
 ::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
@@ -177,6 +182,8 @@ Carmen
 
 ## Week 5
 
+Hello MEDS Capstone Advisors, 
+
 I hope you are doing well. 
 
 This is your weekly EDS 411 - MEDS Capstone project newsletter. Please feel free to reach out with any questions, comments, or suggestions.
@@ -194,6 +201,7 @@ Carmen
 **[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}**
 
 <span style="font-weight: bold;">Upcoming Major Deadlines </span>
+
 ![](/411a_winter/images/411a_deadlines2.png)
 
 ::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
@@ -201,7 +209,7 @@ Carmen
 
 - <span style="font-weight: bold;">Students will submit a complete draft of their Design and Implementation Plan (DIP) this Friday. Expect an email with a link to a Google doc on {{< var dip-draft-deadline >}}. Feedback from advisors is due on {{< var feedback-on-dip-draft-deadline >}}.</span>
 
-- The DIP is both the primary academic deliverable this quarter and a concrete plan for how the team will address the client’s problem. A complete, high-quality draft now will provide a clear roadmap for the capstone and allow teams to focus on implementation in the coming weeks. You can see [sample past DIPs here]({{< var sample-dips >}}).
+- The DIP is both the primary academic deliverable this quarter and a concrete plan for how the team will address the client’s problem. A complete, high-quality draft now will provide a clear roadmap for the capstone and allow teams to focus on implementation in the coming weeks. You can see [sample past DIPs here]({{< var sample-dips >}}){style="color: #0066cc;"}.
 
 
 - Most teams have a strong sense of their project direction, but some need to further add details to their methods. If you are serving as a client, before {{< var dip-draft-deadline >}} is a great time to check in with your team to confirm deliverables and objectives, ensure shared expectations, and discuss detailed implementation.
@@ -222,4 +230,11 @@ Carmen
 - Students worked independently with their capstone team.
 
 <span style="font-weight: bold;">Tasks all groups are expected to complete before next 411A class:</span>
+
+- Prepare a faculty review practice presentation (15 minutes). Students should discuss their slides with their advisor before presenting them!
+
+- Send a single-document draft of the DIP with any comments made so far resolved to advisor and 411 instructor.
+
+- Advance their prototype and preliminary results.
+
 
