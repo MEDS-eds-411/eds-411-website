@@ -5,6 +5,8 @@
 
 📕 [Class slides]({{< var winter-week6-class-slides >}})
 
+🗂️ [Presentations shared folder]({{< var faculty-reviews-1-shared-folder >}})
+
 🔄 [Feedback grid for Block 1]({{< var faculty-reviews-1-feedback-forms-block1 >}})
 
 🔄 [Feedback grid for Block 2]({{< var faculty-reviews-1-feedback-forms-block2 >}})

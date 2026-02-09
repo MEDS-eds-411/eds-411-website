@@ -237,4 +237,59 @@ Carmen
 
 - Advance their prototype and preliminary results.
 
+---
 
+## Week 6
+
+Hello MEDS Capstone Advisors, 
+
+I hope you are doing well. 
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please feel free to reach out with any questions, comments, or suggestions.
+
+Best wishes, 
+
+Carmen 
+
+{{< include /_email_signature.qmd >}}
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+**[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}**
+
+<span style="font-weight: bold;">Upcoming Major Deadlines </span>
+![](/411a_winter/images/411a_deadlines3.png)
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+- Each capstone group sent their advisor a link to their draft Design and Implementation Plan (DIP) last Friday. <span style="font-weight: bold;">Feedback from advisors on this document is due this {{< var feedback-on-dip-draft-deadline >}}.</span> I’ve read a previous draft of most sections and will give them broad feedback in this revision after you have added your comments.
+
+- Remember, the DIP should be a *concrete and realistic* statement of what the group will do to solve the assigned problem for their client. Please encourage them to be *specific and detailed*. For context about each section of the DIP, please refer to the [Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}.
+ 
+- Faculty reviews will take place on {{< var faculty-reviews-date >}} ([schedule]({{< var faculty-review-logistics-slides >}})). They will consist of a 15-minute presentation + 25-minute discussion with two Bren faculty reviewers providing feedback ([rubric]({{< var faculty-review-rubric >}})). This is an opportunity for them to 1) obtain feedback about their objectives, approach, and methods and 2) show they have completed steps towards building their deliverables. 
+
+- <span style="font-weight: bold;">Help your students prepare for their presentations</span> by discussing their slides with them and allocating time during to see a practice presentation. Ensure your students' projects have a defined, achievable scope and concrete, detailed objectives, deliverables, or research questions.
+
+:::
+
+<br>
+
+<span style="font-weight: bold;">In 411A Today</span> [(slides @ website)]({{< var winter-week6-website >}}){style="color: #0066cc;"}
+
+- Each group gave a practice faculty review presentation (15 minutes) and received feedback from their peers and myself (5 minutes). 
+- Each group will receive a document from me with feedback about their slides
+
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411A class:</span>
+
+- Prepare version 2.0 of their faculty review presentation. 
+- Discuss which kind of questions they will get and prepare for answering them. Review Alex Phillips presentation on [strategies for a successful Q&A session]({{< var faculty-reviews-strategies >}}){style="color: #0066cc;"}.
+- Keep working on updating their DIP.
+- Discuss in their next internal team meeting what is going well and what could be improved in how they’re working as a team.
+- Advance their prototype and preliminary results.
+
+
+<!-- - With faculty reviews coming up, students may start feeling increased pressure, which can sometimes lead to stress-related team challenges. We <span style="font-weight: bold;">strongly encourage you to have short 10-minute individual meetings with the team members to check in and offer advice.</span> -->
