@@ -269,9 +269,9 @@ Carmen
 
 - Remember, the DIP should be a *concrete and realistic* statement of what the group will do to solve the assigned problem for their client. Please encourage them to be *specific and detailed*. For context about each section of the DIP, please refer to the [Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}.
  
-- Faculty reviews will take place on {{< var faculty-reviews-date >}} ([schedule]({{< var faculty-review-logistics-slides >}})). They will consist of a 15-minute presentation + 25-minute discussion with two Bren faculty reviewers providing feedback ([rubric]({{< var faculty-review-rubric >}})). This is an opportunity for them to 1) obtain feedback about their objectives, approach, and methods and 2) show they have completed steps towards building their deliverables. 
+- Faculty reviews will take place on {{< var faculty-reviews-date >}} ([schedule with reviewers]({{< var faculty-review-logistics-slides >}})). They will consist of a 15-minute presentation + 25-minute discussion with two Bren faculty reviewers providing feedback ([rubric]({{< var faculty-review-rubric >}})). This is an opportunity for students to 1) obtain feedback about their objectives, approach, and methods and 2) show they have completed steps towards building their deliverables. 
 
-- <span style="font-weight: bold;">Help your students prepare for their presentations</span> by discussing their slides with them and allocating time during to see a practice presentation. Ensure your students' projects have a defined, achievable scope and concrete, detailed objectives, deliverables, or research questions.
+- Help your students prepare for their presentations by discussing their slides with them and allocating time fior a practice presentation. <span style="font-weight: bold;">Student presentations should have a clear exposition of the problem or knowledge gap to be addressed, detailed objectives, and concrete deliverables or research questions!</span> 
 
 :::
 
