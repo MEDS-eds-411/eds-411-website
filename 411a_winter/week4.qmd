@@ -10,6 +10,8 @@ This {{< var mesm-reviews-date >}}. Check the [schedule here]({{< var mesm-revie
 
 📕 [Class slides]({{< var winter-week4-class-slides >}})
 
+🤝 [Resolving a conflict slides]({{< var ombuds-slides >}}) - Dr. David Rasch, UCSB Associate Ombuds
+
 💭 [In-class Team Reflections]({{< var team-reflections-411A >}})
 
 📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
