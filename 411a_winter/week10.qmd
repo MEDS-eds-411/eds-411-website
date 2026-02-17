@@ -2,10 +2,10 @@
 
 ## Materials
 
-[📕  Class slides](https://docs.google.com/presentation/d/1Wm2RGevSkNMZ50uQs_5APvBNTrjlZNsGM2-nFI6DHAw/edit?usp=sharing)
+📕  [Class slides]({{< var winter-week10-class-slides >}})
 
 ## Upcoming Capstone Deadlines
-![](/411a_winter/images/411a_2025_deadlines5.png)
+![](/411a_winter/images/411a_deadlines5.png)
 
 :::{.callout-warning}
 ### No need to "Send repository access to CP coordinator"
