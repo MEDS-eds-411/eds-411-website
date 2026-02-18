@@ -269,7 +269,7 @@ Carmen
 
 - Remember, the DIP should be a *concrete and realistic* statement of what the group will do to solve the assigned problem for their client. Please encourage them to be *specific and detailed*. For context about each section of the DIP, please refer to the [Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}.
  
-- Faculty reviews will take place on {{< var faculty-reviews-date >}} ([schedule with reviewers]({{< var faculty-review-logistics-slides >}})). They will consist of a 15-minute presentation + 25-minute discussion with two Bren faculty reviewers providing feedback ([rubric]({{< var faculty-review-rubric >}})). This is an opportunity for students to 1) obtain feedback about their objectives, approach, and methods and 2) show they have completed steps towards building their deliverables. 
+- Faculty reviews will take place on {{< var faculty-reviews-date >}} ([schedule with reviewers]({{< var faculty-review-schedule >}}{style="color: #0066cc;"})). They will consist of a 15-minute presentation + 25-minute discussion with two Bren faculty reviewers providing feedback ([rubric]({{< var faculty-review-rubric >}})). This is an opportunity for students to 1) obtain feedback about their objectives, approach, and methods and 2) show they have completed steps towards building their deliverables. 
 
 - Help your students prepare for their presentations by discussing their slides with them and allocating time fior a practice presentation. <span style="font-weight: bold;">Student presentations should have a clear exposition of the problem or knowledge gap to be addressed, detailed objectives, and concrete deliverables or research questions!</span> 
 
@@ -280,7 +280,8 @@ Carmen
 <span style="font-weight: bold;">In 411A Today</span> [(slides @ website)]({{< var winter-week6-website >}}){style="color: #0066cc;"}
 
 - Each group gave a practice faculty review presentation (15 minutes) and received feedback from their peers and myself (5 minutes). 
-- Each group will receive a document from me with feedback about their slides
+- Each group will receive a document from me with feedback about their slides.
+- Groups worked independently on their projects for half of class time. 
 
 
 <span style="font-weight: bold;">Tasks all groups are expected to complete before next 411A class:</span>
@@ -293,3 +294,67 @@ Carmen
 
 
 <!-- - With faculty reviews coming up, students may start feeling increased pressure, which can sometimes lead to stress-related team challenges. We <span style="font-weight: bold;">strongly encourage you to have short 10-minute individual meetings with the team members to check in and offer advice.</span> -->
+
+---
+
+## Week 7
+
+Hello MEDS Capstone Advisors, 
+
+I hope you are doing well and had a restful long weekend. 
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please feel free to reach out with any questions, comments, or suggestions.
+
+Best wishes, 
+
+Carmen 
+
+{{< include /_email_signature.qmd >}}
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}
+
+<span style="font-weight: bold;">Upcoming Major Deadlines </span>
+![](/411a_winter/images/411a_deadlines4.png)
+
+<span style="font-weight: bold;">Faculty Review Documents </span>
+
+- [Full schedule with rooms and reviewers]({{< var faculty-review-schedule >}}){style="color: #0066cc;"}
+- [Presentation rubric for reviewers]({{< var faculty-review-rubric >}}){style="color: #0066cc;"}
+
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+
+- <span style="font-weight: bold;">Help your students prepare for their presentations by discussing their slides with them and allocating time during a team meeting to see a practice presentation</span>. 
+
+- While reviewing their presentations, please ensure they <span style="font-weight: bold;">clearly communicate a defined problem statement, concrete objectives, and detailed methods</span>. A few groups are still figuring this out and will benefit from their advisor's guidance.
+
+- For most groups, their presentation’s weak points coincide with vague portions of their DIP. <span style="font-weight: bold;">Asking students questions to identify conceptual gaps</span> is a great way to help them practice for the discussion with their reviewers and deepen their understanding of the project.
+
+- Students are encouraged (but not required) to send their complete, updated, and revised DIP draft to their faculty reviewers. <span style="font-weight: bold;">Please check in with your team to see if they plan to send their DIP to reviewers</span> and encourage them to send the best version they can at this time.
+
+- 🎉 Join us for a celebratory toast on Decker’s Deck (weather permitting) at 3:35 pm after the presentations. It’d be great to see you there! 
+
+::: 
+
+<br>
+
+<span style="font-weight: bold;">In 411A Yesterday</span> [(slides @ website)]({{< var winter-week7-website >}}){style="color: #0066cc;"}
+
+- Each group gave a practice faculty review presentation (15 minutes) and received feedback and answered questions from their peers and myself (5 minutes). 
+- Each group will receive a document from me with feedback about their presentation.
+- Groups worked independently on their projects for half of class time. 
+
+
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411A class:</span>
+
+- Add presentation slides to shared folder. 
+- Prepare for faculty reviews presentation and Q&A session. 
+- Keep working on updating their DIP.
+- Advance their prototype and preliminary results.

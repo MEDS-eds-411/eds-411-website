@@ -42,7 +42,7 @@ Your team should work on their project outside of their “presentation block”
 ::: {.callout-warning appearance="minimal"}
 # 📩 Strongly encouraged: Send your DIP draft to reviewrs!
 
-Send your **complete, updated, and revised**  DIP draft **as a PDF** by this Thursday to your faculty reviewers (cc-) Giving your reviewers the opportunity to read your DIP can greatly improve the quality of the questions and feedback you get during the review.
+Send your **complete, updated, and revised**  DIP draft **as a PDF** by this Thursday to your faculty reviewers. Giving your reviewers the opportunity to read your DIP can greatly improve the quality of the questions and feedback you get during the review.
 :::
 
 <br>
