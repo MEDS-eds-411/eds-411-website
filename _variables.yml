@@ -17,9 +17,15 @@ feedback-on-dip-draft-deadline : 'Friday 2/13'
 faculty-reviews-slides-deadline : 'Sunday 2/22'
 faculty-reviews-date : 'Monday 2/23'
 
+# 411 course website
+411-course-website : https://meds-eds-411.github.io/eds-411-website/
+
 # ---------------------------------------
 # ---------------------------------------
 # WINTER
+
+# Syllabus
+winter-syllabus : https://docs.google.com/document/d/1LLTRDEoQZcwMq2pO05AhvCiyG0uigxl2If1VM5lJrCw/edit?usp=sharing
 
 # Class dates
 winter-w1-class-date : 'Monday 1/5'
@@ -86,9 +92,6 @@ mesm-reviews-schdule : https://drive.google.com/file/d/1uJkbjUKMgxtjyn2s6PRHr5OO
 allison-horst-responding-questions : https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing
 
 
-# COURSE WEBSITE
-411-course-website : https://meds-eds-411.github.io/eds-411-website/
-
 # Winter weeks
 winter-week1-website : https://meds-eds-411.github.io/eds-411-website/411a_winter/week1.html
 winter-week2-website : https://meds-eds-411.github.io/eds-411-website/411a_winter/week2.html
@@ -100,3 +103,54 @@ winter-week7-website : https://meds-eds-411.github.io/eds-411-website/411a_winte
 winter-week8-website : https://meds-eds-411.github.io/eds-411-website/411a_winter/week8.html
 winter-week9-website : https://meds-eds-411.github.io/eds-411-website/411a_winter/week9.html
 winter-week10-website : https://meds-eds-411.github.io/eds-411-website/411a_winter/week10.html
+
+
+# ---------------------------------------
+# ---------------------------------------
+# WINTER
+
+# Syllabus
+spring-syllabus : https://docs.google.com/document/d/1gslDbJZ_xxNDOfGOmdkaUaYBxAUeK7v-L1Um-y0EtyY/edit?usp=sharing
+
+# Class dates
+spring-week1-class : 'Monday 3/30'
+spring-week2-class : 'Monday 4/6'
+spring-week3-class : 'Monday 4/13'
+spring-week4-class : 'Monday 4/20'
+spring-week5-class : 'Monday 4/27'
+spring-week6-class : 'Monday 5/4'
+spring-week7-class : 'Monday 5/11'
+spring-week8-class : 'Monday 5/18'
+spring-week9-class : 'Tuesday 5/26'
+spring-week10-class : 'Monday 6/1'
+
+
+# Shared folders and documents
+
+
+# Class slides
+# spring-week1-class-slides :
+# spring-week2-class-slides :
+# spring-week3-class-slides :
+# spring-week4-class-slides :
+# spring-week5-class-slides :
+# spring-week6-class-slides :
+# spring-week7-class-slides :
+# spring-week8-class-slides :
+# spring-week9-class-slides :
+# spring-week10-class-slides :  
+
+
+# Workshops & Presentations
+
+# Winter weeks
+# spring-week1-website : 
+# spring-week2-website : 
+# spring-week3-website : 
+# spring-week4-website : 
+# spring-week5-website : 
+# spring-week6-website : 
+# spring-week7-website : 
+# spring-week8-website : 
+# spring-week9-website : 
+# spring-week10-website : 

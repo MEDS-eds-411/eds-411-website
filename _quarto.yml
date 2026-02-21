@@ -49,8 +49,10 @@ website:
         menu: 
           #- 411b_spring/411b_calendars_and_deadlines.qmd   
           - text: Syllabus
-            href: https://docs.google.com/document/d/1AKoxetDwUMfaYZi89BTcT3NxgxP6mEMErUSZiRyUPLw/edit?usp=sharing
+            href: https://docs.google.com/document/d/1gslDbJZ_xxNDOfGOmdkaUaYBxAUeK7v-L1Um-y0EtyY/edit?usp=sharing
             target: _blank
+          - text: Programmed activites & deadlines
+            href: 411b_spring/411b_calendars.qmd
           # - 411b_spring/411b_week1.qmd
           # - 411b_spring/411b_week2.qmd   
           # - 411b_spring/411b_week3.qmd   
