@@ -1,4 +1,6 @@
-# Week 3
+---
+title: "Winter Week 3"
+---
 
 ::: {.callout-important icon=false}
 ## 💻🤓 REMINDER: Dive into your data and start coding!

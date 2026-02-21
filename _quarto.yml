@@ -53,7 +53,8 @@ website:
             target: _blank
           - text: Programmed activites & deadlines
             href: 411b_spring/411b_calendars.qmd
-          # - 411b_spring/411b_week1.qmd
+          - text: Week 1            
+            href: 411b_spring/411b_week1.qmd
           # - 411b_spring/411b_week2.qmd   
           # - 411b_spring/411b_week3.qmd   
           # - 411b_spring/411b_week4.qmd   

@@ -1,4 +1,6 @@
-# Winter Week 1
+---
+title: "Winter Week 1"
+---
 
 ## Materials
 
@@ -7,6 +9,8 @@
 📗 [TA Office Hours Logistics]({{< var ta-office-hours-logistics >}}) - Allie Caughman, EDS 411 TA & Bren Ph.D. Candidate
 
 📘 [Client Relations Presentation]({{< var client-relations-presentation >}})  - Miya Scheble, MEDS Career Development Program Manager
+
+📖 [Syllabus]({{< var winter-syllabus >}})
 
 📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
 

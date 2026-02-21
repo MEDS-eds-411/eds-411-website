@@ -129,7 +129,7 @@ spring-week10-class : 'Monday 6/1'
 
 
 # Class slides
-# spring-week1-class-slides :
+spring-week1-class-slides : https://docs.google.com/presentation/d/1QDZMGqhYkSEh5hOXt3ykJRiCf2_GlmUOdJw6FDJNS4M/edit?usp=share_link
 # spring-week2-class-slides :
 # spring-week3-class-slides :
 # spring-week4-class-slides :

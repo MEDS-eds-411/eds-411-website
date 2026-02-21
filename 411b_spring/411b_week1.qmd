@@ -1,14 +1,16 @@
-# Week 1
+---
+title: "Spring Week 1"
+---
 
 # ✨ Welcome back! ✨
 
 ## Materials
 
-📕 [Slides](https://docs.google.com/presentation/d/1QDZMGqhYkSEh5hOXt3ykJRiCf2_GlmUOdJw6FDJNS4M/edit?usp=share_link)
+📕 [Class slides]({{< var spring-week1-class-slides >}})
 
-📗 [Capstone Guidelines (updated)](https://drive.google.com/file/d/1uz8WfrL-c8gSVKFmsmXpAijgoIawMy-U/view?usp=share_link)
+📖 [Syllabus]({{< var spring-syllabus >}})
 
-📘 [Syllabus](https://docs.google.com/document/d/1AKoxetDwUMfaYZi89BTcT3NxgxP6mEMErUSZiRyUPLw/edit?usp=sharing)
+📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
 
 ## Schedule
 
