@@ -8,28 +8,37 @@ title: "Spring Week 1"
 
 📕 [Class slides]({{< var spring-week1-class-slides >}})
 
+💭 [In-class team reflections]({{< var team-reflections-411B >}})
+
+🗂️ [MEDS Capstones archive spreadhseet]({{< var projects-spredsheet >}}) 
+
+🗃 [Master's projects directory @ Bren website ]({{< var masters-projects-directory-bren >}})
+
 📖 [Syllabus]({{< var spring-syllabus >}})
 
-📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
+📖 [Capstone guidelines]({{< var capstone-guidelines >}})
 
 ## Schedule
 
-1:00 - 2:30 : Overview of:
+12:30 - 2:00 : Overview of 
 
--  EDS 411B
-- Spring Quarter deliverables
+- EDS 411B 
+- Spring quarter deliverables
 - Technical Documentation
 - Checklist for next class
 
-2:30 - 2:45: Team Reflections
+2- 2:40 : Independent group work & meetings with teams
 
-Dedicated work time & meetings with teams
+2:40-2:50 : BREAK
 
-2:45 - 4:00: Dedicated work time (class dismissed since there’s no internet at Bren)
+2:50 - 3:25:  Independent group work & meetings with teams
+
+3:25 - 3:30: Team reflections
+
 
 ## Upcoming deadlines
 
-![](/411b_spring/images/411b_2025_deadlines1.png)
+![](/411b_spring/images/411b_deadlines1.png)
 
 ## To do by next week
 
