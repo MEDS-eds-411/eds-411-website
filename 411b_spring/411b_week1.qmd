@@ -42,15 +42,20 @@ title: "Spring Week 1"
 
 ## To do by next week
 
-### 📝 Submit Technical Documentation Sections Outline
+### 📝 1. Draft Technical Documentation outline and timeline
 
-**Submit by next class (1 PM on Wednesday 4/9).**
+**Due when?** Before next class {{< var spring-week1-class >}}, we will use this document for an in-class activity.
 
-Create a single Google doc with the following information:
+**How to submit:** Add your document to our [shared folder TD Outlines and Timeline]({{< var td-outlines-and-timeline >}}).
 
-1. Information for your executive summary about background, motivation, problem statement, objectives, and deliverables. Have each of these as a separate section for this draft 
+<details>
+<summary>**Instructions**</summary>
 
-2. A **detailed list of the sections** (outline) your team will have in their Technical Documentation.
+Create a single Google documet with the following:
+
+1. Information for your executive summary about (1) background, (2) motivation, (3) problem statement, (4) objectives, and (5) deliverables. Have each of these as a separate section for this draft.
+
+2. A **detailed list of the sections** (outline or table of contents) your team will have in their Technical Documentation.
     - Specify who is the audience for each section or group of sections.
     - *Discuss this with your advisor.*
 
@@ -58,18 +63,29 @@ Create a single Google doc with the following information:
     Tips:
     - If you liked how we split up the DIP by sections per week, try implementing something similar.
     - Write your executive summary and abstract last, your project might evolve along the quarter.
+    - It’s ok to use your DIP as a starting point. 
 
+</summary>
 
-- It’s ok to use your DIP as a starting point. Here’s some  [examples for this assignment](https://drive.google.com/drive/folders/1wsSO4-tMG97xGonh0R8lSnqEYXWB-x43?usp=share_link) for reference.
+<br>
 
-- Add your document to our [shared folder TD Outlines and Timeline](https://drive.google.com/drive/folders/1wFdkjj4wb6Y-SDn7wiBOrRpD8K_3VF7P?usp=share_link). 
+### 🗓️ 2. Revise your project timeline
 
+**Due when?** By next class {{< var spring-week1-class >}}
 
-### 🗓️ Revise your project timeline
+<details>
+<summary>**Instructions**</summary>
 
 - Revise the timeline you submitted in your DIP: are you on time to complete it? 
 - Revise and discuss your updated timeline with your advisor. 
 - Update your client on any significant changes.
 
-### 🌟 Read the class syllabus
-Please read it and don’t hesitate to contact me if you have any questions!
+</summary>
+
+<br>
+
+### 📖 3. Read the course syllabus
+
+**Due when?** By next class {{< var spring-week1-class >}}
+
+Please read the [course syllabus]({{< var spring-syllabus >}}) and don’t hesitate to contact me if you have any questions!

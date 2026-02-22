@@ -38,7 +38,7 @@ title: "Winter Week 1"
 
 ### 🤝 1. Hold first client meeting
 
-**Due when?** By next class. 
+**Due when?** By next class {{< var winter-w2-class-date >}}. 
 
 <details>
 <summary>**Instructions**</summary>
