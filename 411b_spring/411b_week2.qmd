@@ -1,46 +1,47 @@
-# Week 2
+---
+title: "Spring Week 2"
+---
 
 ## Materials
 
-📕 [Slides](https://docs.google.com/presentation/d/1Mm8YUpEW-TjPHRXBNwpqPIyDlF3PsMGwTxTxikzL8jY/edit?usp=share_link)
+📕 [Class slides]({{< var spring-week2-class-slides >}})
 
-:::{.callout-tip}
-## Past Technical Documentations
-All Technical Documentationsfrom past years are publicly avaialble through the Bren website. I've selected a few good examples from last year that you may want to take a look at:
+🗂️ [TD Outlines and Timeline shared folder]({{< var td-outlines-and-timeline >}})
 
-[2024 Technical Documentations](https://drive.google.com/drive/folders/1zm-ib4Q9yDZD_9k5ouPCiJSv82wp_jaP?usp=share_link)
+💭 [In-class team reflections]({{< var team-reflections-411B >}})
 
-Please note that the Technical Documentation format has been updated this year, so these examples may have different organization, sections, or depth than what you are expected to produce. However, these teams did a good job explaining their project and you may find their work to be valuable inspiration for yours.
-:::
+📖 [Capstone guidelines]({{< var capstone-guidelines >}})
 
 ## Schedule
 
-1:00 - 1:15: Questions & check-in
+12:30 - 12:45: Questions, check-in, upcoming assignments
 
-1:15 - 1:50: Peer feedback of Technical Documentation outline
+12:45 - 1:20: Peer feedback of Technical Documentation outline
 
-1:50 - 2:00: Break
+1:20 - 1:25: Break
 
-2:00 - 2:45: Dedicated work time & meetings with teams
+1:25 - 2:25: Dedicated work time & meetings with teams
 
-2:45 - 3:00: Break
+2:25 - 2:35: Break
 
-3:00 - 3:45: Dedicated work time & meetings with teams
+2:35 - 3:25: Dedicated work time & meetings with teams
 
-3:45 - 4:00: Team reflections
+3:25 - 3:30: Team reflections
 
 ## Upcoming deadlines
 
-![](/411b_spring/images/411b_2025_deadlines1.png)
+![](/411b_spring/images/411b_deadlines1.png)
 
 ## To do by next week
 
-### 📝 Expand TD outline into preliminary draft
+### 📝 1. Expand TD outline into preliminary draft
 
-- Add your document to our [shared folder Week 3 - TD draft](https://drive.google.com/drive/folders/155IaWz1Gw_KtooPyo2MrvbM2IniNCGVb?usp=share_link) by next class.
+**Due when?** Before next class {{< var spring-week2-class >}}. We will use this document for an in-class activity.
 
-- You can continue working on this document for your **upcoming TD draft submission on Friday 4/18**!
+**How to submit:** Add your document to our [shared TD Drafts folder]({{< var td-drafts >}}). You can continue working on this document for your upcoming TD draft submission on {{< var td-preliminary-draft >}} !
 
+<details>
+<summary>**Instructions**</summary>
 
 For each section: 
 
@@ -54,3 +55,7 @@ As an appendix to the draft:
 
 
 **We’ll have a round of peer feedback on this document next week.**
+
+</summary>
+
+## Keep working on project.

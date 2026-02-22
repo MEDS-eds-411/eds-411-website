@@ -44,14 +44,14 @@ title: "Spring Week 1"
 
 ### 📝 1. Draft Technical Documentation outline and timeline
 
-**Due when?** Before next class {{< var spring-week1-class >}}, we will use this document for an in-class activity.
+**Due when?** Before next class {{< var spring-week1-class >}}. We will use this document for an in-class activity.
 
 **How to submit:** Add your document to our [shared folder TD Outlines and Timeline]({{< var td-outlines-and-timeline >}}).
 
 <details>
 <summary>**Instructions**</summary>
 
-Create a single Google documet with the following:
+Create a single Google document with the following:
 
 1. Information for your executive summary about (1) background, (2) motivation, (3) problem statement, (4) objectives, and (5) deliverables. Have each of these as a separate section for this draft.
 
@@ -59,11 +59,17 @@ Create a single Google documet with the following:
     - Specify who is the audience for each section or group of sections.
     - *Discuss this with your advisor.*
 
-2. A **timeline to completion** for your Technical Documentation taking into account the capstone deadlines. Consider making a Gantt chart, but also a list of dates and deliverables is ok.
+3. A **timeline to completion** for your Technical Documentation taking into account the capstone deadlines. Consider making a Gantt chart, but also a list of dates and deliverables is ok.
     Tips:
     - If you liked how we split up the DIP by sections per week, try implementing something similar.
     - Write your executive summary and abstract last, your project might evolve along the quarter.
     - It’s ok to use your DIP as a starting point. 
+
+You can view past examples of TDs on the [Bren master's projects directory]({{< var masters-projects-directory-bren >}}) or through the [MEDS Capstones archive spreadhseet]({{< var projects-spredsheet >}}). Some I particularly recommend:
+
+- 2025 DeCCCarb
+- 2025 coastalconservation
+- 2024 MilkweedMod
 
 </summary>
 
