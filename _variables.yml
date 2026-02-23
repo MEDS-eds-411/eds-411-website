@@ -21,7 +21,7 @@ faculty-reviews-slides-deadline : 'Sunday 2/22'
 faculty-reviews-date : 'Monday 2/23'
 
 # Spring
-td-preliminary-draft : Friday 3/17
+td-preliminary-draft-deadline : Friday 3/17
 
 # 411 course website
 411-course-website : https://meds-eds-411.github.io/eds-411-website/
@@ -134,12 +134,12 @@ spring-week10-class : 'Monday 6/1'
 # Shared folders and documents
 team-reflections-411B : https://docs.google.com/presentation/d/1YZsGHTsWveQQ_qd1P6SsbBNaosZs4d9MYLImr8dcd3o/edit?usp=share_link
 td-outlines-and-timeline : https://drive.google.com/drive/folders/18fY5EeFNPiQ38xg6onYBWHui0JZZgmpW?usp=share_link
-td-drafts : https://drive.google.com/drive/folders/1aRq_u3htDfhN1q9Ssw6Ep7_Y_88cG7ev?usp=share_link
+td-drafts-folder : https://drive.google.com/drive/folders/1aRq_u3htDfhN1q9Ssw6Ep7_Y_88cG7ev?usp=share_link
 
 # Class slides
 spring-week1-class-slides : https://docs.google.com/presentation/d/1EKa2ZtlbsXczSEQwatASoOsGL3W8ihjIkv2oDKH8-bE/edit?usp=share_link
 spring-week2-class-slides : https://docs.google.com/presentation/d/1PgQIUrtk3ZCpE9kZoPDPQoudpN3BVvo8M7_5mPqJRM4/edit?usp=sharing
-# spring-week3-class-slides :
+spring-week3-class-slides : https://docs.google.com/presentation/d/1Gt6HgSLKq6eL44r8lxnhoEVx1KlFBBxS3WBt58o-Hfw/edit?usp=sharing
 # spring-week4-class-slides :
 # spring-week5-class-slides :
 # spring-week6-class-slides :

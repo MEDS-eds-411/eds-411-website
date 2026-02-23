@@ -20,9 +20,9 @@ title: "Spring Week 2"
 
 1:20 - 1:25: Break
 
-1:25 - 2:25: Dedicated work time & meetings with teams
+1:25 - 2:20: Dedicated work time & meetings with teams
 
-2:25 - 2:35: Break
+2:20 - 2:30: Break
 
 2:35 - 3:25: Dedicated work time & meetings with teams
 
@@ -38,7 +38,7 @@ title: "Spring Week 2"
 
 **Due when?** Before next class {{< var spring-week2-class >}}. We will use this document for an in-class activity.
 
-**How to submit:** Add your document to our [shared TD Drafts folder]({{< var td-drafts >}}). You can continue working on this document for your upcoming TD draft submission on {{< var td-preliminary-draft >}} !
+**How to submit:** Add your document to our [shared TD Drafts folder]({{< var td-drafts-folder >}}). You can continue working on this document for your upcoming TD draft submission on {{< var td-preliminary-draft-deadline >}} !
 
 <details>
 <summary>**Instructions**</summary>
@@ -58,4 +58,4 @@ As an appendix to the draft:
 
 </summary>
 
-## Keep working on project.
+### 🙌 ONGOING: Work on project implementation! 

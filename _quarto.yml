@@ -57,7 +57,8 @@ website:
             href: 411b_spring/411b_week1.qmd
           - text: Week 2            
             href: 411b_spring/411b_week2.qmd            
-          # - 411b_spring/411b_week3.qmd   
+          - text: Week 3            
+            href: 411b_spring/411b_week3.qmd   
           # - 411b_spring/411b_week4.qmd   
           # - 411b_spring/411b_week5.qmd   
           # - 411b_spring/411b_week6.qmd   
