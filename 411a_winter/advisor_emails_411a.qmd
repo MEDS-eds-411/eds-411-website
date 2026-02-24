@@ -329,7 +329,6 @@ Carmen
 ::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
 <span style="font-weight: bold;">Advisor Check-ins</span>
 
-
 - <span style="font-weight: bold;">Help your students prepare for their presentations by discussing their slides with them and allocating time during a team meeting to see a practice presentation</span>. 
 
 - While reviewing their presentations, please ensure they <span style="font-weight: bold;">clearly communicate a defined problem statement, concrete objectives, and detailed methods</span>. A few groups are still figuring this out and will benefit from their advisor's guidance.
@@ -358,3 +357,50 @@ Carmen
 - Prepare for faculty reviews presentation and Q&A session. 
 - Keep working on updating their DIP.
 - Advance their prototype and preliminary results.
+
+
+## Week 8
+
+Hello MEDS Capstone Advisors, 
+
+I hope you are doing well and had a restful long weekend. 
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please feel free to reach out with any questions, comments, or suggestions.
+
+Best wishes, 
+
+Carmen 
+
+{{< include /_email_signature.qmd >}}
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}
+
+<span style="font-weight: bold;">Upcoming Major Deadlines </span>
+![](/411a_winter/images/411a_deadlines5.png)
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+- <span style="font-weight: bold;">Faculty review presentations went well!</span> Thank you for helping students prepare for them and advising them through their capstone projects. It’s great seeing how much students have progressed in their project planning and how they're presentations evolved.
+
+- All teams received  feedback and questions from their faculty reviewers. <span style="font-weight: bold;">Please discuss comments and questions from the reviewers with your team.</span> Students will receive the feedback forms from reviewers later this week and they all took notes during the Q&A. 
+
+- For the last two weeks of the quarter, we expect students assess the feedback received by during their review,  incorporate any if appropriate, and continue advancing their projects. Methodological updates should be reflected in  the final Design and Implementation Plan.
+
+- <span style="font-weight: bold;">To provide you with more information about the MEDS Capstone process during Spring and check in about how projects are going, the MEDS capstone team scheduled an online meeting on Friday, March 20, 12-1 pm.</span> You should have received a calendar invite and we hope you can join!
+:::
+
+<br>
+
+<span style="font-weight: bold;">In 411A Yesterday</span>
+
+- We had the faculty reviews :)
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411A class:</span>
+
+- Discuss feedback from faculty reviews with team and advisor, follow up with reviewers as needed
+- Continue project implementation
