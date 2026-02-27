@@ -1,4 +1,6 @@
-# Calendars
+---
+title: "Activities & Deadlines"
+---
 
 ## 📝 Course Activities
 ![](/411a_winter/images/highlights_explanation.png)

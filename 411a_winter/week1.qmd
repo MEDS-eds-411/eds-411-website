@@ -1,4 +1,6 @@
-# Winter Week 1
+---
+title: "Winter Week 1"
+---
 
 ## Materials
 

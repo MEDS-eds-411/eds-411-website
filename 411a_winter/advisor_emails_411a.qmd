@@ -389,7 +389,7 @@ Carmen
 
 - All teams received  feedback and questions from their faculty reviewers. <span style="font-weight: bold;">Please discuss comments and questions from the reviewers with your team.</span> Students will receive the feedback forms from reviewers later this week and they all took notes during the Q&A. 
 
-- For the last two weeks of the quarter, we expect students assess the feedback received by during their review,  incorporate any if appropriate, and continue advancing their projects. Methodological updates should be reflected in  the final Design and Implementation Plan.
+- For the last three weeks of the quarter, we expect students to assess the feedback received during their review, incorporate any if appropriate, and continue advancing their projects. Methodological updates should be reflected in the final Design and Implementation Plan.
 
 - <span style="font-weight: bold;">To provide you with more information about the MEDS Capstone process during Spring and check in about how projects are going, the MEDS capstone team scheduled an online meeting on Friday, March 20, 12-1 pm.</span> You should have received a calendar invite and we hope you can join!
 :::
