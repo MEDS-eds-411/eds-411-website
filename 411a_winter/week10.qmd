@@ -6,35 +6,85 @@ title: "Winter Week 10"
 
 📕  [Class slides]({{< var winter-week10-class-slides >}})
 
+🗂️ [GiHub Organizations List]({{< var github-organizations-urls-spreadsheet  >}})
+
+💭 [In-class Team Reflections]({{< var team-reflections-411A >}})
+
+📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
+
+## Schedule
+12:30 - 12:40: Check-in
+
+12:40 - 1:20 Winter quarter retrospective team meetings
+
+1:20 - 1:25 : Course recap and looking forward
+
+1:25 - 1:50 : Getting organized for next quarter
+
+1:50 - 1:55 Remaining assignments
+
+1:55 - 2:00: Team reflections
+
+2:00 - 3:30 : Surveys & Independent group work
+
+
 ## Upcoming Capstone Deadlines
 ![](/411a_winter/images/411a_deadlines5.png)
 
-:::{.callout-warning}
-### No need to "Send repository access to CP coordinator"
 
-The previous deadlines outline contained an out-of-date instruction about "Sending repository access to CP coordinator." You don’t need to do anything! We needed it last year, but this year I have the URLs to all your GitHub orgs where you have your project's code. 
+## Remaining assignments
 
-Thanks to the groups who brought this to my attention!
 
-Carmen
-:::
+### 1. 📥 Submit Final Design and Implementation Plan
 
-## To do by Friday
+**Due when?** Submit by {{< var winter-deliverables-final-date >}} at 5 PM.
 
-### 📥 Submit Final Design and Implementation Plan
-- Upload it to [Box](https://ucsb.app.box.com/f/c37d6e026e1243fd9d331051c5751c4c) in PDF format with your Capstone Project short name (e.g., Seamissions Design and Implementation Plan.pdf).
-- Email to your faculty advisor and client: be professional and thank them for their involvement.
+**How to submit:** 
+
+1. Upload **PDF file** to [shared Google folder]({{< var final-dips-folder >}}). Use the filename `YourGroupAlias_DIP.pdf`.
+
+2. Email this PDF to your faculty advisor and client as well.
+
+<details>
+<summary>**Instructions**</summary>
+
+- Finalize any updates for the DIP. This final version must include any changes you have made based on feedback from faculty reviews. 
+- When you email your DIP to your faculty advisor and client: be professional and thank them for their involvement.
+
+</summary>
 
 <br>
 
-### 📥 Submit Peer/Self Evaluation
-- Each student must complete a Capstone Project Peer & Self Evaluation Form for Winter Quarter. 
-- Upload your evaluation form to [Box](https://ucsb.app.box.com/f/0dd4b45d2eb1497f922d92a422ff0c13) and save your document with your Capstone Project short name and your full name as the file name (e.g., SaferSeafood Carmen Galaz García).
-- **You must also email your evaluation directly to your faculty advisor.** 
+### 2. 📥 Submit Peer/Self Evaluation
+
+**Due when?** Submit by {{< var winter-deliverables-final-date >}} at 5 PM.
+
+**How to submit:** 
+
+1. Use the following file name: `YourGroupAlias_Firstname_Lastname_411ASelfPeerEvaluation.pdf`.
+2. Upload the documents **as PDFs** to [this Box folder]({{< var final-peer-and-self-evaluation-box-folder-411A >}}).
+3. Email your evaluation directly to your advisor as well.
+
+<details>
+<summary>**Instructions**</summary>
+
+Please complete the following document: [[TEMPLATE] Peer and Self Evaluation - 411A Final]({{< var peer-and-self-evaluation-endofquarter >}}). Detailed instructions are included in the template.
+
+This is an individual assignment and is required to pass the 411A course. Each person is responsible for submitting their own reflection and submitting it to the Box folder.
+
+</summary>
+
 
 <br>
 
-### 🤔 Fill out UCSB course survey
+### 3. 💫 Finish getting ready for next quarter
+
+Make sure your team has finished discussing questions in the [“Get ready for next quarter” slide]({{< var winter-week10-class-slides >}}) before the end of the week. 
+
+
+<br>
+
+### 4. 🌱 Fill out UCSB course survey
 
 Please fill out the UCSB course survey  (10 minutes): [https://ucsb.bluera.com/ucsb](https://ucsb.bluera.com/ucsb)
 

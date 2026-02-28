@@ -27,7 +27,6 @@ title: "Winter Week 9"
 3:25 - 3:30: Team Reflection
 
 
-
 ## Upcoming Capstone Deadlines
 ![](/411a_winter/images/411a_deadlines5.png)
 
@@ -35,7 +34,7 @@ title: "Winter Week 9"
 
 ### 1. 🌱 Complete Personal Reflection 2
 
-**Due when?** Submit by next class {{< var winter-w5-class-date >}}.
+**Due when?** Submit by next class {{< var winter-w10-class-date >}}.
 
 **How to submit:** Upload the two documents **as PDFs** to [this Box folder]({{< var reflection-2-box-folder-411A >}}). Make sure you use the following file name:
 
@@ -59,7 +58,7 @@ This is an individual assignment. Each person is responsible for submitting thei
 
 <br>
 
-### 2. 📝 Update DIP
+### 2. 📝 Update Design and Implementation Plan
 
 <details>
 <summary>**Instructions**</summary>

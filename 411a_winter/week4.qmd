@@ -52,7 +52,7 @@ This {{< var mesm-reviews-date >}}. Check the [schedule here]({{< var mesm-revie
 <details>
 <summary>**Instructions**</summary>
 
-Please complete your the following two documents:
+Please complete the following two documents:
 
 1. [[TEMPLATE] Personal Reflection 1 – 411A]({{< var personal-reflection-1-411A >}})
 2. [[TEMPLATE] Peer and Self Evaluation - Mid quarter 411A]({{< var peer-and-self-evaluation-1-411A >}})
