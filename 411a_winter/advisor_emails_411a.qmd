@@ -177,7 +177,7 @@ Carmen
 
 1. Due {{< var winter-w5-class-date >}}: Complete midterm personal reflection and self/peer evaluation.
 2. Due {{< var dip-draft-deadline >}}: Draft remaining DIP sections. 
-3. Keep working one exploring and implementing their projects!
+3. Keep working on exploring and implementing their projects!
 
 
 ## Week 5
@@ -363,7 +363,7 @@ Carmen
 
 Hello MEDS Capstone Advisors, 
 
-I hope you are doing well and had a restful long weekend. 
+I hope you are doing well and had a good weekend.
 
 This is your weekly EDS 411 - MEDS Capstone project newsletter. Please feel free to reach out with any questions, comments, or suggestions.
 
@@ -404,3 +404,51 @@ Carmen
 
 - Discuss feedback from faculty reviews with team and advisor, follow up with reviewers as needed
 - Continue project implementation
+
+
+## Week 9
+
+Hello MEDS Capstone Advisors, 
+
+I hope you are doing well and had a good weekend.
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please feel free to reach out with any questions, comments, or suggestions.
+
+Best wishes, 
+
+Carmen 
+
+{{< include /_email_signature.qmd >}}
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}
+
+<span style="font-weight: bold;">Upcoming Major Deadlines </span>
+![](/411a_winter/images/411a_deadlines5.png)
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+- Please help students assess and integrate feedback from their faculty reviews. **It is ok for projects to evolve, adapt, or reduce their scope at this stage.** Their final Design and Implementation Plan should be updated accordingly to reflect any methodological changes. 
+
+- The **MEDS Capstone Advising pre-Spring meeting** will be next Friday, March 20, 12-1 pm. We'll be updating you on what to expect next quarter and hold an open discussion on how projects are going. Please join via Zoom if you can attend! Link: [https://ucsb.zoom.us/j/81979753909](https://ucsb.zoom.us/j/81979753909).
+:::
+
+<br>
+
+
+<span style="font-weight: bold;">In 411A Today</span> [(slides @ website)]({{< var winter-week9-website >}}){style="color: #0066cc;"}
+
+- Faculty reviews debrief 
+- Discussed with students what is "the groan zone" in a creative project and strategies to productively move through it
+- Groups worked independently on their projects and I checked in with them
+
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411A class:</span>
+
+1. Due {{< var winter-w10-class-date >}}: Complete end-of-quarter personal reflection 
+2. Due {{< var winter-deliverables-final-date >}}: Discuss feedback from faculty reviews and update DIP accordingly.
+3. Keep working on implementing their projects!
