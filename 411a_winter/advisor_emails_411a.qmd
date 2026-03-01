@@ -432,9 +432,9 @@ Carmen
 ::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
 <span style="font-weight: bold;">Advisor Check-ins</span>
 
-- Please help students assess and integrate feedback from their faculty reviews. **It is ok for projects to evolve, adapt, or reduce their scope at this stage.** Their final Design and Implementation Plan should be updated accordingly to reflect any methodological changes. 
+- Please help students assess and integrate feedback from their faculty reviews. <span style="font-weight: bold;">It is ok for projects to evolve, adapt, or reduce their scope at this stage.</span> Their final Design and Implementation Plan should be updated accordingly to reflect any methodological changes. 
 
-- The **MEDS Capstone Advising pre-Spring meeting** will be next Friday, March 20, 12-1 pm. We'll be updating you on what to expect next quarter and hold an open discussion on how projects are going. Please join via Zoom if you can attend! Link: [https://ucsb.zoom.us/j/81979753909](https://ucsb.zoom.us/j/81979753909).
+- The <span style="font-weight: bold;">MEDS Capstone Advising pre-Spring meeting</span> will be next Friday, March 20, 12-1 pm. We'll be updating you on what to expect next quarter and hold an open discussion on how projects are going. Please join via Zoom if you can attend! Link: [https://ucsb.zoom.us/j/81979753909](https://ucsb.zoom.us/j/81979753909).
 :::
 
 <br>
@@ -442,13 +442,99 @@ Carmen
 
 <span style="font-weight: bold;">In 411A Today</span> [(slides @ website)]({{< var winter-week9-website >}}){style="color: #0066cc;"}
 
-- Faculty reviews debrief 
-- Discussed with students what is "the groan zone" in a creative project and strategies to productively move through it
-- Groups worked independently on their projects and I checked in with them
+- Faculty reviews group debrief 
+- Discussion about "the groan zone" in a creative project and strategies to productively move through it
+- Groups worked independently on their projects
 
 
 <span style="font-weight: bold;">Tasks all groups are expected to complete before next 411A class:</span>
 
-1. Due {{< var winter-w10-class-date >}}: Complete end-of-quarter personal reflection 
+1. Due {{< var winter-w10-class-date >}}: Complete end-of-quarter personal reflection.
 2. Due {{< var winter-deliverables-final-date >}}: Discuss feedback from faculty reviews and update DIP accordingly.
 3. Keep working on implementing their projects!
+
+
+## Week 10
+
+Hello MEDS Capstone Advisors, 
+
+I hope you are doing well and the end of the quarter is going well for you!
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please feel free to reach out with any questions, comments, or suggestions.
+
+Best wishes, 
+
+Carmen 
+
+{{< include /_email_signature.qmd >}}
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}
+
+<span style="font-weight: bold;">Upcoming Major Deadlines </span>
+![](/411a_winter/images/411a_deadlines5.png)
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+- <span style="font-weight: bold;">All Winter quarter deliverables are due by the end of this week (see upcoming deadlines above). </span>
+
+- <span style="font-weight: bold;">You should receive one Peer/Self evaluation email per student this week. Please read them and, if needed, take action on the comments provided by your students.</span> If everything is going great, give them kudos for the good work! If there's some negative dynamics brewing, you can offer to help. Be mindful of timing - depending on the evaluations, it might be best to talk with your team during week 1 of the Spring quarter so they can implement any corrective action. 
+
+
+- The <span style="font-weight: bold;">MEDS Capstone Advising pre-Spring meeting</span> will be next Friday, March 20, 12-1 pm. We'll be updating you on what to expect next quarter and hold an open discussion on how projects are going. Please join via Zoom if you can attend! Link: [https://ucsb.zoom.us/j/81979753909](https://ucsb.zoom.us/j/81979753909).
+:::
+
+<br>
+
+<span style="font-weight: bold;">In 411A Today</span> [(slides @ website)]({{< var winter-week10-website >}}){style="color: #0066cc;"}
+
+- Students held a post-mortem meeting to discuss how their team worked during winter quarter. The goal was to identify lessons learned and ideas to improve going forward. 
+- We went over what to expect in 411B: fewer lectures and brainstorms, more peer testing, more dedicated work time, continuing presentation and public speaking practice. 
+- Students established expectations for work during spring break and finals week and about when they will resume their project.
+- I asked everyone to schedule their team and advisor weekly meetings and they should revise their DIP timeline and discuss it with their advisors at the latest on week 1 or Spring quarter. 
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before the end of this week ({{< var winter-deliverables-final-date >}})</span>
+
+1. Send final DIP to 411 instructor, advisor, and client.
+2. Submit Peer/Self evaluation form and send a copy to their advisor.
+3. Finish set up for Spring quarter. 
+4. Fill out UCSB 411A course survey. 
+
+
+## Finals Week
+
+Hi MEDS Capstone Advisors, 
+
+
+I hope the end of quarter is going smoothly for you all! 
+
+This is the last EDS 411 - MEDS Capstone project newsletter for the quarter. Please feel free to reach out with any questions, comments, concerns, or suggestions. We’ll resume the newsletter in the Spring quarter.
+
+Thank you and I wish you a re-energizing Spring break!
+
+Carmen 
+
+{{< include /_email_signature.qmd >}}
+
+---
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+- <span style="font-weight: bold;">You should have received the final edit of the Design and Implementation Plan (DIP).</span> No further action is needed. Please let me know ASAP if your team still needs to send you the DIP.
+
+- <span style="font-weight: bold;">I'll email you the proposed grades for students in your group.</span> If you have any comments, please let me know by Thursday. I’ll submit grades for EDS 411A on Friday. 
+
+- The <span style="font-weight: bold;">MEDS Capstone Advising pre-Spring meeting</span> will be this Friday, March 20, 12-1 pm. We'll be updating you on what to expect next quarter and hold an open discussion on how projects are going. Please join via Zoom if you can attend! Link: [https://ucsb.zoom.us/j/81979753909](https://ucsb.zoom.us/j/81979753909).
+
+:::
