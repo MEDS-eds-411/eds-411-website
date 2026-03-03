@@ -44,7 +44,13 @@ Workshop led by Sam Shanny-Csik on unit testing for dashboard development.
 
 ## Upcoming deadlines
 
-![](/411b_spring/images/411b_deadlines1.png)
+<script src="deadlines-data.js"></script>
+<div id="table-spring-deadlines1"></div>
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    buildTable(r => r.week <= 7, "table-spring-deadlines1")
+  });
+</script>
 
 ## To do by next week
 
