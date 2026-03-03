@@ -16,7 +16,7 @@ const MASTER = [
     note: "", tags: ["technical-doc"]
   },
   {
-    week: 5, date: "May 1<br>(Friday)", color: "white",
+    week: 5, date: "May 1<br>(Friday)", color: "yellow",
     task: "Final project title due to CP Coordinator",
     note: "", tags: ["admin"]
   },
@@ -36,23 +36,23 @@ const MASTER = [
     note: "", tags: ["technical-doc"]
   },
   {
-    week: 8, date: "May 22<br>(Friday)", color: "white",
+    week: 8, date: "May 22<br>(Friday)", color: "green",
     task: "Submit data to data repository and send DOI to CP Coordinator",
     note: "", tags: ["admin"]
   },
   {
-    week: 8, date: "May 24<br>(Sunday)", color: "white",
+    week: 8, date: "May 24<br>(Sunday)", color: "blue",
     task: "Submit editable file of closed captioning script",
     note: "", tags: ["presentation"]
   },
   {
-    week: 9, date: "May 28<br>(Thursday)", color: "white",
+    week: 9, date: "May 28<br>(Thursday)", color: "blue",
     task: "Share link or file of Final Presentation slides (final version to be shown at the event)",
     note: "", tags: ["presentation"]
   },
   {
-    week: 9, date: "May 29<br>(Friday)", color: "blue",
-    task: "<strong>Capstone Project Final Presentations</strong>",
+    week: 9, date: "May 29<br>(Friday)", color: "orange",
+    task: "Capstone Project Final Presentations",
     note: "", tags: ["presentation"]
   },
   {
