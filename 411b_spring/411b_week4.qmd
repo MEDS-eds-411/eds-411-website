@@ -1,13 +1,17 @@
-# Week 4
+---
+title: "Spring Week 4"
+---
 
 ## Materials
 
-📕 [Slides](https://docs.google.com/presentation/d/1Z5Mso5iKDJ8Y8v2I_oYarjNjqR4ErDp-J2Zw6XG5YuE/edit?usp=sharing)
+📕 [Class slides]({{< var spring-week4-class-slides >}})
 
 📗 [Unit Testing for Web Apps Workshop - 
-Sam Shanny-Csik](https://ucsb-meds.github.io/EDS-296-Intro-to-Shiny/course-materials/slides/part7.2-unit-testing-slides-ABRIDGED.html#/title-slide)
+Sam Shanny-Csik]({{< var unit-testing-for-web-apps-slides >}})
 
-💭 [In-class Team Reflections](https://docs.google.com/presentation/d/1GFxVZH9zdJRviDavUqVE1Kt3kw43rTosD-5ygOELcRw/edit?usp=sharing)
+💭 [In-class team reflections]({{< var team-reflections-411B >}})
+
+📖 [Capstone guidelines]({{< var capstone-guidelines >}})
 
 ## Schedule
 

@@ -58,4 +58,4 @@ As an appendix to the draft:
 
 </summary>
 
-### 🙌 ONGOING: Work on project implementation! 
+### 🙌 2. ONGOING: Work on project implementation! 

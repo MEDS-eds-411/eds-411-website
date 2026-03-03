@@ -140,7 +140,7 @@ td-drafts-folder : https://drive.google.com/drive/folders/1aRq_u3htDfhN1q9Ssw6Ep
 spring-week1-class-slides : https://docs.google.com/presentation/d/1EKa2ZtlbsXczSEQwatASoOsGL3W8ihjIkv2oDKH8-bE/edit?usp=share_link
 spring-week2-class-slides : https://docs.google.com/presentation/d/1PgQIUrtk3ZCpE9kZoPDPQoudpN3BVvo8M7_5mPqJRM4/edit?usp=sharing
 spring-week3-class-slides : https://docs.google.com/presentation/d/1Gt6HgSLKq6eL44r8lxnhoEVx1KlFBBxS3WBt58o-Hfw/edit?usp=sharing
-# spring-week4-class-slides :
+spring-week4-class-slides : https://docs.google.com/presentation/d/1Z5Mso5iKDJ8Y8v2I_oYarjNjqR4ErDp-J2Zw6XG5YuE/edit?usp=sharing
 # spring-week5-class-slides :
 # spring-week6-class-slides :
 # spring-week7-class-slides :
@@ -150,6 +150,7 @@ spring-week3-class-slides : https://docs.google.com/presentation/d/1Gt6HgSLKq6eL
 
 
 # Workshops & Presentations
+unit-testing-for-web-apps-slides : #https://ucsb-meds.github.io/EDS-296-Intro-to-Shiny/course-materials/slides/part7.2-unit-testing-slides-ABRIDGED.html#/title-slide
 
 # Winter weeks
 # spring-week1-website : 

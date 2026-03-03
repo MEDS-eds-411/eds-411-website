@@ -12,7 +12,7 @@ Workshop led by Sam Shanny-Csik on unit testing for dashboard development.
 
  **Highly encouraged, but optional!** Discuss with your team whether it is relevant for your project. It’s ok if some team members attend and others don’t. 
  
- **We will all meet in the classroom at 2:00 PM.**
+ **We will all meet back in the classroom at 2:00 PM.**
 :::
 
 ## Materials
@@ -74,4 +74,4 @@ Workshop led by Sam Shanny-Csik on unit testing for dashboard development.
 
 <br>
 
-### 🙌 ONGOING: Work on project implementation! 
+### 🙌 3. ONGOING: Work on project implementation! 
