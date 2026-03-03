@@ -1,0 +1,25 @@
+<!-- =============================================================
+     Shared table definitions for 411b_spring pages.
+
+     HOW TO USE:
+     1. Include this file once in a .qmd page 
+     2. Place whichever div(s) you need anywhere on that page:
+           <div id="table-spring-all"></div>
+     Tables without a matching div on the page are simply skipped.
+
+     HOW TO ADD A NEW TABLE:
+     Add a matching buildTable() call in the <script> below
+     ============================================================= -->
+
+
+<script src="spring-deadlines-data.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  buildTable(r => true,        "table-spring-all");
+  buildTable(r => r.week <= 7, "table-week1-7");
+  buildTable("technical-doc",  "table-technical-doc");
+  buildTable("presentation",   "table-presentation");
+  buildTable("admin",          "table-admin");
+});
+</script>

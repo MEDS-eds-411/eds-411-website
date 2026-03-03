@@ -8,4 +8,12 @@
 <br>
 
 ## ⏰️ Spring Capstone Deadlines
-![](/411b_spring/images/411b_deadlines.png)
+
+<script src="spring-deadlines-data.js"></script>
+
+<div id="table-spring-deadlines"></div>
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    buildTable(r => r.week <= 11, "table-spring-deadlines")
+  });
+</script>

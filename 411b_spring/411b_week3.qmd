@@ -44,7 +44,9 @@ Workshop led by Sam Shanny-Csik on unit testing for dashboard development.
 
 ## Upcoming deadlines
 
-![](/411b_spring/images/411b_deadlines1.png)
+{{< include _spring_deadlines_tables.qmd >}}
+
+<div id="table-week1-7"></div>
 
 ## To do by next week
 
