@@ -9,14 +9,20 @@ github-organizations-urls-spreadsheet : https://docs.google.com/spreadsheets/d/1
 faculty-review-logistics-slides : https://docs.google.com/presentation/d/1m3kzFVfnq8SO-ayp21qjRHAR_OdeNvzhLf790Gxoy68/edit?usp=share_link
 faculty-review-rubric : https://docs.google.com/document/d/1Zw0xi5TtVp7ENKiudGMXSzoed9Kfk-3HD6GGWyB_c18/edit?usp=sharing
 faculty-review-schedule : https://docs.google.com/document/d/1-nz3906QofUUMhUBOayiqaFJTtYXrm6hrnKn4XJbdBM/edit?usp=sharing
+projects-spredsheet : https://docs.google.com/spreadsheets/d/1LLR0yl8ehaademejScrlM3cYxKQaATLE/edit?gid=1262899490#gid=1262899490
+masters-projects-directory-bren : https://bren.ucsb.edu/projects?field_program_single_target_id=68&field_year_value=All&field_client_target_id=All&field_faculty_advisors_target_id_verf=All&keys=
 
 # Deadlines
+# Winter
 website-project-abstract-deadline : 'Friday 1/16'
 dip-draft-deadline : 'Friday 2/6'
 feedback-on-dip-draft-deadline : 'Friday 2/13'
 faculty-reviews-slides-deadline : 'Sunday 2/22'
 faculty-reviews-date : 'Monday 2/23'
 winter-deliverables-final-date : 'Friday 3/13'
+
+# Spring
+td-preliminary-draft-deadline : Friday 3/17
 
 # 411 course website
 411-course-website : https://meds-eds-411.github.io/eds-411-website/
@@ -136,13 +142,15 @@ spring-week10-class : 'Monday 6/1'
 
 
 # Shared folders and documents
-
+team-reflections-411B : https://docs.google.com/presentation/d/1YZsGHTsWveQQ_qd1P6SsbBNaosZs4d9MYLImr8dcd3o/edit?usp=share_link
+td-outlines-and-timeline : https://drive.google.com/drive/folders/18fY5EeFNPiQ38xg6onYBWHui0JZZgmpW?usp=share_link
+td-drafts-folder : https://drive.google.com/drive/folders/1aRq_u3htDfhN1q9Ssw6Ep7_Y_88cG7ev?usp=share_link
 
 # Class slides
-# spring-week1-class-slides :
-# spring-week2-class-slides :
-# spring-week3-class-slides :
-# spring-week4-class-slides :
+spring-week1-class-slides : https://docs.google.com/presentation/d/1EKa2ZtlbsXczSEQwatASoOsGL3W8ihjIkv2oDKH8-bE/edit?usp=share_link
+spring-week2-class-slides : https://docs.google.com/presentation/d/1PgQIUrtk3ZCpE9kZoPDPQoudpN3BVvo8M7_5mPqJRM4/edit?usp=sharing
+spring-week3-class-slides : https://docs.google.com/presentation/d/1Gt6HgSLKq6eL44r8lxnhoEVx1KlFBBxS3WBt58o-Hfw/edit?usp=sharing
+spring-week4-class-slides : https://docs.google.com/presentation/d/1Z5Mso5iKDJ8Y8v2I_oYarjNjqR4ErDp-J2Zw6XG5YuE/edit?usp=sharing
 # spring-week5-class-slides :
 # spring-week6-class-slides :
 # spring-week7-class-slides :
@@ -152,6 +160,7 @@ spring-week10-class : 'Monday 6/1'
 
 
 # Workshops & Presentations
+unit-testing-for-web-apps-slides : #https://ucsb-meds.github.io/EDS-296-Intro-to-Shiny/course-materials/slides/part7.2-unit-testing-slides-ABRIDGED.html#/title-slide
 
 # Winter weeks
 # spring-week1-website : 

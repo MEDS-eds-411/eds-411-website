@@ -1,8 +1,11 @@
 # Calendars
 
+## 📝 Course Activities
+![](/411a_winter/images/highlights_explanation.png)
+![](/411b_spring/images/course_activities1.png)
+![](/411b_spring/images/course_activities2.png)
+
 <br>
 
-## 📝 Course Activities
-
-## ⏰️ Capstone Deadlines
-![](/411b_spring/images/)
+## ⏰️ Spring Capstone Deadlines
+![](/411b_spring/images/411b_deadlines.png)

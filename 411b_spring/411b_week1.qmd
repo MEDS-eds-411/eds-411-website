@@ -1,64 +1,97 @@
-# Week 1
+---
+title: "Spring Week 1"
+---
 
 # ✨ Welcome back! ✨
 
 ## Materials
 
-📕 [Slides](https://docs.google.com/presentation/d/1QDZMGqhYkSEh5hOXt3ykJRiCf2_GlmUOdJw6FDJNS4M/edit?usp=share_link)
+📕 [Class slides]({{< var spring-week1-class-slides >}})
 
-📗 [Capstone Guidelines (updated)](https://drive.google.com/file/d/1uz8WfrL-c8gSVKFmsmXpAijgoIawMy-U/view?usp=share_link)
+💭 [In-class team reflections]({{< var team-reflections-411B >}})
 
-📘 [Syllabus](https://docs.google.com/document/d/1AKoxetDwUMfaYZi89BTcT3NxgxP6mEMErUSZiRyUPLw/edit?usp=sharing)
+🗂️ [MEDS Capstones archive spreadhseet]({{< var projects-spredsheet >}}) 
+
+🗃 [Master's projects directory @ Bren website ]({{< var masters-projects-directory-bren >}})
+
+📖 [Syllabus]({{< var spring-syllabus >}})
+
+📖 [Capstone guidelines]({{< var capstone-guidelines >}})
 
 ## Schedule
 
-1:00 - 2:30 : Overview of:
+12:30 - 2:00 : Overview of 
 
--  EDS 411B
-- Spring Quarter deliverables
+- EDS 411B 
+- Spring quarter deliverables
 - Technical Documentation
 - Checklist for next class
 
-2:30 - 2:45: Team Reflections
+2- 2:40 : Independent group work & meetings with teams
 
-Dedicated work time & meetings with teams
+2:40-2:50 : BREAK
 
-2:45 - 4:00: Dedicated work time (class dismissed since there’s no internet at Bren)
+2:50 - 3:25:  Independent group work & meetings with teams
+
+3:25 - 3:30: Team reflections
+
 
 ## Upcoming deadlines
 
-![](/411b_spring/images/411b_2025_deadlines1.png)
+![](/411b_spring/images/411b_deadlines1.png)
 
 ## To do by next week
 
-### 📝 Submit Technical Documentation Sections Outline
+### 📝 1. Draft Technical Documentation outline and timeline
 
-**Submit by next class (1 PM on Wednesday 4/9).**
+**Due when?** Before next class {{< var spring-week1-class >}}. We will use this document for an in-class activity.
 
-Create a single Google doc with the following information:
+**How to submit:** Add your document to our [shared folder TD Outlines and Timeline]({{< var td-outlines-and-timeline >}}).
 
-1. Information for your executive summary about background, motivation, problem statement, objectives, and deliverables. Have each of these as a separate section for this draft 
+<details>
+<summary>**Instructions**</summary>
 
-2. A **detailed list of the sections** (outline) your team will have in their Technical Documentation.
+Create a single Google document with the following:
+
+1. Information for your executive summary about (1) background, (2) motivation, (3) problem statement, (4) objectives, and (5) deliverables. Have each of these as a separate section for this draft.
+
+2. A **detailed list of the sections** (outline or table of contents) your team will have in their Technical Documentation.
     - Specify who is the audience for each section or group of sections.
     - *Discuss this with your advisor.*
 
-2. A **timeline to completion** for your Technical Documentation taking into account the capstone deadlines. Consider making a Gantt chart, but also a list of dates and deliverables is ok.
+3. A **timeline to completion** for your Technical Documentation taking into account the capstone deadlines. Consider making a Gantt chart, but also a list of dates and deliverables is ok.
     Tips:
     - If you liked how we split up the DIP by sections per week, try implementing something similar.
     - Write your executive summary and abstract last, your project might evolve along the quarter.
+    - It’s ok to use your DIP as a starting point. 
 
+You can view past examples of TDs on the [Bren master's projects directory]({{< var masters-projects-directory-bren >}}) or through the [MEDS Capstones archive spreadhseet]({{< var projects-spredsheet >}}). Some I particularly recommend:
 
-- It’s ok to use your DIP as a starting point. Here’s some  [examples for this assignment](https://drive.google.com/drive/folders/1wsSO4-tMG97xGonh0R8lSnqEYXWB-x43?usp=share_link) for reference.
+- 2025 DeCCCarb
+- 2025 coastalconservation
+- 2024 MilkweedMod
 
-- Add your document to our [shared folder TD Outlines and Timeline](https://drive.google.com/drive/folders/1wFdkjj4wb6Y-SDn7wiBOrRpD8K_3VF7P?usp=share_link). 
+</summary>
 
+<br>
 
-### 🗓️ Revise your project timeline
+### 🗓️ 2. Revise your project timeline
+
+**Due when?** By next class {{< var spring-week1-class >}}
+
+<details>
+<summary>**Instructions**</summary>
 
 - Revise the timeline you submitted in your DIP: are you on time to complete it? 
 - Revise and discuss your updated timeline with your advisor. 
 - Update your client on any significant changes.
 
-### 🌟 Read the class syllabus
-Please read it and don’t hesitate to contact me if you have any questions!
+</summary>
+
+<br>
+
+### 📖 3. Read the course syllabus
+
+**Due when?** By next class {{< var spring-week1-class >}}
+
+Please read the [course syllabus]({{< var spring-syllabus >}}) and don’t hesitate to contact me if you have any questions!

@@ -10,6 +10,8 @@ title: "Winter Week 1"
 
 📘 [Client Relations Presentation]({{< var client-relations-presentation >}})  - Miya Scheble, MEDS Career Development Program Manager
 
+📖 [Syllabus]({{< var winter-syllabus >}})
+
 📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
 
 ## Schedule
@@ -36,7 +38,7 @@ title: "Winter Week 1"
 
 ### 🤝 1. Hold first client meeting
 
-**Due when?** By next class. 
+**Due when?** By next class {{< var winter-w2-class-date >}}. 
 
 <details>
 <summary>**Instructions**</summary>
