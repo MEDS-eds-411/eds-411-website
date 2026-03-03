@@ -1,0 +1,170 @@
+---
+title: "EDS 411B Deadlines"
+---
+
+```{=html}
+<style>
+  .deadlines-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 0.95rem;
+    border: 1px solid #ccc;
+    margin-bottom: 2rem;
+  }
+  .deadlines-table th,
+  .deadlines-table td {
+    border: 1px solid #ccc;
+    padding: 10px 14px;
+    vertical-align: top;
+    line-height: 1.5;
+  }
+  .deadlines-table thead tr {
+    background-color: #e8e8d8;
+    font-weight: bold;
+    text-align: center;
+  }
+  .deadlines-table td:first-child,
+  .deadlines-table td:nth-child(2) {
+    text-align: center;
+    white-space: nowrap;
+  }
+  .row-yellow { background-color: #fdf5cc; }
+  .row-blue   { background-color: #d6e8f5; }
+  .row-pink   { background-color: #f5d6d6; }
+  .row-white  { background-color: #ffffff; }
+  .note-italic { font-style: italic; margin-top: 6px; }
+</style>
+
+<script>
+// ============================================================
+//  MASTER TABLE DATA — edit only this section
+//  Each row has:
+//    week:  week number (used for filtering)
+//    date:  display date string
+//    color: "yellow" | "blue" | "pink" | "white"
+//    task:  main task text (use \n for line breaks, <br> also works)
+//    note:  optional italic note (leave as "" if none)
+//    tags:  array of labels used to build sub-tables (add your own)
+// ============================================================
+const MASTER = [
+  {
+    week: 3, date: "April 17<br>(Friday)", color: "yellow",
+    task: "Preliminary draft of Technical Documentation due to EDS 411B instructor and faculty advisor",
+    note: "", tags: ["technical-doc"]
+  },
+  {
+    week: 4, date: "April 24<br>(Friday)", color: "white",
+    task: "Feedback on draft from EDS 411B instructor and faculty advisor due back to group",
+    note: "", tags: ["technical-doc"]
+  },
+  {
+    week: 5, date: "May 1<br>(Friday)", color: "white",
+    task: "Final project title due to CP Coordinator",
+    note: "", tags: ["admin"]
+  },
+  {
+    week: 7, date: "May 11<br>(Monday)", color: "yellow",
+    task: "Complete draft of Technical Documentation and Project Repository due to EDS 411B instructor and faculty advisor",
+    note: "", tags: ["technical-doc"]
+  },
+  {
+    week: 7, date: "May 15<br>(Friday)", color: "blue",
+    task: "Submit final presentation program abstract and acknowledgements to CP Coordinator for posting on the Bren website (template will be sent by CP Coordinator)",
+    note: "The abstract should be approved by students' faculty advisor", tags: ["presentation", "admin"]
+  },
+  {
+    week: 8, date: "May 18<br>(Monday)", color: "white",
+    task: "Feedback on Technical Documentation from EDS 411B instructor and faculty advisor due back to students",
+    note: "", tags: ["technical-doc"]
+  },
+  {
+    week: 8, date: "May 22<br>(Friday)", color: "white",
+    task: "Submit data to data repository and send DOI to CP Coordinator",
+    note: "", tags: ["admin"]
+  },
+  {
+    week: 8, date: "May 24<br>(Sunday)", color: "white",
+    task: "Submit editable file of closed captioning script",
+    note: "", tags: ["presentation"]
+  },
+  {
+    week: 9, date: "May 28<br>(Thursday)", color: "white",
+    task: "Share link or file of Final Presentation slides (final version to be shown at the event)",
+    note: "", tags: ["presentation"]
+  },
+  {
+    week: 9, date: "May 29<br>(Friday)", color: "blue",
+    task: "<strong>Capstone Project Final Presentations</strong>",
+    note: "", tags: ["presentation"]
+  },
+  {
+    week: 10, date: "June 1<br>(Monday)", color: "pink",
+    task: "Revised Technical Documentation and Project Repository due to the EDS 411B instructor and faculty advisor for their review and signature",
+    note: "Faculty advisor should sign first before EDS 411B instructor", tags: ["technical-doc"]
+  },
+  {
+    week: 10, date: "June 6<br>(Friday)", color: "pink",
+    task: "- Submit final Technical Documentation, Signature page with all signatures, and Project Repository to CP Coordinator<br>- Submit Self/Peer Evaluation to EDS 411B instructor, faculty advisor, and CP Coordinator<br>- Submit faculty advisor evaluation via Qualtrics",
+    note: "", tags: ["technical-doc", "admin"]
+  }
+];
+
+// ============================================================
+//  TABLE BUILDER — no need to edit below this line
+// ============================================================
+function buildTable(rows, targetId) {
+  const tbody = rows.map(r => `
+    <tr class="row-${r.color}">
+      <td>Week ${r.week}</td>
+      <td>${r.date}</td>
+      <td>${r.task}${r.note ? `<p class="note-italic">${r.note}</p>` : ""}</td>
+    </tr>`).join("");
+
+  document.getElementById(targetId).innerHTML = `
+    <table class="deadlines-table">
+      <thead><tr>
+        <th>Spring Quarter 2026</th>
+        <th>Due Date</th>
+        <th></th>
+      </tr></thead>
+      <tbody>${tbody}</tbody>
+    </table>`;
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  // Full master table
+  buildTable(MASTER, "table-all");
+
+  // Sub-tables filtered by tag — add/remove tags to match your needs
+  buildTable(MASTER.filter(r => r.tags.includes("technical-doc")), "table-technical-doc");
+  buildTable(MASTER.filter(r => r.tags.includes("presentation")),  "table-presentation");
+  buildTable(MASTER.filter(r => r.tags.includes("admin")),         "table-admin");
+
+  // Sub-table filtered by week range — edit the numbers to change the range
+  buildTable(MASTER.filter(r => r.week <= 7), "table-first-half");
+});
+</script>
+
+
+<!-- ============================================================
+     PLACE THESE DIV PLACEHOLDERS wherever you want each table.
+     You can put them on different pages — just include the
+     <script> block above on each page (or in a shared include).
+     ============================================================ -->
+
+## Full Schedule
+<div id="table-all"></div>
+
+## Technical Documentation Deadlines
+<div id="table-technical-doc"></div>
+
+## Presentation Deadlines
+<div id="table-presentation"></div>
+
+## Admin / Coordinator Deadlines
+<div id="table-admin"></div>
+
+## Weeks 1–7 Only
+<div id="table-first-half"></div>
+```

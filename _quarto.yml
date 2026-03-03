@@ -81,7 +81,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: styles.css   # Has tables css styles
     toc: true
     link-external-newwindow: true
 

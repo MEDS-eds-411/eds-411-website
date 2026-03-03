@@ -1,5 +1,13 @@
 # Calendars
 
+<script src="deadlines-data.js"></script>
+<div id="table-YOUR-NAME"></div>
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    buildTable("technical-doc", "table-YOUR-NAME");
+  });
+</script>
+
 ## 📝 Course Activities
 ![](/411a_winter/images/highlights_explanation.png)
 ![](/411b_spring/images/course_activities1.png)
