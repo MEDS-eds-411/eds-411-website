@@ -9,7 +9,8 @@
 
 ## ⏰️ Spring Capstone Deadlines
 
-<script src="deadlines-data.js"></script>
+<script src="spring-deadlines-data.js"></script>
+
 <div id="table-spring-deadlines"></div>
 <script>
   document.addEventListener("DOMContentLoaded", () => {

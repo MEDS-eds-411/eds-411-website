@@ -2,8 +2,7 @@
      Shared table definitions for 411b_spring pages.
 
      HOW TO USE:
-     1. Include this file once in a .qmd page:
-           {{< include _spring_deadlines_tables.qmd >}}
+     1. Include this file once in a .qmd page 
      2. Place whichever div(s) you need anywhere on that page:
            <div id="table-spring-all"></div>
      Tables without a matching div on the page are simply skipped.
@@ -13,7 +12,7 @@
      ============================================================= -->
 
 
-<script src="deadlines-data.js"></script>
+<script src="spring-deadlines-data.js"></script>
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {

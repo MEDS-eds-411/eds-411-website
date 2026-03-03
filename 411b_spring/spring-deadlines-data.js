@@ -1,5 +1,5 @@
 // =============================================================
-//  deadlines-data.js  —  CENTRAL TABLE DATA
+//  CENTRAL TABLE DATA
 //  This is the only file you need to edit when updating deadlines.
 //  Place this file in your project root (or a /js/ subfolder).
 // =============================================================
