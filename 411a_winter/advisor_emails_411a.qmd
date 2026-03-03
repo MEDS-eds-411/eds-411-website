@@ -434,9 +434,9 @@ Carmen
 
 - Please help students assess and integrate feedback from their faculty reviews. <span style="font-weight: bold;">It is ok for projects to evolve, adapt, or reduce their scope at this stage.</span> Their final Design and Implementation Plan should be updated accordingly to reflect any methodological changes. 
 
-- There's been some mild student concerns about whether their capstone project needs to have a public-facing deliverable. The short answer is no: not every project needs to have a public-facing component (it's totally fine to not have a dashboard!). The MEDS capstone projects are selected to cover a spectrum of research to applied projects, with the understanding that the deliverable for a research-focused project can be results based on exploring certain methods or datasets.
+- There's been some mild student concerns about whether their capstone project needs to have a public-facing deliverable. The short answer is no: <span style="font-weight: bold;">not every project needs to have a public-facing component (it's totally fine to not have a dashboard!)</span>. The MEDS capstone projects are selected to cover a spectrum of research to applied projects, with the understanding that the deliverable for a research-focused project can be results based on exploring certain methods or datasets.
 
-- The <span style="font-weight: bold;">MEDS Capstone Advising pre-Spring meeting</span> will be next Friday, March 20, 12-1 pm. We'll be updating you on what to expect next quarter and hold an open discussion on how projects are going. Please join via Zoom if you can attend! Link: [https://ucsb.zoom.us/j/81979753909](https://ucsb.zoom.us/j/81979753909).
+- The <span style="font-weight: bold;">MEDS Capstone Advising pre-Spring meeting</span> will be next Friday, March 20, 12-1 pm. We'll be updating you on what to expect next quarter and hold an open discussion on how projects are going. Please join via Zoom if you can attend! Link: [{{< var pre-spring-advisor-meeting-zoom-link >}}]({{< var pre-spring-advisor-meeting-zoom-link >}}){style="color: #0066cc;"}.
 :::
 
 <br>
@@ -487,7 +487,7 @@ Carmen
 - <span style="font-weight: bold;">You should receive one Peer/Self evaluation email per student this week. Please read them and, if needed, take action on the comments provided by your students.</span> If everything is going great, give them kudos for the good work! If there's some negative dynamics brewing, you can offer to help. Be mindful of timing - depending on the evaluations, it might be best to talk with your team during week 1 of the Spring quarter so they can implement any corrective action. 
 
 
-- The <span style="font-weight: bold;">MEDS Capstone Advising pre-Spring meeting</span> will be next Friday, March 20, 12-1 pm. We'll be updating you on what to expect next quarter and hold an open discussion on how projects are going. Please join via Zoom if you can attend! Link: [https://ucsb.zoom.us/j/81979753909](https://ucsb.zoom.us/j/81979753909).
+- The <span style="font-weight: bold;">MEDS Capstone Advising pre-Spring meeting</span> will be next Friday, March 20, 12-1 pm. We'll be updating you on what to expect next quarter and hold an open discussion on how projects are going. Please join via Zoom if you can attend! Link: [{{< var pre-spring-advisor-meeting-zoom-link >}}]({{< var pre-spring-advisor-meeting-zoom-link >}}){style="color: #0066cc;"}.
 :::
 
 <br>
@@ -537,7 +537,7 @@ Carmen
 
 - <span style="font-weight: bold;">I'll email you the proposed grades for students in your group.</span> If you have any comments, please let me know by Thursday. I’ll submit grades for EDS 411A on Friday. 
 
-- The <span style="font-weight: bold;">MEDS Capstone Advising pre-Spring meeting</span> will be this Friday, March 20, 12-1 pm. We'll be updating you on what to expect next quarter and hold an open discussion on how projects are going. Please join via Zoom if you can attend! Link: [https://ucsb.zoom.us/j/81979753909](https://ucsb.zoom.us/j/81979753909).
+- The <span style="font-weight: bold;">MEDS Capstone Advising pre-Spring meeting</span> will be this Friday, March 20, 12-1 pm. We'll be updating you on what to expect next quarter and hold an open discussion on how projects are going. Please join via Zoom if you can attend! Link: [{{< var pre-spring-advisor-meeting-zoom-link >}}]({{< var pre-spring-advisor-meeting-zoom-link >}}){style="color: #0066cc;"}.
 
 :::
 
