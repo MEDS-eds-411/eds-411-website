@@ -434,6 +434,8 @@ Carmen
 
 - Please help students assess and integrate feedback from their faculty reviews. <span style="font-weight: bold;">It is ok for projects to evolve, adapt, or reduce their scope at this stage.</span> Their final Design and Implementation Plan should be updated accordingly to reflect any methodological changes. 
 
+- There's been some mild student concerns about whether their capstone project needs to have a public-facing deliverable. The short answer is no: not every project needs to have a public-facing component (it's totally fine to not have a dashboard!). The MEDS capstone projects are selected to cover a spectrum of research to applied projects, with the understanding that the deliverable for a research-focused project can be results based on exploring certain methods or datasets.
+
 - The <span style="font-weight: bold;">MEDS Capstone Advising pre-Spring meeting</span> will be next Friday, March 20, 12-1 pm. We'll be updating you on what to expect next quarter and hold an open discussion on how projects are going. Please join via Zoom if you can attend! Link: [https://ucsb.zoom.us/j/81979753909](https://ucsb.zoom.us/j/81979753909).
 :::
 
