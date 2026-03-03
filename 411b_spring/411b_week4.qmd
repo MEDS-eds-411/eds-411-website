@@ -15,20 +15,21 @@ Sam Shanny-Csik]({{< var unit-testing-for-web-apps-slides >}})
 
 ## Schedule
 
-1:00 - ~2:15: Unit Testing Web Apps Workshop - Sam Shanny-Csik
+12:30 - ~1:45: Unit Testing Web Apps Workshop - Sam Shanny-Csik
 
-~2:15 - 2:30: Break
+~1:45 - 2:00: Break
 
-2:30 - 2:40: Questions, Check-in, & Upcoming assignments
+2:00 - 2:10: Questions, Check-in, & Upcoming assignments
 
-2:40 - 3:50: Dedicated work time & meetings with teams
+2:10 - 3:20: Independent co-working & meetings with teams
 
-3:50 - 4:00: Team Reflection
+3:20 - 3:30: Team reflections
+
 
 
 ## Upcoming deadlines
 
-![](/411b_spring/images/411b_2025_deadlines2.png)
+![](/411b_spring/images/411b_deadlines2.png)
 
 ## To do by next week
 
@@ -69,5 +70,4 @@ If you have already received feedback from your advisor:
 - discuss feedback with your team
 - start working on updating your draft
 - contact advisors or clients for clarification and reply to comments within the document as needed. Remember to always do your research and discuss with your team first! 
-
 
