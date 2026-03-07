@@ -8,6 +8,8 @@ title: "Winter Week 10"
 
 🗂️ [GiHub Organizations List]({{< var github-organizations-urls-spreadsheet  >}})
 
+🌱 [UCSB course survey](https://ucsb.bluera.com/ucsb)
+
 💭 [In-class Team Reflections]({{< var team-reflections-411A >}})
 
 📖 [Capstone Guidelines]({{< var capstone-guidelines >}})
@@ -23,10 +25,11 @@ title: "Winter Week 10"
 
 1:50 - 1:55 Remaining assignments
 
-1:55 - 2:00: Team reflections
+1:55 - 2:05 : BREAK & Surveys 
 
-2:00 - 3:30 : Surveys & Independent group work
+2:05 - 3:25:Independent group work
 
+3:25 - 3:30: Team reflections
 
 ## Upcoming Capstone Deadlines
 ![](/411a_winter/images/411a_deadlines5.png)
