@@ -545,7 +545,7 @@ Carmen
 
 Hello, 
 
-I’ll assign grades for the MEDS Capstone Project (EDS 411A) course on Friday. The EDS 411A course is graded following a rubric that aims to promote professional communication, in-class engagement, and timely, thougthful progress on the Winter final deliverables ([see syllabus]({{< var winter-syllabus >}})). A grade below A flags a severe problem with the student’s collaboration with their team or contribution to their capstone project. 
+I’ll submit grades for the MEDS Capstone Project (EDS 411A) course on Friday. The EDS 411A course is graded following a rubric that aims to promote professional communication, in-class engagement, and timely, thougthful progress on the Winter final deliverables ([see syllabus]({{< var winter-syllabus >}})). A grade below A flags a severe problem with the student’s collaboration with their team or contribution to their capstone project. 
 
 <span style="font-weight: bold;">Based on your teams’ work this quarter in EDS 411A and considering their Peer/self-evaluation forms, I suggest each student in the group gets an A. </span>
 

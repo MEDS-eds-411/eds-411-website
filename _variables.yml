@@ -68,7 +68,7 @@ faculty-reviews-2-feedback-forms-block1 : https://docs.google.com/spreadsheets/d
 faculty-reviews-2-feedback-forms-block2 : https://docs.google.com/spreadsheets/d/1f0ZsZiW9jJjaVhgHHnmKxOCpaafqCCVIbDDTg195zjg/edit?usp=sharing
 faculty-reviews-final-shared-folder : https://drive.google.com/drive/folders/1kmAf5bStq9U0UpFfagFo7NZQ8cs-SEyh?usp=share_link
 
-peer-and-self-evaluation-1-411A: https://docs.google.com/document/d/1TVoy2lkgngVSVfaeYptlxgegg_y-Sb2B/edit?usp=sharing&ouid=111507336322611936333&rtpof=true&sd=true
+peer-and-self-evaluation-1-411A : https://docs.google.com/document/d/1TVoy2lkgngVSVfaeYptlxgegg_y-Sb2B/edit?usp=sharing&ouid=111507336322611936333&rtpof=true&sd=true
 personal-reflection-1-411A : https://docs.google.com/document/d/1EYhzrVoUjnMSV3Y_D6Y_-nBTyE3Vz1PmG0D1WCgyfGI/edit?usp=sharing
 reflection-1-box-folder-411A : https://ucsb.app.box.com/f/744a49f4fc1344099246eb20376ab225
 personal-reflection-2-411A : https://docs.google.com/document/d/1DcwKF_XHW-RYTXOLjzd0xxHCOG6cjZqOMKlr8l3Dws8/edit?usp=sharing
@@ -129,22 +129,31 @@ winter-week10-website : https://meds-eds-411.github.io/eds-411-website/411a_wint
 spring-syllabus : https://docs.google.com/document/d/1gslDbJZ_xxNDOfGOmdkaUaYBxAUeK7v-L1Um-y0EtyY/edit?usp=sharing
 
 # Class dates
-spring-week1-class : 'Monday 3/30'
-spring-week2-class : 'Monday 4/6'
-spring-week3-class : 'Monday 4/13'
-spring-week4-class : 'Monday 4/20'
-spring-week5-class : 'Monday 4/27'
-spring-week6-class : 'Monday 5/4'
-spring-week7-class : 'Monday 5/11'
-spring-week8-class : 'Monday 5/18'
-spring-week9-class : 'Tuesday 5/26'
-spring-week10-class : 'Monday 6/1'
+spring-week1-class-date : 'Monday 3/30'
+spring-week2-class-date : 'Monday 4/6'
+spring-week3-class-date : 'Monday 4/13'
+spring-week4-class-date : 'Monday 4/20'
+spring-week5-class-date : 'Monday 4/27'
+spring-week6-class-date : 'Monday 5/4'
+spring-week7-class-date : 'Monday 5/11'
+spring-week8-class-date : 'Monday 5/18'
+spring-week9-class-date : 'Tuesday 5/26'
+spring-week10-class-date : 'Monday 6/1'
 
 
 # Shared folders and documents
 team-reflections-411B : https://docs.google.com/presentation/d/1YZsGHTsWveQQ_qd1P6SsbBNaosZs4d9MYLImr8dcd3o/edit?usp=share_link
 td-outlines-and-timeline : https://drive.google.com/drive/folders/18fY5EeFNPiQ38xg6onYBWHui0JZZgmpW?usp=share_link
 td-drafts-folder : https://drive.google.com/drive/folders/1aRq_u3htDfhN1q9Ssw6Ep7_Y_88cG7ev?usp=share_link
+
+personal-reflection-1-411B : https://docs.google.com/document/d/1diy-CFv4a8k_V0A8OcD5zmWaIVVeGWudo7V-IYiU9AI/edit?usp=sharing
+peer-and-self-evaluation-1-411B : https://docs.google.com/document/d/1TVoy2lkgngVSVfaeYptlxgegg_y-Sb2B/edit?usp=sharing&ouid=111507336322611936333&rtpof=true&sd=true
+reflection-1-box-folder-411B : https://ucsb.app.box.com/f/7aa55c4d8ad54eaaa81c074faa1ee5df
+personal-reflection-2-411B : https://docs.google.com/document/d/1Fm65cFydJlhi8__DvpFPql3pjQePLqckUdYPP8supt4/edit?usp=share_link
+reflection-2-box-folder-411B : https://ucsb.app.box.com/f/27f221094b1e4b39b734702df0f8c5d6
+peer-and-self-evaluation-endofcapstone : https://docs.google.com/document/d/1WHSRy9zDzsYBGMejPKHO_mDUHT4wRRuk/edit?usp=sharing&ouid=111507336322611936333&rtpof=true&sd=true
+final-peer-and-self-evaluation-box-folder-411B : https://ucsb.app.box.com/f/e4a56dba57b942fb9287f278cbe648db
+
 
 # Class slides
 spring-week1-class-slides : https://docs.google.com/presentation/d/1EKa2ZtlbsXczSEQwatASoOsGL3W8ihjIkv2oDKH8-bE/edit?usp=share_link

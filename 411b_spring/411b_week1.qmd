@@ -46,7 +46,7 @@ title: "Spring Week 1"
 
 ### 📝 1. Draft Technical Documentation outline and timeline
 
-**Due when?** Before next class {{< var spring-week1-class >}}. We will use this document for an in-class activity.
+**Due when?** Before next class {{< var spring-week1-class-date >}}. We will use this document for an in-class activity.
 
 **How to submit:** Add your document to our [shared folder TD Outlines and Timeline]({{< var td-outlines-and-timeline >}}).
 
@@ -79,7 +79,7 @@ You can view past examples of TDs on the [Bren master's projects directory]({{< 
 
 ### 🗓️ 2. Revise your project timeline
 
-**Due when?** By next class {{< var spring-week1-class >}}
+**Due when?** By next class {{< var spring-week1-class-date >}}
 
 <details>
 <summary>**Instructions**</summary>
@@ -94,6 +94,6 @@ You can view past examples of TDs on the [Bren master's projects directory]({{< 
 
 ### 📖 3. Read the course syllabus
 
-**Due when?** By next class {{< var spring-week1-class >}}
+**Due when?** By next class {{< var spring-week1-class-date >}}
 
 Please read the [course syllabus]({{< var spring-syllabus >}}) and don’t hesitate to contact me if you have any questions!

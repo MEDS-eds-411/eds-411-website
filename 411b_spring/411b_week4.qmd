@@ -29,27 +29,37 @@ Sam Shanny-Csik]({{< var unit-testing-for-web-apps-slides >}})
 
 ## Upcoming deadlines
 
-![](/411b_spring/images/411b_deadlines2.png)
+{{< include _spring_deadlines_tables.qmd >}}
+
+<div id="table-week4-7"></div>
 
 ## To do by next week
 
-### 🌱 Complete Personal Reflection 1
-**Due by 5 PM on Wednesday, April 28.**
+### 1. 🌱 Complete Personal Reflection 1 & Self/Peer evaluation
 
-Please complete and share your Personal Reflection 1 with the instructor:
+**Due when?** Submit by next class {{< var spring-week5-class-date >}}.
 
-[[TEMPLATE] Personal Reflection 1 – 411B](https://docs.google.com/document/d/1yWDeJ5iI21u_-L9PtmzDQe6NcjhIvXUwOzAM6RG_g_o/edit?usp=sharing)
+**How to submit:** Upload the two documents **as PDFs** to [this Box folder]({{< var reflection-1-box-folder-411B >}}). Make sure you use the following file names:
 
-Detailed instructions are included in the template.
+1. `YourGroupAlias_Firstname_Lastname_411B_CapstoneReflection1.pdf`
+2. `YourGroupAlias_Firstname_Lastname_411B_SelfPeerEvaluation1.pdf`
 
-This is an individual assignment. Each person is responsible for submitting their own reflection and making sure the instructor is notified once it’s shared.
+<details>
+<summary>**Instructions**</summary>
 
-If you would like to set up a meeting with me (Carmen) to chat about anything, please schedule a [meeting on my calendar](https://calendar.app.google/yP2NbzRsZru6R3DE9).
-If none of these times work for you, send me a Slack message and we can find a time that works.
+Please complete the following two documents:
 
-:::{.callout-important appearance="minimal"}
-**Update**: Personal Reflection II was moved from week 7 to week 9. It is now due on Wednesday week 10. 
-:::
+1. [[TEMPLATE] Personal Reflection 1 – 411B]({{< var personal-reflection-1-411B >}})
+2. [[TEMPLATE] Peer and Self Evaluation - Mid quarter 411B]({{< var peer-and-self-evaluation-1-411B >}})
+
+Detailed instructions are included in the templates.
+
+This is an individual assignment. Each team member is responsible for submitting their own reflection and submitting it to the Box folder.
+
+**If you would like to set up a meeting with me (Carmen) to chat about anything, please send me a Slack message and we can find a time that works.**
+
+</details>
+
 
 ### 🗂 Update your GitHub org and repositories
 **Due by next class, Wednesday, April 28.**

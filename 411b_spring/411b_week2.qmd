@@ -38,7 +38,7 @@ title: "Spring Week 2"
 
 ### 📝 1. Expand TD outline into preliminary draft
 
-**Due when?** Before next class {{< var spring-week2-class >}}. We will use this document for an in-class activity.
+**Due when?** Before next class {{< var spring-week2-class-date >}}. We will use this document for an in-class activity.
 
 **How to submit:** Add your document to our [shared TD Drafts folder]({{< var td-drafts-folder >}}). You can continue working on this document for your upcoming TD draft submission on {{< var td-preliminary-draft-deadline >}} !
 
