@@ -169,6 +169,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="../411b_spring/411b_week3.html">
  <span class="dropdown-text">Week 3</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../411b_spring/411b_week4.html">
+ <span class="dropdown-text">Week 4</span></a>
+  </li>  
     </ul>
   </li>
   <li class="nav-item">
@@ -203,9 +207,9 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#upcoming-deadlines" id="toc-upcoming-deadlines" class="nav-link" data-scroll-target="#upcoming-deadlines">Upcoming deadlines</a></li>
   <li><a href="#to-do-by-next-week" id="toc-to-do-by-next-week" class="nav-link" data-scroll-target="#to-do-by-next-week">To do by next week</a>
   <ul class="collapse">
-  <li><a href="#complete-personal-reflection-1" id="toc-complete-personal-reflection-1" class="nav-link" data-scroll-target="#complete-personal-reflection-1">🌱 Complete Personal Reflection 1</a></li>
-  <li><a href="#update-your-github-org-and-repositories" id="toc-update-your-github-org-and-repositories" class="nav-link" data-scroll-target="#update-your-github-org-and-repositories">🗂 Update your GitHub org and repositories</a></li>
-  <li><a href="#update-your-techincal-documentation" id="toc-update-your-techincal-documentation" class="nav-link" data-scroll-target="#update-your-techincal-documentation">📝 Update your Techincal Documentation</a></li>
+  <li><a href="#complete-personal-reflection-1-selfpeer-evaluation" id="toc-complete-personal-reflection-1-selfpeer-evaluation" class="nav-link" data-scroll-target="#complete-personal-reflection-1-selfpeer-evaluation">1. 🌱 Complete Personal Reflection 1 &amp; Self/Peer evaluation</a></li>
+  <li><a href="#update-your-github-org-and-repositories" id="toc-update-your-github-org-and-repositories" class="nav-link" data-scroll-target="#update-your-github-org-and-repositories">2. 🗂 Update your GitHub org and repositories</a></li>
+  <li><a href="#update-your-techincal-documentation" id="toc-update-your-techincal-documentation" class="nav-link" data-scroll-target="#update-your-techincal-documentation">3. 📝 Update your Techincal Documentation</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -249,41 +253,75 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="upcoming-deadlines" class="level2">
 <h2 class="anchored" data-anchor-id="upcoming-deadlines">Upcoming deadlines</h2>
-<p><img src="../411b_spring/images/411b_deadlines2.png" class="img-fluid"></p>
+<!-- =============================================================
+     Shared table definitions for 411b_spring pages.
+
+     HOW TO USE:
+     1. Include this file once in a .qmd page 
+     2. Place whichever div(s) you need anywhere on that page:
+           <div id="table-spring-all"></div>
+     Tables without a matching div on the page are simply skipped.
+
+     HOW TO ADD A NEW TABLE:
+     Add a matching buildTable() call in the <script> below
+     ============================================================= -->
+<script src="spring-deadlines-data.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  buildTable(r => true,        "table-spring-all");
+  buildTable(r => r.week <= 7, "table-week1-7");
+  buildTable(r => r.week >= 4 && r.week <= 7, "table-week4-7");
+  buildTable("technical-doc",  "table-technical-doc");
+  buildTable("presentation",   "table-presentation");
+  buildTable("admin",          "table-admin");
+});
+</script>
+<div id="table-week4-7">
+
+</div>
 </section>
 <section id="to-do-by-next-week" class="level2">
 <h2 class="anchored" data-anchor-id="to-do-by-next-week">To do by next week</h2>
-<section id="complete-personal-reflection-1" class="level3">
-<h3 class="anchored" data-anchor-id="complete-personal-reflection-1">🌱 Complete Personal Reflection 1</h3>
-<p><strong>Due by 5 PM on Wednesday, April 28.</strong></p>
-<p>Please complete and share your Personal Reflection 1 with the instructor:</p>
-<p><a href="https://docs.google.com/document/d/1yWDeJ5iI21u_-L9PtmzDQe6NcjhIvXUwOzAM6RG_g_o/edit?usp=sharing">[TEMPLATE] Personal Reflection 1 – 411B</a></p>
-<p>Detailed instructions are included in the template.</p>
-<p>This is an individual assignment. Each person is responsible for submitting their own reflection and making sure the instructor is notified once it’s shared.</p>
-<p>If you would like to set up a meeting with me (Carmen) to chat about anything, please schedule a <a href="https://calendar.app.google/yP2NbzRsZru6R3DE9">meeting on my calendar</a>. If none of these times work for you, send me a Slack message and we can find a time that works.</p>
-<div class="callout callout-style-simple callout-important no-icon">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-body-container">
-<p><strong>Update</strong>: Personal Reflection II was moved from week 7 to week 9. It is now due on Wednesday week 10.</p>
-</div>
-</div>
-</div>
+<section id="complete-personal-reflection-1-selfpeer-evaluation" class="level3">
+<h3 class="anchored" data-anchor-id="complete-personal-reflection-1-selfpeer-evaluation">1. 🌱 Complete Personal Reflection 1 &amp; Self/Peer evaluation</h3>
+<p><strong>Due when?</strong> Submit by next class Monday 4/27.</p>
+<p><strong>How to submit:</strong> Upload the two documents <strong>as PDFs</strong> to <a href="https://ucsb.app.box.com/f/7aa55c4d8ad54eaaa81c074faa1ee5df">this Box folder</a>. Make sure you use the following file names:</p>
+<ol type="1">
+<li><code>YourGroupAlias_Firstname_Lastname_411B_CapstoneReflection1.pdf</code></li>
+<li><code>YourGroupAlias_Firstname_Lastname_411B_SelfPeerEvaluation1.pdf</code></li>
+</ol>
+<details>
+<summary>
+<strong>Instructions</strong>
+</summary>
+<p>Please complete the following two documents:</p>
+<ol type="1">
+<li><a href="https://docs.google.com/document/d/1diy-CFv4a8k_V0A8OcD5zmWaIVVeGWudo7V-IYiU9AI/edit?usp=sharing">[TEMPLATE] Personal Reflection 1 – 411B</a></li>
+<li><a href="https://docs.google.com/document/d/1TVoy2lkgngVSVfaeYptlxgegg_y-Sb2B/edit?usp=sharing&amp;ouid=111507336322611936333&amp;rtpof=true&amp;sd=true">[TEMPLATE] Peer and Self Evaluation - Mid quarter 411B</a></li>
+</ol>
+<p>Detailed instructions are included in the templates.</p>
+<p>This is an individual assignment. Each team member is responsible for submitting their own reflection and submitting it to the Box folder.</p>
+<p><strong>If you would like to set up a meeting with me (Carmen) to chat about anything, please send me a Slack message and we can find a time that works.</strong></p>
+</details>
+<p><br></p>
 </section>
 <section id="update-your-github-org-and-repositories" class="level3">
-<h3 class="anchored" data-anchor-id="update-your-github-org-and-repositories">🗂 Update your GitHub org and repositories</h3>
-<p><strong>Due by next class, Wednesday, April 28.</strong></p>
+<h3 class="anchored" data-anchor-id="update-your-github-org-and-repositories">2. 🗂 Update your GitHub org and repositories</h3>
+<p><strong>Due when?</strong> Update your organization by next class Monday 4/27. We will use this for a peer-review activity.</p>
+<details>
+<summary>
+<strong>Instructions</strong>
+</summary>
 <ol type="1">
 <li><p>Use <a href="https://docs.google.com/document/d/10d9-h8UBC1JwZ08MdxI-WJhxfc7DnUolXjgBV1N-pJA/edit?usp=sharing">this checklist</a> to update and clean your GitHub organization, repositories, and files by next class.</p></li>
-<li><p>In <a href="https://docs.google.com/spreadsheets/d/16T0eucIDxxn1Yed_7Xqw-ihqmmfJN3G1yHPBtNiTAfk/edit?usp=sharing">this spreadsheet</a>, confirm this is still the URL for your GitHub organization.</p></li>
 <li><p>Make sure your code and repositories are public so they can be reviewed next week.</p></li>
 </ol>
 <p><strong>Next class, we’ll have a round of in-class peer feedback for to review your GitHub files.</strong></p>
+</details>
+<p><br></p>
 </section>
 <section id="update-your-techincal-documentation" class="level3">
-<h3 class="anchored" data-anchor-id="update-your-techincal-documentation">📝 Update your Techincal Documentation</h3>
+<h3 class="anchored" data-anchor-id="update-your-techincal-documentation">3. 📝 Update your Techincal Documentation</h3>
 <p>If you have already received feedback from your advisor:</p>
 <ul>
 <li>discuss feedback with your team</li>

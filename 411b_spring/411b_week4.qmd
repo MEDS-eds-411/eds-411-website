@@ -60,20 +60,25 @@ This is an individual assignment. Each team member is responsible for submitting
 
 </details>
 
+<br>
 
-### 🗂 Update your GitHub org and repositories
-**Due by next class, Wednesday, April 28.**
+### 2. 🗂 Update your GitHub org and repositories
+**Due when?** Update your organization by next class {{< var spring-week5-class-date >}}. We will use this for a peer-review activity.
 
-1. Use [this checklist](https://docs.google.com/document/d/10d9-h8UBC1JwZ08MdxI-WJhxfc7DnUolXjgBV1N-pJA/edit?usp=sharing) to update and clean your GitHub organization, repositories, and files by next class.
+<details>
+<summary>**Instructions**</summary>
 
-2. In [this spreadsheet](https://docs.google.com/spreadsheets/d/16T0eucIDxxn1Yed_7Xqw-ihqmmfJN3G1yHPBtNiTAfk/edit?usp=sharing), confirm this is still the URL for your GitHub organization. 
+1. Use [this checklist]({{< var organization-repository-checklist >}}) to update and clean your GitHub organization, repositories, and files by next class.
 
-3. Make sure your code and repositories are public so they can be reviewed next week.
+2. Make sure your code and repositories are public so they can be reviewed next week.
 
 **Next class, we’ll have a round of in-class peer feedback for to review your GitHub files.**
 
+</details>
 
-### 📝 Update your Techincal Documentation
+<br>
+
+### 3. 📝 Update your Techincal Documentation
 
 If you have already received feedback from your advisor:
 

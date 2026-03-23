@@ -169,6 +169,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="../411b_spring/411b_week3.html">
  <span class="dropdown-text">Week 3</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../411b_spring/411b_week4.html">
+ <span class="dropdown-text">Week 4</span></a>
+  </li>  
     </ul>
   </li>
   <li class="nav-item">
@@ -286,6 +290,7 @@ Next class 12:30-2:00 PM: Unit Testing Workshop
 document.addEventListener("DOMContentLoaded", () => {
   buildTable(r => true,        "table-spring-all");
   buildTable(r => r.week <= 7, "table-week1-7");
+  buildTable(r => r.week >= 4 && r.week <= 7, "table-week4-7");
   buildTable("technical-doc",  "table-technical-doc");
   buildTable("presentation",   "table-presentation");
   buildTable("admin",          "table-admin");

@@ -6,9 +6,11 @@
 
 🗂 [In-class Peer Review: GitHub Materials Checklists](https://drive.google.com/drive/folders/1YVhw5943Ob3PuhFM82SQjHY6RN1WvjP9?usp=share_link)
 
-🏛️ [GitHub Organizations List](https://docs.google.com/spreadsheets/d/16T0eucIDxxn1Yed_7Xqw-ihqmmfJN3G1yHPBtNiTAfk/edit?usp=sharing)
+🏛️ [GitHub Organizations List]({{< var github-organizations-urls-spreadsheet >}})
 
-💭 [In-class Team Reflections](https://docs.google.com/presentation/d/1GFxVZH9zdJRviDavUqVE1Kt3kw43rTosD-5ygOELcRw/edit?usp=sharing)
+💭 [In-class team reflections]({{< var team-reflections-411B >}})
+
+📖 [Capstone guidelines]({{< var capstone-guidelines >}})
 
 ## Schedule
 
