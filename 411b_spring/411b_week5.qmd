@@ -1,10 +1,14 @@
+---
+title: "Spring Week 5"
+---
+
 # Week 5
 
 ## Materials
 
-📕 [Slides](https://docs.google.com/presentation/d/1k_u1j1tDyUDpRsQEazCP1253oJW8Famft25nMmVN4FY/edit?usp=sharing)
+📕 [Class slides]({{< var spring-week5-class-slides >}})
 
-🗂 [In-class Peer Review: GitHub Materials Checklists](https://drive.google.com/drive/folders/1YVhw5943Ob3PuhFM82SQjHY6RN1WvjP9?usp=share_link)
+🗂 [In-class Peer Review: GitHub Materials Checklists]({{< var in-class-review-GH-materials-checklists >}})
 
 🏛️ [GitHub Organizations List]({{< var github-organizations-urls-spreadsheet >}})
 
@@ -14,55 +18,68 @@
 
 ## Schedule
 
-1:00 - 1:15: Questions, Check-in, Upcoming Assignments
+12:30 - 12:45: Questions, Check-in, Upcoming Assignments
 
-1:15 - 1:50: Peer feedback of GitHub organization & repositories
+12:45 - 1:20: Peer feedback of GitHub organization & repositories
 
-1:50 - 2:00: Break
+1:20 - 1:30: Break
 
-2:00 - 2:45: Dedicated work time & meetings with teams
+1:30 - 2:15: Dedicated work time & meetings with teams
 
-2:45 - 2:00: Break
+2:15 - 2:30: Break
 
-3:00 - 3:45: Dedicated work time & meetings with teams
+2:30 - 3:20: Dedicated work time & meetings with teams
 
-3:45 - 4:00: Team Reflection
+3:20 - 3:30: Team Reflection
 
 
 ## Recent & upcoming deadlines
 
-![](/411b_spring/images/411b_2025_deadlines3.png)
+{{< include _spring_deadlines_tables.qmd >}}
+
+<div id="table-week5-8"></div>
 
 ## To do by next week
 
-### 🖋 Confirm the title for your Capstone Project
-**Due by Friday, May 2 at 5PM.**
+### 1. 🖋 Confirm the title for your Capstone Project
+**Due when?** Submit by {{< var project-title-deadline >}}.
 
-The Capstone Coordinator and I are starting to prepare the materials for the MEDS Final Presentations.
+**How to submit:** Add final  title for your capstone project to [this spreadsheet]({{< var final-titles-spreadhseet >}}). If your title has not changed, please add add it anyway. 
 
-Please add the final  title for your capstone project to [this spreadsheet](https://docs.google.com/spreadsheets/d/1S9Bl-dHDRgyZ1mBM4HrO8cxO_0L4D7wnlr1jxtaTeYk/edit?usp=sharing). If your title has not changed, please add add it anyway. 
+<br>
 
+### 2. 📝 Update your Techincal Documentation
+**Due when?**  Due by {{< var td-final-draft-deadline >}}. Second and final TD revision.
 
-### 📝 Update your Techincal Documentation
-**Due by Monday, May 12 at 5PM (second and final TD revision).**
-
+<details>
+<summary>**Instructions**</summary>
 Work on updating your Technical Documentation based on your advisor's feedback:
 
 - discuss feedback with your team
 - start working on updating your draft
 - contact advisors or clients for clarification and reply to comments within the document as needed. Remember to always do your research and discuss with your team first! 
 
-### 🗂 Update your GitHub Organization and respositories
-**Due by Monday, May 12 at 5PM.**
+</details>
+
+<br>
+
+### 3. 🗂 Update your GitHub Organization and respositories
+**Due when?**  Due by {{< var repository-revision-deadline >}}. 
+
+<details>
+<summary>**Instructions**</summary>
 
 - Integrate the peer feedback into your GitHub materials.
 
-- All the items in the [Checklist for MEDS Capstone Projects Organizations and Repository](https://docs.google.com/document/d/10d9-h8UBC1JwZ08MdxI-WJhxfc7DnUolXjgBV1N-pJA/edit?usp=sharing)  must be updated by your submission on week 7. Make sure you integrate anything that was missing!
+- All the items in the [Checklist for MEDS Capstone Projects Organizations and Repository]({{< var organization-repository-checklist >}})  must be updated by the deadline. Make sure you integrate anything that was missing!
 
+</details>
 
-### 💥 Give your project a big push
+<br>
 
-In about 10 days we will start preparing for final presentations. **This is a good time to make a big push towards finishing your final deliverables!**
+### 4. 💥 Give your project a big push
+
+In about 2 weeks we will start preparing for final presentations. **This is a good time to make a big push towards finishing your final deliverables!**
 
 <!--
 <center>

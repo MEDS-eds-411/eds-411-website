@@ -23,6 +23,10 @@ winter-deliverables-final-date : 'Friday 3/13'
 
 # Spring
 td-preliminary-draft-deadline : Friday 3/17
+project-title-deadline : Friday 5/1
+td-final-draft-deadline : Monday 5/12
+repository-revision-deadline : Monday 5/12
+
 
 # 411 course website
 411-course-website : https://meds-eds-411.github.io/eds-411-website/
@@ -146,6 +150,9 @@ team-reflections-411B : https://docs.google.com/presentation/d/1YZsGHTsWveQQ_qd1
 td-outlines-and-timeline : https://drive.google.com/drive/folders/18fY5EeFNPiQ38xg6onYBWHui0JZZgmpW?usp=share_link
 td-drafts-folder : https://drive.google.com/drive/folders/1aRq_u3htDfhN1q9Ssw6Ep7_Y_88cG7ev?usp=share_link
 
+in-class-review-GH-materials-checklists : https://drive.google.com/drive/folders/1oAv2rH0JyGPYw8gk2qHb9zhg6XN6K7pU?usp=share_link
+final-titles-spreadhseet : https://docs.google.com/spreadsheets/d/1g0vcIHbG30fNC2tWGZ1rHFXmwfS7k-kqtIE6Xc17xRM/edit?usp=sharing
+
 personal-reflection-1-411B : https://docs.google.com/document/d/1diy-CFv4a8k_V0A8OcD5zmWaIVVeGWudo7V-IYiU9AI/edit?usp=sharing
 peer-and-self-evaluation-1-411B : https://docs.google.com/document/d/1TVoy2lkgngVSVfaeYptlxgegg_y-Sb2B/edit?usp=sharing&ouid=111507336322611936333&rtpof=true&sd=true
 reflection-1-box-folder-411B : https://ucsb.app.box.com/f/7aa55c4d8ad54eaaa81c074faa1ee5df
@@ -159,8 +166,8 @@ final-peer-and-self-evaluation-box-folder-411B : https://ucsb.app.box.com/f/e4a5
 spring-week1-class-slides : https://docs.google.com/presentation/d/1EKa2ZtlbsXczSEQwatASoOsGL3W8ihjIkv2oDKH8-bE/edit?usp=share_link
 spring-week2-class-slides : https://docs.google.com/presentation/d/1PgQIUrtk3ZCpE9kZoPDPQoudpN3BVvo8M7_5mPqJRM4/edit?usp=sharing
 spring-week3-class-slides : https://docs.google.com/presentation/d/1Gt6HgSLKq6eL44r8lxnhoEVx1KlFBBxS3WBt58o-Hfw/edit?usp=sharing
-spring-week4-class-slides : https://docs.google.com/presentation/d/1Z5Mso5iKDJ8Y8v2I_oYarjNjqR4ErDp-J2Zw6XG5YuE/edit?usp=sharing
-# spring-week5-class-slides :
+spring-week4-class-slides : https://docs.google.com/presentation/d/10GoZQA5i9hRV0thRdKg3LRD-JZ8ZJ4KHXY49ETed_xY/edit?usp=sharing
+spring-week5-class-slides : https://docs.google.com/presentation/d/1G7b0yEl4e_1JzH-tbGaIDTe1-A764K-GPkwCtToPhYc/edit?usp=sharing
 # spring-week6-class-slides :
 # spring-week7-class-slides :
 # spring-week8-class-slides :

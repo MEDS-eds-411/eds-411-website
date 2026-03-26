@@ -19,6 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
   buildTable(r => true,        "table-spring-all");
   buildTable(r => r.week <= 7, "table-week1-7");
   buildTable(r => r.week >= 4 && r.week <= 7, "table-week4-7");
+  buildTable(r => r.week >= 5 && r.week <= 8, "table-week5-8");  
   buildTable("technical-doc",  "table-technical-doc");
   buildTable("presentation",   "table-presentation");
   buildTable("admin",          "table-admin");

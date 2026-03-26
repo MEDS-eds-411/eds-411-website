@@ -61,7 +61,7 @@ const MASTER = [
     note: "Faculty advisor should sign first before EDS 411B instructor", tags: ["technical-doc"]
   },
   {
-    week: 10, date: "June 6<br>(Friday)", color: "pink",
+    week: 10, date: "June 5<br>(Friday)", color: "pink",
     task: "- Submit final Technical Documentation, Signature page with all signatures, and Project Repository to CP Coordinator<br>- Submit Self/Peer Evaluation to EDS 411B instructor, faculty advisor, and CP Coordinator<br>- Submit faculty advisor evaluation via Qualtrics",
     note: "", tags: ["technical-doc", "admin"]
   }
