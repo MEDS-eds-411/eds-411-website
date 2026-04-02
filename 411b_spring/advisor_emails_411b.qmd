@@ -1,0 +1,75 @@
+---
+title: "411B Advisor Emails"
+format: 
+  html:
+    embed-resources: true
+---
+
+## SUBJECT
+
+MEDS Capstone Updates - Spring Week X
+
+## Week 1
+
+Hi MEDS Capstone Advisors, 
+
+I hope you had a re-energizing Spring break and your quarter is off to a great start!
+
+I’m looking forward to keeping working together as students advance on their capstone projects. Like last quarter, I’ll send you a weekly email with updates about what we’re covering in the MEDS Capstone Course 411B and reminders of upcoming deadlines. This one is a bit late as you'll normally receive it Mondays.
+
+Please don’t hesitate to reach out with any questions, comments, or suggestions.
+
+
+Best wishes, 
+
+Carmen 
+
+ 
+{{< include /_email_signature.qmd >}}
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}
+
+<span style="font-weight: bold;">Upcoming Major Deadlines </span>
+
+
+{{< include _spring_deadlines_tables.qmd >}}
+
+<div id="table-week1-7"></div>
+
+
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+- <span style="font-weight: bold;">This quarter’s written academic deliverable is the Technical Documentation (TD).</span> Students will be working towards a complete draft due on week 7 and will have the flexibility to adapt this document to best serve their project's purpose. Please read section 4.B (pages 26-33) in the [Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"} and check [this week’s slides]({{< var spring-week1-class-slides >}}){style="color: #0066cc;"} for details. 
+
+- Students will prepare a detailed list of the sections they’ll include in their TD and might contact you for feedback about this.
+
+- Students will review the timeline they submitted as part of the DIP to assess whether they are on schedule to complete their project and academic deliverables. They should discuss any significant changes in their timeline with you. 
+
+:::
+
+<br>
+
+
+<span style="font-weight: bold;">In 411B this week</span> [(slides @ website)]({{< var spring-week1-website >}}){style="color: #0066cc;"}
+
+- We covered an overview of EDS 411B, this quarter’s timeline, and the spring quarter deliverables.
+- We covered details about the Technical Documentation and its sections. Students read the corresponding information in the Capstone Guidelines.
+- Students worked independently with their capstone team and I checked in with each team.
+
+<br>
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411B class:</span>
+
+
+- Write down a detailed list of the sections (table of contents) for their Technical Documentation (TD), specifying who is the target audience for each section or groups of sections.
+- Write down a timeline to completion for the Technical Documentation. 
+- Write down information for their executive summary about the background, motivation, problem statement, objectives, and deliverables.
+- Revise the project timeline they submitted in the DIP and discuss major changes with their advisor.
+
+

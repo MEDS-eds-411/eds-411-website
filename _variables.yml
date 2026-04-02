@@ -179,13 +179,13 @@ spring-week5-class-slides : https://docs.google.com/presentation/d/1G7b0yEl4e_1J
 unit-testing-for-web-apps-slides : #https://ucsb-meds.github.io/EDS-296-Intro-to-Shiny/course-materials/slides/part7.2-unit-testing-slides-ABRIDGED.html#/title-slide
 
 # Winter weeks
-# spring-week1-website : 
-# spring-week2-website : 
-# spring-week3-website : 
-# spring-week4-website : 
-# spring-week5-website : 
-# spring-week6-website : 
-# spring-week7-website : 
-# spring-week8-website : 
-# spring-week9-website : 
-# spring-week10-website : 
+spring-week1-website : https://meds-eds-411.github.io/eds-411-website/411b_spring/411b_week1.html
+spring-week2-website : https://meds-eds-411.github.io/eds-411-website/411b_spring/411b_week2.html
+spring-week3-website : https://meds-eds-411.github.io/eds-411-website/411b_spring/411b_week3.html
+spring-week4-website : https://meds-eds-411.github.io/eds-411-website/411b_spring/411b_week4.html
+spring-week5-website : https://meds-eds-411.github.io/eds-411-website/411b_spring/411b_week5.html
+spring-week6-website : https://meds-eds-411.github.io/eds-411-website/411b_spring/411b_week6.html
+spring-week7-website : https://meds-eds-411.github.io/eds-411-website/411b_spring/411b_week7.html
+spring-week8-website : https://meds-eds-411.github.io/eds-411-website/411b_spring/411b_week8.html
+spring-week9-website : https://meds-eds-411.github.io/eds-411-website/411b_spring/411b_week9.html
+spring-week10-website : https://meds-eds-411.github.io/eds-411-website/411b_spring/411b_week10.html
