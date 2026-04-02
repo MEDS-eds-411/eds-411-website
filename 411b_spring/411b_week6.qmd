@@ -1,16 +1,27 @@
-# Week 6
+---
+title: "Spring Week 6"
+---
 
 ## Materials
 
-📕 [Class Slides](https://docs.google.com/presentation/d/1We9kp18VcB7RcwmejF9JslT8xMFIlZ31SBJzgkkbSGM/edit?usp=sharing)
+📕 [Class slides]({{< var spring-week6-class-slides >}})
 
-📗 [Faculty Review Logistics Slides](https://docs.google.com/presentation/d/1GTzGrQWq1cf2_yVP_IN55A9vbYLtVgNLYVjTn5cqflM/edit?usp=sharing)
+💭 [In-class team reflections]({{< var team-reflections-411B >}})
 
-🎥 (1)[MEDS final presentation recording](https://vimeo.com/brenucsb/review/971009759/a05aa59467) - Improving Access to Fish Consumption Advisories and Maintaining Confidence in California’s Healthy Seafood Products. [Project Website](https://bren.ucsb.edu/projects/improving-access-fish-consumption-advisories-and-maintaining-confidence-californias)
+📖 [Capstone guidelines]({{< var capstone-guidelines >}})
 
-🎥 (2)[MEDS final presentation recording](https://vimeo.com/brenucsb/review/971010502/888fdbeee9) - Identifying Priority Survey Sites for Early-Season Milkweed Conservation [Project Website](https://bren.ucsb.edu/projects/identifying-priority-survey-sites-early-season-milkweed-conservation)
 
-💭 [In-class Team Reflections](https://docs.google.com/presentation/d/1GFxVZH9zdJRviDavUqVE1Kt3kw43rTosD-5ygOELcRw/edit?usp=sharing)
+### Final Presentations
+
+📗 [Final presentations logistics slides - Jamie Montgomery, MEDS Program Director]({{< var final-presentations-logistics-slides >}})
+
+📙 [Ten ways to improve presentations - Dr. Alexandra Phillips, Asst. Teaching Professor]({{< var ten-ways-to-improve-presentations-workshop >}})
+
+🎥 (1)[MEDS final presentation recording]({{< var meds-final-presentation-recording-1 >}}) - Improving Access to Fish Consumption Advisories and Maintaining Confidence in California’s Healthy Seafood Products. [Project Website]({{< var meds-final-project-website-1 >}})
+
+🎥 (2)[MEDS final presentation recording]({{< var meds-final-presentation-recording-2 >}}) - Identifying Priority Survey Sites for Early-Season Milkweed Conservation [Project Website]({{< var meds-final-project-website-2 >}})
+
+
 
 ## Schedule
 
@@ -33,52 +44,67 @@
 
 ## Recent & upcoming deadlines
 
-![](/411b_spring/images/411b_2025_deadlines3.png)
+{{< include _spring_deadlines_tables.qmd >}}
+
+<div id="table-week7-8"></div>
 
 ## Reminder
 :::{.callout-caution appearance="minimal"}
-## Schedule for class on Week 9, Wednesday, May 28
-Remember that on Week 9 class (Wednesday, May 28) our **class will take place 2-4 at Bren Hall 1414**. Please plan accordingly for this different schedule. 
+## Schedule for class on Week 9
+Remember that on Week 9 class our class will be on **{{< var spring-week9-class-date >}} and it will take place 2-5 at Bren Hall 1414**. Please plan accordingly for this different schedule. 
 :::
 
 ## To do
 
-### 📥 Submit complete draft of TD and project repository
-**When? Due on Monday, May 12 at 5 PM.**
+### 1. 📥 Submit complete draft of TD and project repository
+**Due when?** Due on {{< var td-final-draft-deadline >}}.
 
-**How? Send links to Google Doc and GitHub organization via email to advisor and casptone instructor.** 
+**How to submit:** Via email to advisor and casptone instructor. 
+
+<details>
+<summary>**Instructions**</summary>
 
 - Incorporate the feedback you’ve received so far for your Technical Documentation and GitHub materials.
 - Send an email to your advisor and casptone instructor with a link to you Google doc and a link to your project’s GitHub organization.
 - Make the most out of this revision: it’s great to request specific feedback from your advisor! Is there any section you’d particularly like their input on? Let them know in your message. You can also tag us in comments inside your document.
+</details>
 
-### 🎤 Prepare final presentation mock presentation
-**When? Due by next class Wednesday, May 14.**
+<br>
 
-**How? Add slides to [shared drive](https://drive.google.com/drive/folders/1Tgh93ucbzfrmzLblkZRRHHVfuLDwvhMS?usp=share_link).**
+### 2. 🎤 Prepare final presentation mock presentation
+**Due when?** Due by next class {{< var spring-week7-class-date >}}.
+
+**How to submit:** Add slides to [shared Google drive]({{< var public-presentations-practice-1-folder >}}).
+
+<details>
+<summary>**Instructions**</summary>
 
 1. Decide who will be presenting in the final public presentation. 
 Remember every person in the team should be ready to present if needed.
-2. Review the [guidelines for your presentation](https://docs.google.com/presentation/d/1GTzGrQWq1cf2_yVP_IN55A9vbYLtVgNLYVjTn5cqflM/edit?usp=sharing) covered today
-3. **Prepare a formal mock presentation (14 minutes long) for next Wednesday**
-- Strongly suggest following [Alex’s presentation, point 6](https://docs.google.com/presentation/d/1ddl9cCrWf8AL0adNmq1y8_WEeAxIyo_RlBnUlTXPqpw/edit?usp=sharing) to prepare your slides. 
-- The [presentation design considerations from last quarter](https://docs.google.com/presentation/d/1rMpHTbqVPNEDBZc_o8asS2wf_RsBU7IXkBNN91qx2SA/edit?usp=sharing) still apply.
+2. Review the [guidelines for your presentation]({{< var final-presentations-logistics-slides >}}) covered today.
+3. **Prepare a formal mock presentation (14 minutes long) for next class**
+- Strongly suggest following [Alex’s presentation, point 6]({{< var ten-ways-to-improve-presentations-workshop >}}) to prepare your slides. 
 - It’s ok if you add stand-in figures for prototypes and results for now.
 - Focus on the story line: this is a public presentation for a general audience. 
 4. Discuss your draft slides with your faculty advisor. 
-5. Add your draft to our [shared drive](https://drive.google.com/drive/folders/1Tgh93ucbzfrmzLblkZRRHHVfuLDwvhMS?usp=share_link) and be ready to do present next week! 
+5. Add your draft to our [shared drive]({{< var public-presentations-practice-1-folder >}}) and be ready to do present next week! 
 
+</details>
 
-### 📥 Submit final abstract and acknowledgements
-**When? Due on Friday, May 16 at 5 PM.**
+<br>
 
-**How? Upload to [this Box folder](https://ucsb.app.box.com/f/56626ceb02e24d94b886c08a262ecf34) as Word (.doc) or Google doc format, not PDF.**
+### 3. 📥 Submit final abstract and acknowledgements
+**Due when?** Due on {{< var final-abstract-deadline >}}.
 
+**How to submit:** Upload to [this shared Google drive]({{< var final-abstract-and-acknowledgements-folder >}}) **as Word (.doc) or Google doc format, not PDF.**
+
+<details>
+<summary>**Instructions**</summary>
 Abstracts and acknowledgments will be posted to the Bren website on your individual project pages and linked to the digital event program.
 
-- Upload your abstract and acknowledgments in a single file to [this Box folder](https://ucsb.app.box.com/f/56626ceb02e24d94b886c08a262ecf34).
+- Upload your abstract and acknowledgments in a single file to [this shared Google drive]({{< var final-abstract-and-acknowledgements-folder >}}).
 - Include your group name in the file name.
-- Word (.doc) or Google doc format preferred, not PDF (must be copy & paste-able).
+- Word (.doc) or Google doc format please, not PDF (must be copy & paste-able).
 
 **Abstract instructions:**
 
@@ -98,16 +124,20 @@ Abstracts and acknowledgments will be posted to the Bren website on your individ
 
 Tip: You can view Bren faculty titles [here](https://bren.ucsb.edu/people/faculty). Also, if you have an email from someone, you may find their title in their email signature. 
 
-### 📊 Initiate data archival 
+</details>
 
-Friday, May 23 is the final due date to archive your capstone project data. This is an academic requirement. 
+<br>
+
+### 4. 📊 Initiate data archival 
+
+{{< var data-archival-deadline >}} is the final due date to archive your capstone project data. This is an academic requirement.
 
 Use this week and next to:
 
 1. Discuss with your advisor or client what data (if any) should be archived as part of the project deliverables.
 2. If necessary, make an appointment with the RDS team (rds@library.ucsb.edu) to discuss archival of data associated with your capstone project. 
 
-Before contacting the Library RDS team or archiving your data, please read through the [Archiving and Preserving Your Data](https://ucsb-library-research-data-services.github.io/project-data-management/preserve.html) information by the Library RDS team for detailed guidelines about what to archive and the submission process to Dryad. 
+Before contacting the Library RDS team or archiving your data, please read through the [Archiving and Preserving Your Data]({{< var RDS-data-archival-guide >}}) information for detailed guidelines about what to archive and the submission process to Dryad. 
 
 ## Next class schedule
 
