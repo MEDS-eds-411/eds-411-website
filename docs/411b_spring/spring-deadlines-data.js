@@ -82,10 +82,10 @@ function buildTable(filter, targetId) {
       <td>${r.task}${r.note ? `<p class="note-italic">${r.note}</p>` : ""}</td>
     </tr>`).join("");
 
-  const el = document.getElementById(targetId);
-  if (!el) return;
+  const els = document.querySelectorAll(`[id="${targetId}"]`);
+  if (!els.length) return;
 
-  el.innerHTML = `
+  const tableHTML = `
     <table class="deadlines-table">
       <thead><tr>
         <th>Spring Quarter 2026</th>
@@ -94,4 +94,6 @@ function buildTable(filter, targetId) {
       </tr></thead>
       <tbody>${tbody}</tbody>
     </table>`;
+
+  els.forEach(el => { el.innerHTML = tableHTML; });
 }
