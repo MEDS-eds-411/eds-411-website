@@ -75,7 +75,7 @@ Carmen
 
 Hello MEDS Capstone Advisors, 
 
-This is your weekly EDS 411 - MEDS Capstone project newsletter. Please don’t hesitate to reach out with any questions, comments, concerns, or suggestions.
+This is your weekly EDS 411 - MEDS Capstone project newsletter. 
 
 Please don’t hesitate to reach out with any questions, comments, or suggestions.
 
@@ -100,6 +100,8 @@ Carmen
 ::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
 <span style="font-weight: bold;">Advisor Check-ins</span>
 
+- As students re-engage with their projects, clarifying deliverables can help set direction. Please help teams align on what they are working toward.
+
 - Weeks 2 - 4 are very light on official capstone deadlines. Teams should use this time to prioritize their project implementation!
 :::
 
@@ -123,7 +125,7 @@ Carmen
 
 Hello MEDS Capstone Advisors, 
 
-This is your weekly EDS 411 - MEDS Capstone project newsletter. Please don’t hesitate to reach out with any questions, comments, concerns, or suggestions.
+This is your weekly EDS 411 - MEDS Capstone project newsletter.
 
 Please don’t hesitate to reach out with any questions, comments, or suggestions.
 
