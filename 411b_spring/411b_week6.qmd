@@ -17,29 +17,25 @@ title: "Spring Week 6"
 
 📙 [Ten ways to improve presentations - Dr. Alexandra Phillips, Asst. Teaching Professor]({{< var ten-ways-to-improve-presentations-workshop >}})
 
-🎥 (1)[MEDS final presentation recording]({{< var meds-final-presentation-recording-1 >}}) - Improving Access to Fish Consumption Advisories and Maintaining Confidence in California’s Healthy Seafood Products. [Project Website]({{< var meds-final-project-website-1 >}})
+🎥 (1)[MEDS final presentation recording]({{< var meds-final-presentation-recording-1 >}}) - Modeling the Impact of Decarbonization on Labor in California’s Central Coast. [Project Website]({{< var meds-final-project-website-1 >}})
 
-🎥 (2)[MEDS final presentation recording]({{< var meds-final-presentation-recording-2 >}}) - Identifying Priority Survey Sites for Early-Season Milkweed Conservation [Project Website]({{< var meds-final-project-website-2 >}})
+🎥 (2)[MEDS final presentation recording]({{< var meds-final-presentation-recording-2 >}}) - Quantifying Greenhouse Gas (GHG) Emissions Associated with Global Seafood Production [Project Website]({{< var meds-final-project-website-2 >}})
 
-
+🎥 [All 2025 MEDS Capstone Project Presentations]({{< var all-meds-final-project-presentations >}})
 
 ## Schedule
 
-1:00 - 1:05: Questions, Check-in, Upcoming Assignments
+12:30 - 12:45: Questions, check-in, upcoming assignments
 
-1:05 - 1:35: Faculty Review Logistics - Sam Shanny-Csik
+12:45 - 2:00: Ten ways to improve presentations - Dr. Alexandra Phillips, Asst. Teaching Professor
 
-1:35 - 2:00: 2023 MEDS capstone final presentation screening
+2:00 - 2:10: Break
 
-1:50 - 2:00: Break
+2:10 - 2:40: Final presentations logistics - Jamie Montgomery, MEDS Program  director 
 
-2:00 - 2:50: Dedicated work time & meetings with teams
+2:40 - 3:20 Dedicated work time & meetings with teams
 
-2:50 - 2:00: Break
-
-3:00 - 3:50: Dedicated work time & meetings with teams
-
-3:50 - 4:00: Team Reflection
+3:20 - 3:30: Team reflections
 
 
 ## Recent & upcoming deadlines
@@ -141,7 +137,8 @@ Before contacting the Library RDS team or archiving your data, please read throu
 
 ## Next class schedule
 
-The class will be divided in two blocks from 1:00 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to other teams as follows:
+
+Next the class will be divided in two blocks from 12:30 to 2:10 and from 2:10 to 3:30. Each team will present and provide feedback to other teams as follows:
 
 ![](/411b_spring/images/presentations_blocks_1.png)
 
