@@ -19,8 +19,6 @@ Workshop led by Sam Shanny-Csik on unit testing for dashboard development.
 
 📕 [Class slides]({{< var spring-week3-class-slides >}})
 
-🗂️ [TD Drafts shared folder]({{< var td-drafts-folder >}})
-
 💭 [In-class team reflections]({{< var team-reflections-411B >}})
 
 📖 [Capstone guidelines]({{< var capstone-guidelines >}})
@@ -29,7 +27,7 @@ Workshop led by Sam Shanny-Csik on unit testing for dashboard development.
 
 12:30 - 12:45: Questions, Check-in, Upcoming Assignments
 
-12:45 - 1:20: Peer feedback of Technical Documentation draft 
+12:45 - 1:20: TBD
 
 1:20 - 1:25: BREAK
 

@@ -25,8 +25,10 @@ winter-deliverables-final-date : 'Friday 3/13'
 td-preliminary-draft-deadline : Friday 3/17
 td-preliminary-draft-revisions-deadline : Friday 3/24
 project-title-deadline : Friday 5/1
-td-final-draft-deadline : Monday 5/12
-repository-revision-deadline : Monday 5/12
+td-final-draft-deadline : Monday 5/11
+repository-revision-deadline : Monday 5/11
+final-abstract-deadline : Friday 5/15
+data-archival-deadline : Friday 5/22
 
 
 # 411 course website
@@ -41,7 +43,7 @@ winter-syllabus : https://docs.google.com/document/d/1LLTRDEoQZcwMq2pO05AhvCiyG0
 
 # Class dates
 winter-w1-class-date : 'Monday 1/5'
-winter-w2-class-date : 'Monday 1/12'
+winter-w2-class-date : 'Monday 1/11'
 winter-w3-class-date : 'Tuesday 1/20'
 winter-w4-class-date : 'Monday 1/26'
 winter-w5-class-date : 'Monday 2/2'
@@ -100,7 +102,6 @@ winter-week10-class-slides : https://docs.google.com/presentation/d/1fDo4NNohvum
 client-relations-presentation : https://docs.google.com/presentation/d/12p1xqVYr9p0brCnrxiXHFBhsR-vz7BcacWa0HfIA9Xw/edit?usp=sharing
 ta-office-hours-logistics : https://docs.google.com/presentation/d/1gvdl4P9U4X0yNcKIEbC7MEX_3A3P54Zd2ExnySfnpqI/edit?usp=sharing
 computer-resources-presentation : https://docs.google.com/presentation/d/1dO3eNAM37yjKQTQIkV5zbGcYkfb9Yhph1A32mHA4ErY/edit?slide=id.ge6b7f452cd_0_6982#slide=id.ge6b7f452cd_0_6982
-ten-ways-to-improve-presentations : https://docs.google.com/presentation/d/1ddl9cCrWf8AL0adNmq1y8_WEeAxIyo_RlBnUlTXPqpw/edit?usp=sharing
 faculty-reviews-strategies : https://docs.google.com/presentation/d/1zkMLaWKjU0ENZsVdoLgn1Js8xKFsd2kkUiGpuWBtspc/edit?usp=sharing
 ombuds-slides : https://docs.google.com/presentation/d/1zs2Opt4iWC7UnthN0sNbNdPBdPYDsZoE/edit?usp=sharing&ouid=111507336322611936333&rtpof=true&sd=true
 
@@ -162,6 +163,17 @@ reflection-2-box-folder-411B : https://ucsb.app.box.com/f/27f221094b1e4b39b73470
 peer-and-self-evaluation-endofcapstone : https://docs.google.com/document/d/1WHSRy9zDzsYBGMejPKHO_mDUHT4wRRuk/edit?usp=sharing&ouid=111507336322611936333&rtpof=true&sd=true
 final-peer-and-self-evaluation-box-folder-411B : https://ucsb.app.box.com/f/e4a56dba57b942fb9287f278cbe648db
 
+meds-final-presentation-recording-1 : https://vimeo.com/1101941533
+meds-final-project-website-1 : https://bren.ucsb.edu/projects/modeling-impact-decarbonization-labor-californias-central-coast
+meds-final-presentation-recording-2 : https://vimeo.com/1101941682
+meds-final-project-website-2 : https://bren.ucsb.edu/projects/quantifying-greenhouse-gas-ghg-emissions-associated-global-seafood-production
+all-meds-final-project-presentations : https://www.youtube.com/watch?v=wvCM2S7-x7A
+
+public-presentations-practice-1-folder : https://drive.google.com/drive/folders/1DAAX9hicgzqhjt2_As6XdPpKZP9kr7sc?usp=share_link
+public-presentations-practice-2-folder : https://drive.google.com/drive/folders/1e6LogrdFnYr1hk2UX6QnlJuIFONwIkON?usp=share_link
+public-presentations-final-practice-folder : https://drive.google.com/drive/folders/1bke-m_EX7AMosv3s_SXtbOinNuczkdoQ?usp=share_link
+
+final-abstract-and-acknowledgements-folder : https://drive.google.com/drive/folders/1StUtWVsKW8Qn__Np98OT3iFlJ8e4nKwC?usp=share_link
 
 # Class slides
 spring-week1-class-slides : https://docs.google.com/presentation/d/1EKa2ZtlbsXczSEQwatASoOsGL3W8ihjIkv2oDKH8-bE/edit?usp=share_link
@@ -169,7 +181,7 @@ spring-week2-class-slides : https://docs.google.com/presentation/d/1PgQIUrtk3ZCp
 spring-week3-class-slides : https://docs.google.com/presentation/d/1Gt6HgSLKq6eL44r8lxnhoEVx1KlFBBxS3WBt58o-Hfw/edit?usp=sharing
 spring-week4-class-slides : https://docs.google.com/presentation/d/10GoZQA5i9hRV0thRdKg3LRD-JZ8ZJ4KHXY49ETed_xY/edit?usp=sharing
 spring-week5-class-slides : https://docs.google.com/presentation/d/1G7b0yEl4e_1JzH-tbGaIDTe1-A764K-GPkwCtToPhYc/edit?usp=sharing
-# spring-week6-class-slides :
+spring-week6-class-slides : https://docs.google.com/presentation/d/1AptlM89PCo9JxpVJLUR7M6kOfMgMHfLYjOyp2ynwOm4/edit?usp=sharing
 # spring-week7-class-slides :
 # spring-week8-class-slides :
 # spring-week9-class-slides :
@@ -178,6 +190,12 @@ spring-week5-class-slides : https://docs.google.com/presentation/d/1G7b0yEl4e_1J
 
 # Workshops & Presentations
 unit-testing-for-web-apps-slides : #https://ucsb-meds.github.io/EDS-296-Intro-to-Shiny/course-materials/slides/part7.2-unit-testing-slides-ABRIDGED.html#/title-slide
+final-presentations-logistics-slides : #https://docs.google.com/presentation/d/1GTzGrQWq1cf2_yVP_IN55A9vbYLtVgNLYVjTn5cqflM/edit?usp=sharing
+ten-ways-to-improve-presentations-workshop : #https://docs.google.com/presentation/d/1ddl9cCrWf8AL0adNmq1y8_WEeAxIyo_RlBnUlTXPqpw/edit?usp=sharing
+
+# Other
+RDS-data-archival-guide : https://ucsb-library-research-data-services.github.io/project-data-management/preserve.html
+
 
 # Winter weeks
 spring-week1-website : https://meds-eds-411.github.io/eds-411-website/411b_spring/411b_week1.html

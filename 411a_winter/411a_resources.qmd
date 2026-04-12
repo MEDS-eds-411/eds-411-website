@@ -28,8 +28,6 @@
 
 [💬  Responding to questions slides](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing)
 
-[🌟  Ten Ways to Improve Presentations - Alex Phillips, PhD](https://docs.google.com/presentation/d/1z9URIEa5Ex7FtDcTMTPbQrWO7mD8XHhdzlKLZzXhfEQ/edit#slide=id.g2b923656a78_0_20)
-
 ## Design and Implementation Plan Resources
 
 [📓 Sample DIPs](https://drive.google.com/drive/folders/1i5dkR96C_OOfU57eioQzDL4hi_pso9y8?usp=share_link) (only available to EDS 411 students). 

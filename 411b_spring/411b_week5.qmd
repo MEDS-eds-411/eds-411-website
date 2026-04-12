@@ -2,8 +2,6 @@
 title: "Spring Week 5"
 ---
 
-# Week 5
-
 ## Materials
 
 📕 [Class slides]({{< var spring-week5-class-slides >}})
