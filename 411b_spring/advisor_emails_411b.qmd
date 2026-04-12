@@ -172,3 +172,5 @@ Carmen
 <br>
 
 <span style="font-weight: bold;">Tasks all groups are expected to complete before next 411B class:</span>
+- Submit Technical Documentation preliminary draft
+- Continue working on the project's implementation!
