@@ -215,8 +215,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#upcoming-deadlines" id="toc-upcoming-deadlines" class="nav-link" data-scroll-target="#upcoming-deadlines">Upcoming deadlines</a></li>
   <li><a href="#to-do-by-next-week" id="toc-to-do-by-next-week" class="nav-link" data-scroll-target="#to-do-by-next-week">To do by next week</a>
   <ul class="collapse">
-  <li><a href="#submit-technical-documentation-preliminary-draft" id="toc-submit-technical-documentation-preliminary-draft" class="nav-link" data-scroll-target="#submit-technical-documentation-preliminary-draft">📥 Submit Technical Documentation Preliminary Draft</a></li>
-  <li><a href="#ongoing-work-on-project-implementation" id="toc-ongoing-work-on-project-implementation" class="nav-link" data-scroll-target="#ongoing-work-on-project-implementation">🙌 3. ONGOING: Work on project implementation!</a></li>
+  <li><a href="#submit-technical-documentation-preliminary-draft" id="toc-submit-technical-documentation-preliminary-draft" class="nav-link" data-scroll-target="#submit-technical-documentation-preliminary-draft">1. 📥 Submit Technical Documentation Preliminary Draft</a></li>
+  <li><a href="#ongoing-work-on-project-implementation" id="toc-ongoing-work-on-project-implementation" class="nav-link" data-scroll-target="#ongoing-work-on-project-implementation">2. 🙌 ONGOING: Work on project implementation!</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -271,7 +271,7 @@ Next class 12:30-2:00 PM: Unit Testing Workshop
 <section id="schedule" class="level2">
 <h2 class="anchored" data-anchor-id="schedule">Schedule</h2>
 <p>12:30 - 12:45: Questions, Check-in, Upcoming Assignments</p>
-<p>12:45 - 1:20: TBD</p>
+<p>12:45 - 1:20: Peer quick consults</p>
 <p>1:20 - 1:25: BREAK</p>
 <p>1:25 - 2:25: Dedicated work time &amp; meetings with teams</p>
 <p>2:25 - 2:35: BREAK</p>
@@ -300,6 +300,7 @@ document.addEventListener("DOMContentLoaded", () => {
   buildTable(r => r.week >= 4 && r.week <= 7, "table-week4-7");
   buildTable(r => r.week >= 5 && r.week <= 8, "table-week5-8"); 
   buildTable(r => r.week >= 7 && r.week <= 8, "table-week7-8");  
+  buildTable(r => r.week >= 7 && r.week <= 9, "table-week7-9");  
   buildTable("technical-doc",  "table-technical-doc");
   buildTable("presentation",   "table-presentation");
   buildTable("admin",          "table-admin");
@@ -312,7 +313,7 @@ document.addEventListener("DOMContentLoaded", () => {
 <section id="to-do-by-next-week" class="level2">
 <h2 class="anchored" data-anchor-id="to-do-by-next-week">To do by next week</h2>
 <section id="submit-technical-documentation-preliminary-draft" class="level3">
-<h3 class="anchored" data-anchor-id="submit-technical-documentation-preliminary-draft">📥 Submit Technical Documentation Preliminary Draft</h3>
+<h3 class="anchored" data-anchor-id="submit-technical-documentation-preliminary-draft">1. 📥 Submit Technical Documentation Preliminary Draft</h3>
 <p><strong>Due when?</strong> By 5 pm on Friday 3/17.</p>
 <p><strong>How to submit:</strong> Send an email to your advisor and 411 instructor with a link to your Google doc. You can continue working on the document in our <a href="https://drive.google.com/drive/folders/1aRq_u3htDfhN1q9Ssw6Ep7_Y_88cG7ev?usp=share_link">shared TD Drafts folder</a>.</p>
 <details>
@@ -336,7 +337,7 @@ document.addEventListener("DOMContentLoaded", () => {
 <p><br></p>
 </details></section>
 <section id="ongoing-work-on-project-implementation" class="level3">
-<h3 class="anchored" data-anchor-id="ongoing-work-on-project-implementation">🙌 3. ONGOING: Work on project implementation!</h3>
+<h3 class="anchored" data-anchor-id="ongoing-work-on-project-implementation">2. 🙌 ONGOING: Work on project implementation!</h3>
 
 
 </section>

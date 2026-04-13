@@ -27,7 +27,7 @@ Workshop led by Sam Shanny-Csik on unit testing for dashboard development.
 
 12:30 - 12:45: Questions, Check-in, Upcoming Assignments
 
-12:45 - 1:20: TBD
+12:45 - 1:20: Peer quick consults
 
 1:20 - 1:25: BREAK
 
@@ -49,7 +49,7 @@ Workshop led by Sam Shanny-Csik on unit testing for dashboard development.
 ## To do by next week
 
 
-### 📥 Submit Technical Documentation Preliminary Draft
+### 1. 📥 Submit Technical Documentation Preliminary Draft
 
 **Due when?** By 5 pm on {{< var td-preliminary-draft-deadline >}}.
 
@@ -74,4 +74,4 @@ Workshop led by Sam Shanny-Csik on unit testing for dashboard development.
 
 <br>
 
-### 🙌 3. ONGOING: Work on project implementation! 
+### 2. 🙌  ONGOING: Work on project implementation! 

@@ -167,10 +167,12 @@ Carmen
 
 <span style="font-weight: bold;">In 411B this week</span> [(slides @ website)]({{< var spring-week3-website >}}){style="color: #0066cc;"}
 
-- FIGURE THIS ONE OUT
+- Students shared 1-on-1 across teams questions, challenges, or decisions they wanted input on and discussed these
+- Students worked independently with their capstone team and I checked in with each team.
 
 <br>
 
 <span style="font-weight: bold;">Tasks all groups are expected to complete before next 411B class:</span>
+
 - Submit Technical Documentation preliminary draft
 - Continue working on the project's implementation!
