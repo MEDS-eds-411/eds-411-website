@@ -5,11 +5,16 @@ format:
     embed-resources: true
 ---
 
+
 {{< include _spring_deadlines_tables.qmd >}}
 
 ## SUBJECT
 
 MEDS Capstone Updates - Spring Week X
+
+## Previous emails
+
+https://docs.google.com/document/d/1w3Efx8n2jHzPfC6P0Sfovc--FtqOgYyG8h7HEK0f0bQ/edit?tab=t.0
 
 ## Week 1
 
@@ -188,6 +193,7 @@ This is your weekly EDS 411 - MEDS Capstone project newsletter. Please don’t h
 
 
 Best wishes, 
+
 Carmen 
 
 ---
@@ -207,6 +213,7 @@ Carmen
 - Each capstone group sent their advisor a link to their Technical Documentation preliminary draft last Friday. <span style="font-weight: bold;">Feedback from advisors is due this {{< var td-preliminary-draft-revisions-deadline >}}</span>.
 
 - <span style="font-weight: bold;">What to expect in this TD draft?</span> From the Capstone Guidelines:
+
 >Each section of the preliminary draft must include as much information as completed to date. Clearly indicated placeholders or bulleted lists are acceptable at this point. An appendix to the preliminary draft should  describe the work to be completed during the remainder of Spring Quarter, any remaining obstacles to its completion, and a timeline for remaining tasks and deliverables. 
 
 - As you review your team’s TD, please take the following into account:
