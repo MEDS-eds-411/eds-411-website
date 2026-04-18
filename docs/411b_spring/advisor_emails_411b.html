@@ -3983,6 +3983,8 @@ white-space: nowrap;
   <li><a href="#week-1" id="toc-week-1" class="nav-link" data-scroll-target="#week-1">Week 1</a></li>
   <li><a href="#week-2" id="toc-week-2" class="nav-link" data-scroll-target="#week-2">Week 2</a></li>
   <li><a href="#week-3" id="toc-week-3" class="nav-link" data-scroll-target="#week-3">Week 3</a></li>
+  <li><a href="#week-4" id="toc-week-4" class="nav-link" data-scroll-target="#week-4">Week 4</a></li>
+  <li><a href="#week-5" id="toc-week-5" class="nav-link" data-scroll-target="#week-5">Week 5</a></li>
   </ul>
 </nav>
     </div>
@@ -4035,27 +4037,27 @@ const MASTER = [
   {
     week: 4, date: "April 24<br>(Friday)", color: "white",
     task: "Feedback on draft from EDS 411B instructor and faculty advisor due back to group",
-    note: "", tags: ["technical-doc"]
+    note: "", tags: ["technical-doc", "week4"]
   },
   {
     week: 5, date: "May 1<br>(Friday)", color: "yellow",
     task: "Final project title due to CP Coordinator",
-    note: "", tags: ["admin"]
+    note: "", tags: ["admin", "week4"]
   },
   {
     week: 7, date: "May 11<br>(Monday)", color: "yellow",
     task: "Complete draft of Technical Documentation and Project Repository due to EDS 411B instructor and faculty advisor",
-    note: "", tags: ["technical-doc"]
+    note: "", tags: ["technical-doc", "week4"]
   },
   {
     week: 7, date: "May 15<br>(Friday)", color: "blue",
     task: "Submit final presentation program abstract and acknowledgements to CP Coordinator for posting on the Bren website (template will be sent by CP Coordinator)",
-    note: "The abstract should be approved by students' faculty advisor", tags: ["presentation", "admin"]
+    note: "The abstract should be approved by students' faculty advisor", tags: ["presentation", "admin", "week4"]
   },
   {
     week: 8, date: "May 18<br>(Monday)", color: "white",
     task: "Feedback on Technical Documentation from EDS 411B instructor and faculty advisor due back to students",
-    note: "", tags: ["technical-doc"]
+    note: "", tags: ["technical-doc", "week4"]
   },
   {
     week: 8, date: "May 22<br>(Friday)", color: "green",
@@ -4128,6 +4130,7 @@ document.addEventListener("DOMContentLoaded", () => {
   buildTable(r => r.week >= 5 && r.week <= 8, "table-week5-8"); 
   buildTable(r => r.week >= 7 && r.week <= 8, "table-week7-8");  
   buildTable(r => r.week >= 7 && r.week <= 9, "table-week7-9");  
+  buildTable("week4",  "table-week4");
   buildTable("technical-doc",  "table-technical-doc");
   buildTable("presentation",   "table-presentation");
   buildTable("admin",          "table-admin");
@@ -4267,6 +4270,52 @@ University of California, Santa Barbara<br>
 <ul>
 <li>Submit Technical Documentation preliminary draft</li>
 <li>Continue working on the project’s implementation!</li>
+</ul>
+</section>
+<section id="week-4" class="level2">
+<h2 class="anchored" data-anchor-id="week-4">Week 4</h2>
+<p>Hello MEDS Capstone Advisors,</p>
+<p>I hope you are doing great.</p>
+<p>This is your weekly EDS 411 - MEDS Capstone project newsletter. Please don’t hesitate to reach out with any questions, comments, concerns, or suggestions.</p>
+<p>Best wishes, Carmen</p>
+<hr>
+<p><a href="https://meds-eds-411.github.io/eds-411-website/" style="color: #0066cc;">EDS 411 Course website</a></p>
+<p><a href="https://bren.ucsb.edu/sites/default/files/Capstone%20Project%20Guidelines%20MEDS%202026.pdf" style="color: #0066cc;">Capstone guidelines</a></p>
+<p><span style="font-weight: bold;">Upcoming Major Deadlines </span></p>
+<div id="table-week4">
+
+</div>
+<div style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;">
+<p><span style="font-weight: bold;">Advisor Check-ins</span></p>
+<ul>
+<li><p>Each capstone group sent their advisor a link to their Technical Documentation preliminary draft last Friday. <span style="font-weight: bold;">Feedback from advisors is due this Friday 3/24</span>.</p></li>
+<li><p><span style="font-weight: bold;">What to expect in this TD draft?</span> From the Capstone Guidelines: &gt;Each section of the preliminary draft must include as much information as completed to date. Clearly indicated placeholders or bulleted lists are acceptable at this point. An appendix to the preliminary draft should describe the work to be completed during the remainder of Spring Quarter, any remaining obstacles to its completion, and a timeline for remaining tasks and deliverables.</p></li>
+<li><p>As you review your team’s TD, please take the following into account:</p>
+<ul>
+<li>Pages 24-33 of the Capstone Guidelines have extensive details about what is expected on each section of the Technical Documentation.</li>
+<li>Please encourage students to be specific and detailed.</li>
+<li>The documentation format is flexible, so if you feel aspects of the project are not being communicated clearly, feel free to suggest restructuring.<br>
+</li>
+<li>Encourage your team to report values and include formulas, figures, and tables to communicate the project’s methods and results.</li>
+</ul></li>
+</ul>
+</div>
+<p><br></p>
+<p><span style="font-weight: bold;">In 411B this week</span> <a href="https://meds-eds-411.github.io/eds-411-website/411b_spring/411b_week4.html" style="color: #0066cc;">(slides @ website)</a></p>
+<ul>
+<li>Sam Shanny-Csik presented a workshop on unit testing for web apps</li>
+<li>Students worked independently with their capstone team and I checked in with each team.</li>
+</ul>
+<p><span style="font-weight: bold;">Tasks all groups are expected to complete before next 411B class:</span></p>
+<ul>
+<li>Update their GitHub organization and repositories</li>
+<li>Continue working on the project’s implementation!</li>
+</ul>
+</section>
+<section id="week-5" class="level2">
+<h2 class="anchored" data-anchor-id="week-5">Week 5</h2>
+<ul>
+<li>Completing a mid-quarter personal reflection</li>
 </ul>
 
 

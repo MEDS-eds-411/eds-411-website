@@ -215,9 +215,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#upcoming-deadlines" id="toc-upcoming-deadlines" class="nav-link" data-scroll-target="#upcoming-deadlines">Upcoming deadlines</a></li>
   <li><a href="#to-do-by-next-week" id="toc-to-do-by-next-week" class="nav-link" data-scroll-target="#to-do-by-next-week">To do by next week</a>
   <ul class="collapse">
-  <li><a href="#complete-personal-reflection-1-selfpeer-evaluation" id="toc-complete-personal-reflection-1-selfpeer-evaluation" class="nav-link" data-scroll-target="#complete-personal-reflection-1-selfpeer-evaluation">1. 🌱 Complete Personal Reflection 1 &amp; Self/Peer evaluation</a></li>
-  <li><a href="#update-your-github-org-and-repositories" id="toc-update-your-github-org-and-repositories" class="nav-link" data-scroll-target="#update-your-github-org-and-repositories">2. 🗂 Update your GitHub org and repositories</a></li>
-  <li><a href="#update-your-techincal-documentation" id="toc-update-your-techincal-documentation" class="nav-link" data-scroll-target="#update-your-techincal-documentation">3. 📝 Update your Techincal Documentation</a></li>
+  <li><a href="#update-your-github-org-and-repositories" id="toc-update-your-github-org-and-repositories" class="nav-link" data-scroll-target="#update-your-github-org-and-repositories">1. 🗂 Update your GitHub org and repositories</a></li>
+  <li><a href="#update-your-techincal-documentation" id="toc-update-your-techincal-documentation" class="nav-link" data-scroll-target="#update-your-techincal-documentation">2. 📝 Update your Techincal Documentation</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -282,6 +281,7 @@ document.addEventListener("DOMContentLoaded", () => {
   buildTable(r => r.week >= 5 && r.week <= 8, "table-week5-8"); 
   buildTable(r => r.week >= 7 && r.week <= 8, "table-week7-8");  
   buildTable(r => r.week >= 7 && r.week <= 9, "table-week7-9");  
+  buildTable("week4",  "table-week4");
   buildTable("technical-doc",  "table-technical-doc");
   buildTable("presentation",   "table-presentation");
   buildTable("admin",          "table-admin");
@@ -293,31 +293,8 @@ document.addEventListener("DOMContentLoaded", () => {
 </section>
 <section id="to-do-by-next-week" class="level2">
 <h2 class="anchored" data-anchor-id="to-do-by-next-week">To do by next week</h2>
-<section id="complete-personal-reflection-1-selfpeer-evaluation" class="level3">
-<h3 class="anchored" data-anchor-id="complete-personal-reflection-1-selfpeer-evaluation">1. 🌱 Complete Personal Reflection 1 &amp; Self/Peer evaluation</h3>
-<p><strong>Due when?</strong> Submit by next class Monday 4/27.</p>
-<p><strong>How to submit:</strong> Upload the two documents <strong>as PDFs</strong> to <a href="https://ucsb.app.box.com/f/7aa55c4d8ad54eaaa81c074faa1ee5df">this Box folder</a>. Make sure you use the following file names:</p>
-<ol type="1">
-<li><code>YourGroupAlias_Firstname_Lastname_411B_CapstoneReflection1.pdf</code></li>
-<li><code>YourGroupAlias_Firstname_Lastname_411B_SelfPeerEvaluation1.pdf</code></li>
-</ol>
-<details>
-<summary>
-<strong>Instructions</strong>
-</summary>
-<p>Please complete the following two documents:</p>
-<ol type="1">
-<li><a href="https://docs.google.com/document/d/1diy-CFv4a8k_V0A8OcD5zmWaIVVeGWudo7V-IYiU9AI/edit?usp=sharing">[TEMPLATE] Personal Reflection 1 – 411B</a></li>
-<li><a href="https://docs.google.com/document/d/1TVoy2lkgngVSVfaeYptlxgegg_y-Sb2B/edit?usp=sharing&amp;ouid=111507336322611936333&amp;rtpof=true&amp;sd=true">[TEMPLATE] Peer and Self Evaluation - Mid quarter 411B</a></li>
-</ol>
-<p>Detailed instructions are included in the templates.</p>
-<p>This is an individual assignment. Each team member is responsible for submitting their own reflection and submitting it to the Box folder.</p>
-<p><strong>If you would like to set up a meeting with me (Carmen) to chat about anything, please send me a Slack message and we can find a time that works.</strong></p>
-</details>
-<p><br></p>
-</section>
 <section id="update-your-github-org-and-repositories" class="level3">
-<h3 class="anchored" data-anchor-id="update-your-github-org-and-repositories">2. 🗂 Update your GitHub org and repositories</h3>
+<h3 class="anchored" data-anchor-id="update-your-github-org-and-repositories">1. 🗂 Update your GitHub org and repositories</h3>
 <p><strong>Due when?</strong> Update your organization by next class Monday 4/27. We will use this for a peer-review activity.</p>
 <details>
 <summary>
@@ -332,7 +309,7 @@ document.addEventListener("DOMContentLoaded", () => {
 <p><br></p>
 </section>
 <section id="update-your-techincal-documentation" class="level3">
-<h3 class="anchored" data-anchor-id="update-your-techincal-documentation">3. 📝 Update your Techincal Documentation</h3>
+<h3 class="anchored" data-anchor-id="update-your-techincal-documentation">2. 📝 Update your Techincal Documentation</h3>
 <p>If you have already received feedback from your advisor:</p>
 <ul>
 <li>discuss feedback with your team</li>

@@ -35,34 +35,7 @@ Sam Shanny-Csik]({{< var unit-testing-for-web-apps-slides >}})
 
 ## To do by next week
 
-### 1. 🌱 Complete Personal Reflection 1 & Self/Peer evaluation
-
-**Due when?** Submit by next class {{< var spring-week5-class-date >}}.
-
-**How to submit:** Upload the two documents **as PDFs** to [this Box folder]({{< var reflection-1-box-folder-411B >}}). Make sure you use the following file names:
-
-1. `YourGroupAlias_Firstname_Lastname_411B_CapstoneReflection1.pdf`
-2. `YourGroupAlias_Firstname_Lastname_411B_SelfPeerEvaluation1.pdf`
-
-<details>
-<summary>**Instructions**</summary>
-
-Please complete the following two documents:
-
-1. [[TEMPLATE] Personal Reflection 1 – 411B]({{< var personal-reflection-1-411B >}})
-2. [[TEMPLATE] Peer and Self Evaluation - Mid quarter 411B]({{< var peer-and-self-evaluation-1-411B >}})
-
-Detailed instructions are included in the templates.
-
-This is an individual assignment. Each team member is responsible for submitting their own reflection and submitting it to the Box folder.
-
-**If you would like to set up a meeting with me (Carmen) to chat about anything, please send me a Slack message and we can find a time that works.**
-
-</details>
-
-<br>
-
-### 2. 🗂 Update your GitHub org and repositories
+### 1. 🗂 Update your GitHub org and repositories
 **Due when?** Update your organization by next class {{< var spring-week5-class-date >}}. We will use this for a peer-review activity.
 
 <details>
@@ -78,7 +51,7 @@ This is an individual assignment. Each team member is responsible for submitting
 
 <br>
 
-### 3. 📝 Update your Techincal Documentation
+### 2. 📝 Update your Techincal Documentation
 
 If you have already received feedback from your advisor:
 

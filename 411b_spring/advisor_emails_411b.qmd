@@ -176,3 +176,59 @@ Carmen
 
 - Submit Technical Documentation preliminary draft
 - Continue working on the project's implementation!
+
+
+## Week 4
+
+Hello MEDS Capstone Advisors, 
+
+I hope you are doing great. 
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please don’t hesitate to reach out with any questions, comments, concerns, or suggestions.
+
+
+Best wishes, 
+Carmen 
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}
+
+
+<span style="font-weight: bold;">Upcoming Major Deadlines </span>
+
+<div id="table-week4"></div>
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+- Each capstone group sent their advisor a link to their Technical Documentation preliminary draft last Friday. <span style="font-weight: bold;">Feedback from advisors is due this {{< var td-preliminary-draft-revisions-deadline >}}</span>.
+
+- <span style="font-weight: bold;">What to expect in this TD draft?</span> From the Capstone Guidelines:
+>Each section of the preliminary draft must include as much information as completed to date. Clearly indicated placeholders or bulleted lists are acceptable at this point. An appendix to the preliminary draft should  describe the work to be completed during the remainder of Spring Quarter, any remaining obstacles to its completion, and a timeline for remaining tasks and deliverables. 
+
+- As you review your team’s TD, please take the following into account:
+  - Pages 24-33 of the Capstone Guidelines have extensive details about what is expected on each section of the Technical Documentation.
+  - Please encourage students to be specific and detailed.
+  - The documentation format is flexible, so if you feel aspects of the project are not being communicated clearly, feel free to suggest restructuring.       
+  - Encourage your team to report values and include formulas, figures, and tables to communicate the project's methods and results. 
+
+:::
+
+<br>
+
+<span style="font-weight: bold;">In 411B this week</span> [(slides @ website)]({{< var spring-week4-website >}}){style="color: #0066cc;"}
+
+- Sam Shanny-Csik presented a workshop on unit testing for web apps
+- Students worked independently with their capstone team and I checked in with each team.
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411B class:</span>
+
+- Update their GitHub organization and repositories
+- Continue working on the project's implementation!
+
+## Week 5
+
+- Completing a mid-quarter personal reflection

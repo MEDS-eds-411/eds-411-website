@@ -39,14 +39,41 @@ title: "Spring Week 5"
 
 ## To do by next week
 
-### 1. 🖋 Confirm the title for your Capstone Project
+### 1. 🌱 Complete Personal Reflection 1 & Self/Peer evaluation
+
+**Due when?** Submit by next class {{< var spring-week6-class-date >}}.
+
+**How to submit:** Upload the two documents **as PDFs** to [this Box folder]({{< var reflection-1-box-folder-411B >}}). Make sure you use the following file names:
+
+1. `YourGroupAlias_Firstname_Lastname_411B_CapstoneReflection1.pdf`
+2. `YourGroupAlias_Firstname_Lastname_411B_SelfPeerEvaluation1.pdf`
+
+<details>
+<summary>**Instructions**</summary>
+
+Please complete the following two documents:
+
+1. [[TEMPLATE] Personal Reflection 1 – 411B]({{< var personal-reflection-1-411B >}})
+2. [[TEMPLATE] Peer and Self Evaluation - Mid quarter 411B]({{< var peer-and-self-evaluation-1-411B >}})
+
+Detailed instructions are included in the templates.
+
+This is an individual assignment. Each team member is responsible for submitting their own reflection and submitting it to the Box folder.
+
+**If you would like to set up a meeting with me (Carmen) to chat about anything, please send me a Slack message and we can find a time that works.**
+
+</details>
+
+<br>
+
+### 2. 🖋 Confirm the title for your Capstone Project
 **Due when?** Submit by {{< var project-title-deadline >}}.
 
 **How to submit:** Add final  title for your capstone project to [this spreadsheet]({{< var final-titles-spreadhseet >}}). If your title has not changed, please add add it anyway. 
 
 <br>
 
-### 2. 📝 Update your Techincal Documentation
+### 3. 📝 Update your Techincal Documentation
 **Due when?**  Due by {{< var td-final-draft-deadline >}}. Second and final TD revision.
 
 <details>
@@ -61,7 +88,7 @@ Work on updating your Technical Documentation based on your advisor's feedback:
 
 <br>
 
-### 3. 🗂 Update your GitHub Organization and respositories
+### 4. 🗂 Update your GitHub Organization and respositories
 **Due when?**  Due by {{< var repository-revision-deadline >}}. 
 
 <details>
@@ -75,7 +102,7 @@ Work on updating your Technical Documentation based on your advisor's feedback:
 
 <br>
 
-### 4. 💥 Give your project a big push
+### 5. 💥 Give your project a big push
 
 In about 2 weeks we will start preparing for final presentations. **This is a good time to make a big push towards finishing your final deliverables!**
 

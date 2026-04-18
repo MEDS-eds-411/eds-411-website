@@ -13,27 +13,27 @@ const MASTER = [
   {
     week: 4, date: "April 24<br>(Friday)", color: "white",
     task: "Feedback on draft from EDS 411B instructor and faculty advisor due back to group",
-    note: "", tags: ["technical-doc"]
+    note: "", tags: ["technical-doc", "week4"]
   },
   {
     week: 5, date: "May 1<br>(Friday)", color: "yellow",
     task: "Final project title due to CP Coordinator",
-    note: "", tags: ["admin"]
+    note: "", tags: ["admin", "week4"]
   },
   {
     week: 7, date: "May 11<br>(Monday)", color: "yellow",
     task: "Complete draft of Technical Documentation and Project Repository due to EDS 411B instructor and faculty advisor",
-    note: "", tags: ["technical-doc"]
+    note: "", tags: ["technical-doc", "week4"]
   },
   {
     week: 7, date: "May 15<br>(Friday)", color: "blue",
     task: "Submit final presentation program abstract and acknowledgements to CP Coordinator for posting on the Bren website (template will be sent by CP Coordinator)",
-    note: "The abstract should be approved by students' faculty advisor", tags: ["presentation", "admin"]
+    note: "The abstract should be approved by students' faculty advisor", tags: ["presentation", "admin", "week4"]
   },
   {
     week: 8, date: "May 18<br>(Monday)", color: "white",
     task: "Feedback on Technical Documentation from EDS 411B instructor and faculty advisor due back to students",
-    note: "", tags: ["technical-doc"]
+    note: "", tags: ["technical-doc", "week4"]
   },
   {
     week: 8, date: "May 22<br>(Friday)", color: "green",
