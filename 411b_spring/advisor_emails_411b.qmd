@@ -238,4 +238,48 @@ Carmen
 
 ## Week 5
 
+Hello MEDS Capstone Advisors, 
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please don’t hesitate to reach out with any questions, comments, concerns, or suggestions.
+
+
+Best wishes!
+
+Carmen 
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}
+
+
+<span style="font-weight: bold;">Upcoming Major Deadlines </span>
+
+<div id="table-week5-8"></div>
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+- Thanks for providing feedback on your team's Technical Documentation! I've heard from several teams that they really appreciate the input at this draft stage so they can implement changes and dive deeper into their project with enough time. 
+
+- In two weeks, students will start preparing their final presentations. <span style="font-weight: bold;">Students should take advantage of this week and the next to make significant progress on their deliverables and technical documentation.</span>
+:::
+
+<br>
+
+<span style="font-weight: bold;">In 411B this week</span> [(slides @ website)]({{< var spring-week5-website >}}){style="color: #0066cc;"}
+
+- Teams received peer feedback on their GitHub Organization and Repositories.
+- Students worked independently with their capstone team and I checked in with each team.
+
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411B class:</span>
+
 - Completing a mid-quarter personal reflection
+- Confirm the final title for their capstone project
+- Work on incorporating feedback to their Technical Documentation
+- Update their GitHub organization and repositories
+- Make significant progress on their capstone deliverables!
+
