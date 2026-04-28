@@ -2,17 +2,25 @@
 
 ## Materials
 
-📕 [Class slides](https://docs.google.com/presentation/d/1-uVEYm0E9HviRJB1StyXL6GtrhboOYlYfpR4Mdj2SIE/edit?usp=sharing)
+📕 [Class slides]({{< var spring-week7-class-slides >}})
+
+🗂️ [Presentations shared folder]({{< var final-presentation-1-shared-folder >}})
 
 🔄 [Feedback grid for Block 1](https://docs.google.com/spreadsheets/d/1FjfIMsO5kb4DjlNll308lJUFdp6VQhH1KOyvgxbDkz4/edit?usp=sharing)
 
 🔄 [Feedback grid for Block 2](https://docs.google.com/spreadsheets/d/1mEQJlWSSHv0qYcNGHWdqQcyEAunSGP_bjuStpFYARMM/edit?usp=sharing)
 
-📗 [Responding to questions slides - Dr. Allison Horst](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing)
+#### Final presentations
+
+📗 [Final presentations logistics slides - Jamie Montgomery, MEDS Program Director]({{< var final-presentations-logistics-slides >}})
+
+📙 [Ten ways to improve presentations - Dr. Alexandra Phillips, Asst. Teaching Professor]({{< var ten-ways-to-improve-presentations-workshop >}})
+
+📗 [Responding to questions slides - Dr. Allison Horst]({{< var allison-horst-responding-questions >}})
 
 ## Schedule
 
-The class will be divided in two blocks from 1:10 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to other teams as follows:
+Today the class will be divided in two blocks from 12:30 to 2:10 and from 2:10 to 3:30. Each team will present and provide feedback to other teams as follows:
 
 ![](/411b_spring/images/presentations_blocks_1.png)
 
@@ -22,7 +30,7 @@ Your theam should work on their project outside of their "presentation block". T
 
 ## Upcoming deadlines
 
-![](/411b_spring/images/411b_2025_deadlines4.png)
+{{< include _spring_deadlines_tables.qmd >}}
 
 ::: {.callout-tip}
 ## Reminder
