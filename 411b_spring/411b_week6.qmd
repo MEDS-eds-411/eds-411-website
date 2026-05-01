@@ -15,7 +15,10 @@ title: "Spring Week 6"
 
 📗 [Final presentations logistics slides - Jamie Montgomery, MEDS Program Director]({{< var final-presentations-logistics-slides >}})
 
-📙 [Ten ways to improve presentations - Dr. Alexandra Phillips, Asst. Teaching Professor]({{< var ten-ways-to-improve-presentations-workshop >}})
+📙 [Final presentations schedule]({{< var public-presentations-schedlue >}})
+
+📗 [Ten ways to improve presentations - Dr. Alexandra Phillips, Asst. Teaching Professor]({{< var ten-ways-to-improve-presentations-workshop >}})
+
 
 🎥 (1)[MEDS final presentation recording]({{< var meds-final-presentation-recording-1 >}}) - Modeling the Impact of Decarbonization on Labor in California’s Central Coast. [Project Website]({{< var meds-final-project-website-1 >}})
 

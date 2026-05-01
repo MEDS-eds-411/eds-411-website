@@ -283,3 +283,62 @@ Carmen
 - Update their GitHub organization and repositories
 - Make significant progress on their capstone deliverables!
 
+## Week 6
+
+Hello MEDS Capstone Advisors, 
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please don’t hesitate to reach out with any questions, comments, concerns, or suggestions.
+
+
+Best wishes!
+
+Carmen 
+
+---
+
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}
+
+
+<span style="font-weight: bold;">Upcoming Major Deadlines </span>
+
+<div id="table-week7-9"></div>
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+- We'll start preparing for public presentations next week. Students should take advantage of this week to make significant progress on their deliverables and technical documentation!
+
+- Students will prepare their first practice presentation for the coming Monday. They may reach out to you for comments on their draft slides. 
+
+- Students should <span style="font-weight: bold;"> discuss with you what data should be archived as part of their project deliverables </span>. They should meet, if necessary, with the Library Research Data Services team before archiving in the Dryad repository. <span style="font-weight: bold;">Please check in with students about their data archival plans.</span>
+
+:::
+
+
+<br>
+
+<span style="font-weight: bold;">In 411B this week</span> [(slides @ website)]({{< var spring-week6-website >}}){style="color: #0066cc;"}
+
+- Alex Phillips, Asst. Teaching Professor @ Bren, led a workshop about *Ten tips to improve presentations*. 
+- Jamie Montgomery, the MEDS program director, presented the logistics for the faculty reviews. 
+- Students worked independently with their capstone team and I checked in with each team.
+
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411B class:</span>
+
+- Prepare final Technical Documentation draft
+- Prepare draft 1 of final presentation
+- Submit final abstract and acknowledgements
+- Initiate data archival
+- Make significant progress on their capstone deliverables!
+
+
+## Previous bullet points
+
+### Week 7
+
+- As a reminder, students developed a Team Management Plan during the fall as part of their Design and Implementation Plan. You can encourage them to revisit this document, as well as the materials from their workshop with the Associated Ombuds on managing conflict and fostering healthy team dynamics.
