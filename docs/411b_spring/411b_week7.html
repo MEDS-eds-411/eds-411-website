@@ -2,16 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.7.33">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>b_week7 – EDS 411</title>
 <style>
-/* Default styles provided by pandoc.
-** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -39,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -240,28 +237,60 @@ ul.task-list li input[type="checkbox"] {
 <h1>Week 7</h1>
 <section id="materials" class="level2">
 <h2 class="anchored" data-anchor-id="materials">Materials</h2>
-<p>📕 <a href="https://docs.google.com/presentation/d/1-uVEYm0E9HviRJB1StyXL6GtrhboOYlYfpR4Mdj2SIE/edit?usp=sharing">Class slides</a></p>
+<p>📕 <a href="https://docs.google.com/presentation/d/1d5rMrPfMnZjsvFxnvDDXGCMctvaIO6jZOwqRxEyckB4/edit?usp=sharing">Class slides</a></p>
+<p>🗂️ <a href="https://drive.google.com/drive/folders/1DAAX9hicgzqhjt2_As6XdPpKZP9kr7sc?usp=share_link">Presentations shared folder</a></p>
 <p>🔄 <a href="https://docs.google.com/spreadsheets/d/1FjfIMsO5kb4DjlNll308lJUFdp6VQhH1KOyvgxbDkz4/edit?usp=sharing">Feedback grid for Block 1</a></p>
 <p>🔄 <a href="https://docs.google.com/spreadsheets/d/1mEQJlWSSHv0qYcNGHWdqQcyEAunSGP_bjuStpFYARMM/edit?usp=sharing">Feedback grid for Block 2</a></p>
+<section id="final-presentations" class="level4">
+<h4 class="anchored" data-anchor-id="final-presentations">Final presentations</h4>
+<p>📗 <a href="https://docs.google.com/presentation/d/1TUaf74DY5cuHRBjHM12U0vbBrp2YZG0xQ2VZZ75mneM/edit?usp=sharing">Final presentations logistics slides - Jamie Montgomery, MEDS Program Director</a></p>
+<p>📙 <a href="">Ten ways to improve presentations - Dr.&nbsp;Alexandra Phillips, Asst. Teaching Professor</a></p>
 <p>📗 <a href="https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing">Responding to questions slides - Dr.&nbsp;Allison Horst</a></p>
+</section>
 </section>
 <section id="schedule" class="level2">
 <h2 class="anchored" data-anchor-id="schedule">Schedule</h2>
-<p>The class will be divided in two blocks from 1:10 to 2:30 and from 2:30 to 4:00. Each team will present and provide feedback to other teams as follows:</p>
+<p>Today the class will be divided in two blocks from 12:30 to 2:10 and from 2:10 to 3:30. Each team will present and provide feedback to other teams as follows:</p>
 <p><img src="../411b_spring/images/presentations_blocks_1.png" class="img-fluid"></p>
 <p>Your theam should work on their project outside of their “presentation block”. The following rooms are reserved for you so you have a dedicated workspace during our usual class time. You’re welcome to use other places to work.</p>
 <p><img src="../411b_spring/images/presentations_rooms_1.png" class="img-fluid"></p>
 </section>
 <section id="upcoming-deadlines" class="level2">
 <h2 class="anchored" data-anchor-id="upcoming-deadlines">Upcoming deadlines</h2>
-<p><img src="../411b_spring/images/411b_2025_deadlines4.png" class="img-fluid"></p>
+<!-- =============================================================
+     Shared table definitions for 411b_spring pages.
+
+     HOW TO USE:
+     1. Include this file once in a .qmd page 
+     2. Place whichever div(s) you need anywhere on that page:
+           <div id="table-spring-all"></div>
+     Tables without a matching div on the page are simply skipped.
+
+     HOW TO ADD A NEW TABLE:
+     Add a matching buildTable() call in the <script> below
+     ============================================================= -->
+<script src="spring-deadlines-data.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  buildTable(r => true,        "table-spring-all");
+  buildTable(r => r.week <= 7, "table-week1-7");
+  buildTable(r => r.week >= 4 && r.week <= 7, "table-week4-7");
+  buildTable(r => r.week >= 5 && r.week <= 8, "table-week5-8"); 
+  buildTable(r => r.week >= 7 && r.week <= 8, "table-week7-8");  
+  buildTable(r => r.week >= 7 && r.week <= 9, "table-week7-9");  
+  buildTable("week4",  "table-week4");
+  buildTable("technical-doc",  "table-technical-doc");
+  buildTable("presentation",   "table-presentation");
+  buildTable("admin",          "table-admin");
+});
+</script>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Reminder
+Reminder
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -421,14 +450,13 @@ When you submit data to Dryad (recommended repository) the data archival process
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
