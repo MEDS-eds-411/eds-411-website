@@ -17,11 +17,21 @@ title: "Spring Week 6"
 
 📙 [Ten ways to improve presentations - Dr. Alexandra Phillips, Asst. Teaching Professor]({{< var ten-ways-to-improve-presentations-workshop >}})
 
-🎥 (1)[MEDS final presentation recording]({{< var meds-final-presentation-recording-1 >}}) - Modeling the Impact of Decarbonization on Labor in California’s Central Coast. [Project Website]({{< var meds-final-project-website-1 >}})
-
-🎥 (2)[MEDS final presentation recording]({{< var meds-final-presentation-recording-2 >}}) - Quantifying Greenhouse Gas (GHG) Emissions Associated with Global Seafood Production [Project Website]({{< var meds-final-project-website-2 >}})
-
 🎥 [All 2025 MEDS Capstone Project Presentations]({{< var all-meds-final-project-presentations >}})
+
+
+Example 1 - Modeling the Impact of Decarbonization on Labor in California’s Central Coast. 
+
+- 🎥 [Recording]({{< var meds-final-presentation-recording-1 >}})
+- 📄 [Slides]({{< var meds-final-project-slides-1 >}})
+- 🔗 [Project Website]({{< var meds-final-project-website-1 >}})
+
+Example 2 - Quantifying Greenhouse Gas (GHG) Emissions Associated with Global Seafood Production
+
+- 🎥 [Recording]({{< var meds-final-presentation-recording-2 >}})
+- 📄 [Slides]({{< var meds-final-project-slides-2 >}})
+- 🔗 [Project Website]({{< var meds-final-project-website-2 >}})
+
 
 ## Schedule
 
