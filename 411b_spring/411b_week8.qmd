@@ -18,7 +18,7 @@
 
 📗 [Ten ways to improve presentations - Dr. Alexandra Phillips, Asst. Teaching Professor]({{< var ten-ways-to-improve-presentations-workshop >}})
 
-📙 [Responding to questions - Dr. Allison Horst]({{< var allison-horst-responding-questions >}})
+📙 [Faculty Reviews Strategies (Responding to questions) - Dr. Alexandra Phillips, Asst. Teaching Professor]({{< var faculty-reviews-strategies >}})
 
 ## Schedule
 
@@ -92,7 +92,7 @@ When you submit data to Dryad (recommended repository) the data archival process
 
 - Incorporate the feedback you received today and streamline your presentation
 - *Practice at least once with your faculty advisor*
-- Prepare for Q&A (check class slides!)
+- Prepare for Q&A. Review the slides for the faculty review Q&A session: [Faculty Reviews Strategies - Dr. Alexandra Phillips, Asst. Teaching Professor]({{< var faculty-reviews-strategies >}})
 - Schedule extra practice presentations or feedback sessions with TA.
 - You've got this! 
 

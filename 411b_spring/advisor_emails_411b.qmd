@@ -354,7 +354,7 @@ Carmen
 
 [Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}
 
-<span style="font-weight: bold;">Upcoming Major Deadlines </span>
+<span style="font-weight: bold;">Upcoming Deadlines </span>
 
 <div id="table-week8-9"></div>
 
@@ -389,6 +389,55 @@ Carmen
 - Prepare version 2.0 of their final presentation
 - Discuss data archival plans with advisor and initiate archival if necessary
 - Keep implementing their project
+
+## Week 8
+
+Hello MEDS Capstone Advisors, 
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please don’t hesitate to reach out with any questions, comments, concerns, or suggestions.
+
+
+Best wishes!
+
+Carmen 
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}
+
+<span style="font-weight: bold;">Upcoming Deadlines </span>
+
+<div id="table-week8-10"></div>
+
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+
+<span style="font-weight: bold;">Advisor Check-ins</span>
+- <span style="font-weight: bold;">If you haven’t yet, please review your team’s Technical Documentation *and* GitHub repositories by the end of today. </span>
+
+- Final presentations are next week! Students are working on updating their presentations to practice this Wednesday. <span style="font-weight: bold;">Please review your team's presentation! It makes a huge difference.</span>
+
+- Students will be archiving their data by the end of this week. <span style="font-weight: bold;">Please check in with students about their data archival plans if you haven't already.</span>
+
+:::
+
+<br>
+
+<span style="font-weight: bold;">In 411B this week</span> [(slides @ website)]({{< var spring-week8-website >}}){style="color: #0066cc;"}
+
+- Each team presented a second draft of their final presentation and received feedback.
+- Students worked independently with their capstone team.
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411B class:</span>
+
+- Complete data archival
+- Submit editable file of closed captioning script
+- Prepare a final mock presentation 
+- Work on updating their Technical Documentation and GitHub materials
+- Start finalizing the project deliverables!
+
 
 ## Previous bullet points
 
