@@ -2,15 +2,23 @@
 
 ## Materials
 
-📕 [Class slides](https://docs.google.com/presentation/d/1I_D_K3XhmCsvxjxRsw3IY1UhcQEtFtcSkGkOvYEyg2I/edit?usp=sharing)
+📕 [Class slides]({{< var spring-week8-class-slides >}})
 
-🔄 [Feedback grid for Block 1](https://docs.google.com/spreadsheets/d/1RMiqhIX0HoIu0j8FInnopLKkJ9WD5BI2_pmcABapuIQ/edit?usp=sharing)
+🗂️ [Presentations shared folder]({{< var final-presentation-2-shared-folder >}})
 
-🔄 [Feedback grid for Block 2](https://docs.google.com/spreadsheets/d/1VYVt12BbB6Cu2wq41wBwHvSiWB4AUwpwL4_I1SJuEJ0/edit?usp=sharing)
+🔄 [Feedback grid for Block 1]({{< var final-presentation-2-feedback-forms-block1 >}})
 
-📗 [Responding to questions slides - Dr. Allison Horst](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing)
+🔄 [Feedback grid for Block 2]({{< var final-presentation-2-feedback-forms-block2 >}})
 
-📗 [Faculty Review Logistics Slides](https://docs.google.com/presentation/d/1GTzGrQWq1cf2_yVP_IN55A9vbYLtVgNLYVjTn5cqflM/edit?usp=sharing)
+#### Final presentations
+
+📗 [Final presentations logistics slides - Jamie Montgomery, MEDS Program Director]({{< var final-presentations-logistics-slides >}})
+
+📙 [Final presentations schedule]({{< var public-presentations-schedlue >}})
+
+📗 [Ten ways to improve presentations - Dr. Alexandra Phillips, Asst. Teaching Professor]({{< var ten-ways-to-improve-presentations-workshop >}})
+
+📙 [Responding to questions - Dr. Allison Horst]({{< var allison-horst-responding-questions >}})
 
 ## Schedule
 
@@ -24,71 +32,76 @@ Your theam should work on their project outside of their "presentation block". T
 
 ## Upcoming deadlines
 
-![](/411b_spring/images/411b_2025_deadlines5.png)
+{{< include _spring_deadlines_tables.qmd >}}
+
+<div id="table-week8-10"></div>
 
 
 ## To do by next week
 
-### 📊 Complete data archival 
 
-**When? Due on Friday, May 23 at 5 PM.**
+### 1. 📊 Complete data archival
 
-**How? Submit data's DOI or explain why there is no data archival using [this Google form](https://forms.gle/yGoKVjNgUR69D3XP9).**
+**Due when?** {{< var data-archival-deadline >}} is the final due date to archive your capstone project data. This is an academic requirement.
+
+**How to submit:**  Submit data's DOI or explain why there is no data archival using [this Google form]({{< var data-archival-form >}}).
 
 <details>
 <summary>**Instructions**</summary>
-Friday, May 23 is the final due date to archive your capstone project data. This is an academic requirement. 
 
-Use this week and next to:
+You should have already:
 
-1. Discuss with your advisor or client what data (if any) should be archived as part of the project deliverables.
-2. Read through the [Archiving and Preserving Your Data](https://ucsb-library-research-data-services.github.io/project-data-management/preserve.html) information by the Library RDS team for detailed guidelines about what to archive and the submission process to Dryad. 
-3. If necessary, make an appointment with the RDS team (rds@library.ucsb.edu) to discuss archival of data associated with your capstone project. 
-4. 
+1. Discussed with your advisor or client what data (if any) should be archived as part of the project deliverables.
+2. If necessary, made an appointment with the RDS team (rds@library.ucsb.edu) to discuss archival of data associated with your capstone project. 
 
-When you submit data to Dryad (recommended repository) the data archival process won’t be complete yet, as your submission might need to be revised. However, you will get a DOI associated with your data. **To fulfill the data archival requirement, you must [submit your data’s DOI](https://forms.gle/yGoKVjNgUR69D3XP9) by Friday, May 23. If you are not archiving any data related to your capstone project, you must briefly explain why that is the case.**
+Before contacting the Library RDS team or archiving your data, please read through the [Archiving and Preserving Your Data]({{< var RDS-data-archival-guide >}}) information for detailed guidelines about what to archive and the submission process to Dryad. 
+
+When you submit data to Dryad (recommended repository) the data archival process won’t be complete yet, as your submission might need to be revised. However, you will get a DOI associated with your data. **To fulfill the data archival requirement, you must [submit your data’s DOI]({{< var data-archival-form >}}) by {{< var data-archival-deadline >}}. If you are not archiving any data related to your capstone project, you must briefly explain why that is the case.**
+
+
 </details>
 
 <br>
 
-### 💬 Submit editable file of closed captioning script
 
-**When? Due on Sunday, May 25 at midnight.**
 
-**How? Upload as a Word (.doc) to [this Box folder](https://ucsb.app.box.com/f/9acee047302e4ccbadf8be8a6b78d262). Not PDF.**
+### 2. 💬 Submit editable file of closed captioning script
+
+**Due when?**  Due on {{< var editable-closed-caption-deadline >}} at midnight.
+
+**How to submit:** Upload as a Word (.doc) to [this Box folder]({{< var final-presentations-cc-scripts-box-folder >}}). Not PDF: must be an editable text file.
 
 <details>
 <summary>**Instructions**</summary>
-- Don’t need to create a script but submit it if you have one; outline or working notes are fine
+- Don’t need to create a full script but submit it if you have one; outline or working notes are fine.
 - Provide as much information as possible about what you will be saying in your presentation to assist the live closed captioner and increase caption accuracy
 - All proper names and technical words at minimum, but more detail is helpful
-- Word (.doc) format preferred, **not PDF**, can even be slide notes (must be editable text)
-- Upload [this Box folder](https://ucsb.app.box.com/f/9acee047302e4ccbadf8be8a6b78d262) no later than Sunday, May 25 midnight.
+- Word (.doc) format preferred, **not PDF**, can even be slide notes (must be editable text).
 </details>
 
 <br>
 
-### 🎤 Prepare final presentation and Q&A 
+### 3. 🎤  Prepare final presentation and Q&A 
 
-**When? Due by next class Wednesday, May 28.**
+**Due when?** Due by next class Wednesday, May 28.
 
-**How? Add slides to [shared drive](https://drive.google.com/drive/folders/10PdjZwq0sI8EzUcxd4G3hLcCuYCw6bq8?usp=share_link).**
+**How to submit:** Add slides to [shared drive]({{< var final-presentation-3-shared-folder >}}).
 
 <details>
 <summary>**Instructions**</summary>
 
 - Incorporate the feedback you received today and streamline your presentation
 - *Practice at least once with your faculty advisor*
-- Prepare for Q&A (check class slides!!!)
-- Schedule extra practice presentations or feedback sessions with TA or instructor
-- You got this! 
+- Prepare for Q&A (check class slides!)
+- Schedule extra practice presentations or feedback sessions with TA.
+- You've got this! 
 
 </details>
 
 <br>
 
-### 🧰 Update Technical Documentation and clean repositories
-**When? Due last day of quarter, Friday June 6.**
+### 4. 🧰 Update Technical Documentation and clean repositories
+**Due when?** Due last day of quarter, {{< var final-academic-delierables-deadline >}}.
 
 <details>
 <summary>**Instructions**</summary>
@@ -101,11 +114,17 @@ When you submit data to Dryad (recommended repository) the data archival process
 
 <br>
 
-### 💥 Keep implementing your project!
+### 5. 💥 Keep implementing your project!
 <center>
 ![](/411b_spring/images/coding.gif){width=35%}
 </center>
 
 
 ## Schedule for next class
+:::{.callout-important}
+## Remember: updated schedule next week!
+There is no class on Monday. We will have class on {{< var spring-week9-class-date >}} at BH 1414.
+:::
+
+
 ![](/411b_spring/images/presentations_blocks_3.png)

@@ -36,6 +36,8 @@ td-final-draft-deadline : Monday 5/11
 repository-revision-deadline : Monday 5/11
 final-abstract-deadline : Friday 5/15
 data-archival-deadline : Friday 5/22
+editable-closed-caption-deadline : Sunday 5/24
+final-academic-delierables-deadline : Friday 6/5
 
 # 411 course website
 411-course-website : https://meds-eds-411.github.io/eds-411-website/
@@ -186,8 +188,14 @@ final-abstract-and-acknowledgements-folder : https://drive.google.com/drive/fold
 final-presentation-1-shared-folder : https://drive.google.com/drive/folders/1DAAX9hicgzqhjt2_As6XdPpKZP9kr7sc?usp=share_link 
 final-presentation-1-feedback-forms-block1 : https://docs.google.com/spreadsheets/d/1tmsGs3Th6f3xSmumQSxsuCKAnOwdG61E570J0mGPXYY/edit?usp=sharing
 final-presentation-1-feedback-forms-block2 : https://docs.google.com/spreadsheets/d/1AINYdD-9MqF-KA8iDC-pVD0g0hZ3Yg110N3VU0ew2_8/edit?usp=sharing
-final-presentation-2-shared-folder : https://drive.google.com/drive/folders/1e6LogrdFnYr1hk2UX6QnlJuIFONwIkON?usp=share_link
+
 final-presentation-3-shared-folder : https://drive.google.com/drive/folders/1bke-m_EX7AMosv3s_SXtbOinNuczkdoQ?usp=share_link
+
+final-presentation-2-shared-folder : https://drive.google.com/drive/folders/1e6LogrdFnYr1hk2UX6QnlJuIFONwIkON?usp=share_link
+final-presentation-2-feedback-forms-block1 : https://docs.google.com/spreadsheets/d/15ZzXI3uNgoec46zUOUBnPLh16PkY-kxiYmWkM0jhRFU/edit?usp=share_link
+final-presentation-2-feedback-forms-block2 : https://docs.google.com/spreadsheets/d/1Dy3K52QHNqJ1K0q36YVc8OwCOTNosnMt9CbokvTmEEo/edit?usp=share_link
+
+final-presentations-cc-scripts-box-folder : https://ucsb.app.box.com/f/a75fa0a65fcf41f7800ed6cee0ca985d
 
 # Class slides
 spring-week1-class-slides : https://docs.google.com/presentation/d/1EKa2ZtlbsXczSEQwatASoOsGL3W8ihjIkv2oDKH8-bE/edit?usp=share_link
@@ -197,7 +205,7 @@ spring-week4-class-slides : https://docs.google.com/presentation/d/10GoZQA5i9hRV
 spring-week5-class-slides : https://docs.google.com/presentation/d/1G7b0yEl4e_1JzH-tbGaIDTe1-A764K-GPkwCtToPhYc/edit?usp=sharing
 spring-week6-class-slides : https://docs.google.com/presentation/d/1AptlM89PCo9JxpVJLUR7M6kOfMgMHfLYjOyp2ynwOm4/edit?usp=sharing
 spring-week7-class-slides : https://docs.google.com/presentation/d/1d5rMrPfMnZjsvFxnvDDXGCMctvaIO6jZOwqRxEyckB4/edit?usp=sharing
-# spring-week8-class-slides :
+spring-week8-class-slides : https://docs.google.com/presentation/d/13-sOq3EyiLDc4aUSlK7jV11O4IWD3e8P0RfYjKzAVRw/edit?usp=sharing
 # spring-week9-class-slides :
 # spring-week10-class-slides :  
 
