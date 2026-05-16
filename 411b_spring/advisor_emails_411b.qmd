@@ -336,6 +336,59 @@ Carmen
 - Initiate data archival
 - Make significant progress on their capstone deliverables!
 
+## Week 7
+
+Hello MEDS Capstone Advisors, 
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please don’t hesitate to reach out with any questions, comments, concerns, or suggestions.
+
+
+Best wishes!
+
+Carmen 
+
+---
+
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}
+
+<span style="font-weight: bold;">Upcoming Major Deadlines </span>
+
+<div id="table-week8-9"></div>
+
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+-  <span style="font-weight: bold;">Students should send you a link to their Technical Documentation draft today.</span> Feedback from you is due by the following Monday.
+
+- Students will also send you a link to their GitHub organization.  <span style="font-weight: bold;">Please take a look at their repositories and provide them with feedback</span>, especially if you are a client of their project.
+
+- Students need to submit their final project abstract by {{< var final-abstract-deadline >}}. The abstract will be publicly posted along with their presentation on Bren’s website.  <span style="font-weight: bold;">Students should send you the project abstract and have a version approved by you by {{< var final-abstract-deadline >}}..</span> Most people will use the same abstract they have in the TD; that’s ok.
+
+-  <span style="font-weight: bold;">Students should have already discussed with you what data should be archived as part of their project deliverables.</span> They should use this week (if necessary) to meet with the Library Research Data Services team before archiving in the Dryad repository.  <span style="font-weight: bold;">Please check in with students about their data archival plans.</span>
+
+- Final presentations will happen on {{< var final-presentations-date >}}.  <span style="font-weight: bold;">Students may reach out to you for comments on their draft slides as they prepare. <span>Please remember the presentations should highlight the students' technical development of the project for a general audience!
+:::
+
+<br>
+
+<span style="font-weight: bold;">In 411B this week</span> [(slides @ website)]({{< var spring-week7-website >}}){style="color: #0066cc;"}
+
+- Each team presented a first draft of their final presentation and received feedback.
+- Students worked independently with their capstone team.
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411B class:</span>
+
+- Send links to their updated Technical Documentation draft and GitHub repository to their advisor and 411 instructor
+- Prepare abstract and send it for revision to advisors
+- Prepare acknowledgements and ask for consent from everyone listed
+- Prepare version 2.0 of their final presentation
+- Discuss data archival plans with advisor and initiate archival if necessary
+- Keep implementing their project
 
 ## Previous bullet points
 
