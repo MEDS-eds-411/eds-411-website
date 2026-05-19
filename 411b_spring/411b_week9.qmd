@@ -2,51 +2,64 @@
 
 ## Materials
 
-📕 [Class slides](https://docs.google.com/presentation/d/1pjTNTTAkcbMCKcOW-ih96m8q7emYI4Pvb6AoDJpTz5o/edit?usp=sharing)
+📕 [Class slides]({{< var spring-week9-class-slides >}})
 
-🔄 [Questions grid for Block 1](https://docs.google.com/spreadsheets/d/1lovJL7QCuJ515z-BDlZ96GWqLzcsnr9ayCqXOgIcw7o/edit?usp=share_link)
+🗂️ [Presentations shared folder]({{< var final-presentation-3-shared-folder >}})
 
-🔄 [Questions grid for Block 2](https://docs.google.com/spreadsheets/d/1L6ZAUpKabN_qcuw4jHpECN7Sb8urtwUW3xxDnvQ4ops/edit?usp=share_link)
+🔄 [Questions grid for Block 1]({{< var final-presentation-3-questions-block1 >}})
 
-📗 [Answering questions slides - Dr. Alex Phillips (ESM 438 materials)](https://docs.google.com/presentation/d/16jORzWr-3fYxEVkQmozTHbKKCiUcuKhbX6J7Y1qnQEw/edit?slide=id.g3393906af1c_0_688#slide=id.g3393906af1c_0_688)
+🔄 [Questions grid for Block 2]({{< var final-presentation-3-questions-block2 >}})
 
-📗 [Faculty Review Logistics slides](https://docs.google.com/presentation/d/1GTzGrQWq1cf2_yVP_IN55A9vbYLtVgNLYVjTn5cqflM/edit?usp=sharing)
+#### Final presentations
+
+📗 [Final presentations logistics slides - Jamie Montgomery, MEDS Program Director]({{< var final-presentations-logistics-slides >}})
+
+📙 [Final presentations schedule]({{< var public-presentations-schedlue >}})
+
+📗 [Ten ways to improve presentations - Dr. Alexandra Phillips, Asst. Teaching Professor]({{< var ten-ways-to-improve-presentations-workshop >}})
+
+📙 [Faculty Reviews Strategies (Responding to questions) - Dr. Alexandra Phillips, Asst. Teaching Professor]({{< var faculty-reviews-strategies >}})
 
 ## Schedule
 
+The class will be divided in two blocks from 2:10 to 3:30 and from 3:30 to 5:00. Each team will present and provide feedback to other teams as follows:
+
+
 ![](/411b_spring/images/presentations_blocks_3.png)
+
+Your theam should work on their project outside of their "presentation block". The following rooms are reserved for you so you have a dedicated workspace during our usual class time. You’re welcome to use other places to work. 
+
 
 ## Upcoming deadlines
 
-![](/411b_spring/images/411b_2025_deadlines6.png)
+{{< include _spring_deadlines_tables.qmd >}}
+
+<div id="table-week9-10"></div>
 
 
 ## To do by next week
-### 📃 Update and submit final Technical Documentation and GitHub repository
 
-**When? Due on Monday, June 2 at 5 PM.**
+### 1. 📃 Update and submit final Technical Documentation and GitHub repository
 
-**How? Send an email with a link to your final TD and GitHub repo to you advisor and instructor. Send DocuSign to collect signatures for TD signature page.**
+**Due when?** {{< var td-review-and-signature-deadline >}}
+
+**How to submit:** Send an email with a link to your final TD and GitHub repo to you advisor and instructor. Send DocuSign to collect signatures for TD signature page.
 
 - Finish updating your TD and repositories
 - Designate an editor in your team who will read the whole document and give it cohesion. Editor, be on the lookout for:
     - Inconsistent spelling (ex: github, GitHub, gitHub)
     - Inconsistent terms (ex: app, dashboard, interactive dashboard, etc)
-- Request approval and signatures from advisor and instructor. Advisor must sign first. The easiest way to do this is collect it via DocuSign.
+- Request approval and signatures from advisor and instructor. Advisor must sign before 411 instructor. The easiest way to do this is collect it via DocuSign.
 
 
-<br>
+## Optional assignment: Capstone Group Blog Post
 
-### 🌱 Complete Personal Reflection 2
-**When? Due on Wednesday, June 4 at 5 PM.**
+What? Adapting final Capstone presentations into blog posts for personal websites. This is an optional activity that does not contribute to grades or assessments but offers teams an opportunity to coordinate to showcase their Capstone project and experience. The course will offer this coordinated timeline for students who want to participate in giving and receiving feedback to others writing their Capstone blog posts:
+Week 9: Teams adapt their public presentation into a co-authored blog post for their personal websites.
+Wednesday week 9 (May 27): Teams submit their blog post to receive peer and instructor feedback
+Just send me an email with a link to the Google doc and I will redistribute the links among the participants. Each student will read one more blog post. 
+Wednesday week 10 (June 3): Peer and instructor feedback due.
+Students are not required to submit a final version of their blog post to the instructor, but integrating the feedback is greatly encouraged. 
 
-**How? Share document or send via email to instructor (detailed instructions in the template).**
-Please complete and share your Personal Reflection 2 with the instructor:
 
-[[TEMPLATE] Personal Reflection 2 – 411B](https://docs.google.com/document/d/1kZvkDdX1syY6bKxbNKnaDtkfHZ2JY_zD7HelEkvwfyo/edit?usp=share_link)
-
-Detailed instructions are included in the template.
-
-This is an individual assignment. Each person is responsible for submitting their own reflection and making sure the instructor is notified once it’s shared.
-
-If you would like to set up a meeting with me (Carmen) to chat about anything, please message me and we can find a time that works.
+[GUIDELINES HERE]({{< var capstone-blog-post-guidelines >}})

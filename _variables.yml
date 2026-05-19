@@ -37,8 +37,9 @@ repository-revision-deadline : Monday 5/11
 final-abstract-deadline : Friday 5/15
 data-archival-deadline : Friday 5/22
 editable-closed-caption-deadline : Sunday 5/24
-final-academic-delierables-deadline : Friday 6/5
 final-presentations-date : Friday 5/30
+td-review-and-signature-deadline : Monday 6/1
+final-academic-delierables-deadline : Friday 6/5
 
 # 411 course website
 411-course-website : https://meds-eds-411.github.io/eds-411-website/
@@ -190,12 +191,13 @@ final-presentation-1-shared-folder : https://drive.google.com/drive/folders/1DAA
 final-presentation-1-feedback-forms-block1 : https://docs.google.com/spreadsheets/d/1tmsGs3Th6f3xSmumQSxsuCKAnOwdG61E570J0mGPXYY/edit?usp=sharing
 final-presentation-1-feedback-forms-block2 : https://docs.google.com/spreadsheets/d/1AINYdD-9MqF-KA8iDC-pVD0g0hZ3Yg110N3VU0ew2_8/edit?usp=sharing
 
-final-presentation-3-shared-folder : https://drive.google.com/drive/folders/1bke-m_EX7AMosv3s_SXtbOinNuczkdoQ?usp=share_link
-
 final-presentation-2-shared-folder : https://drive.google.com/drive/folders/1e6LogrdFnYr1hk2UX6QnlJuIFONwIkON?usp=share_link
 final-presentation-2-feedback-forms-block1 : https://docs.google.com/spreadsheets/d/15ZzXI3uNgoec46zUOUBnPLh16PkY-kxiYmWkM0jhRFU/edit?usp=share_link
 final-presentation-2-feedback-forms-block2 : https://docs.google.com/spreadsheets/d/1Dy3K52QHNqJ1K0q36YVc8OwCOTNosnMt9CbokvTmEEo/edit?usp=share_link
 
+final-presentation-3-shared-folder : https://drive.google.com/drive/folders/1bke-m_EX7AMosv3s_SXtbOinNuczkdoQ?usp=share_link
+final-presentation-3-questions-block1 : https://docs.google.com/spreadsheets/d/1GpqVJNcfBLwkvKfbt8d2ejqSUTcuKhTQR1D4vlogNdo/edit?usp=sharing
+final-presentation-3-questions-block2 : https://docs.google.com/spreadsheets/d/1HbvnaFargcB6dlwny7zbX0by6uOwSvmNky3iEdLlcNk/edit?usp=sharing
 final-presentations-cc-scripts-box-folder : https://ucsb.app.box.com/f/a75fa0a65fcf41f7800ed6cee0ca985d
 
 # Class slides
@@ -207,7 +209,7 @@ spring-week5-class-slides : https://docs.google.com/presentation/d/1G7b0yEl4e_1J
 spring-week6-class-slides : https://docs.google.com/presentation/d/1AptlM89PCo9JxpVJLUR7M6kOfMgMHfLYjOyp2ynwOm4/edit?usp=sharing
 spring-week7-class-slides : https://docs.google.com/presentation/d/1d5rMrPfMnZjsvFxnvDDXGCMctvaIO6jZOwqRxEyckB4/edit?usp=sharing
 spring-week8-class-slides : https://docs.google.com/presentation/d/13-sOq3EyiLDc4aUSlK7jV11O4IWD3e8P0RfYjKzAVRw/edit?usp=sharing
-# spring-week9-class-slides :
+spring-week9-class-slides : https://docs.google.com/presentation/d/1wL4K4l3dTDsylD2-B3BL6IJgjZY9elt1RSnhJa4cCJo/edit?usp=sharing
 # spring-week10-class-slides :  
 
 
@@ -218,7 +220,7 @@ ten-ways-to-improve-presentations-workshop : https://docs.google.com/presentatio
 
 # Other
 RDS-data-archival-guide : https://ucsb-library-research-data-services.github.io/project-data-management/preserve.html
-
+capstone-blog-post-guidelines : https://docs.google.com/document/d/1hwu-ySbFAaJjs4KcaPR24Q6agH7K7rmEbmi67xc4xWs/edit?usp=sharing
 
 # Winter weeks
 spring-week1-website : https://meds-eds-411.github.io/eds-411-website/411b_spring/411b_week1.html

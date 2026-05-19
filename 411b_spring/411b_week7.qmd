@@ -90,17 +90,6 @@ Tip: You can view Bren faculty titles [here](https://bren.ucsb.edu/people/facult
 - Iterate with your faculty advisor, TA, instructor, as needed. 
 - You've got this! Practice makes progress!
 
-<!-- 
-In addition, next week you’ll practice answering questions a bit more. Questions during final presentations don’t tend to be as technical as questions during faculty reviews, but you should still be ready to answer about any details in your project.
-
-- **Review** this [presentation about best practices to answer questions](https://docs.google.com/presentation/d/1idCPdoY0y-rUTiGJMcERiEhA56iiUypECBBV6_MJ-sM/edit?usp=sharing). Especially the “dos” and “don'ts”
-- **Identify** 4 - 5 bins that you expect questions to fall into (e.g. data management, statistical analyses, working with a client). Write them down.
-- **Brainstorm** who would be most appropriate to respond to questions in each bin.
-- **Write down** 2 - 3 questions in each bin that you might expect (and/or are nervous of getting) during your presentation
-- **Prepare**, if necessary, any extra slides you might need during your Q&A.
-
-Make your best effort so that everyone in your team gets a chance to answer something.  Specially the team members who are not presenting.  -->
-
 </details>
 
 <br>
