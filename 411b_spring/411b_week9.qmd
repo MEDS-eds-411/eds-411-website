@@ -45,11 +45,16 @@ Your theam should work on their project outside of their "presentation block". T
 
 **How to submit:** Send an email with a link to your final TD and GitHub repo to you advisor and instructor. Send DocuSign to collect signatures for TD signature page.
 
+<details>
+<summary>**Instructions**</summary>
+
 - Finish updating your TD and repositories
 - Designate an editor in your team who will read the whole document and give it cohesion. Editor, be on the lookout for:
     - Inconsistent spelling (ex: github, GitHub, gitHub)
     - Inconsistent terms (ex: app, dashboard, interactive dashboard, etc)
 - Request approval and signatures from advisor and instructor. Advisor must sign before 411 instructor. The easiest way to do this is collect it via DocuSign.
+
+</details>
 
 
 ## Optional assignment: Capstone Group Blog Post
