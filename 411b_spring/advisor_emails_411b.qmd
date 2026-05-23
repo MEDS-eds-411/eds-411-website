@@ -138,6 +138,8 @@ Best wishes,
 
 Carmen 
 
+{{< include /_email_signature.qmd >}}
+
 
 ---
 
@@ -196,6 +198,8 @@ Best wishes,
 
 Carmen 
 
+{{< include /_email_signature.qmd >}}
+
 ---
 
 [EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
@@ -247,6 +251,8 @@ Best wishes!
 
 Carmen 
 
+{{< include /_email_signature.qmd >}}
+
 ---
 
 [EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
@@ -293,6 +299,8 @@ This is your weekly EDS 411 - MEDS Capstone project newsletter. Please don’t h
 Best wishes!
 
 Carmen 
+
+{{< include /_email_signature.qmd >}}
 
 ---
 
@@ -346,6 +354,8 @@ This is your weekly EDS 411 - MEDS Capstone project newsletter. Please don’t h
 Best wishes!
 
 Carmen 
+
+{{< include /_email_signature.qmd >}}
 
 ---
 
@@ -401,6 +411,8 @@ Best wishes!
 
 Carmen 
 
+{{< include /_email_signature.qmd >}}
+
 ---
 
 [EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
@@ -437,6 +449,53 @@ Carmen
 - Prepare a final mock presentation 
 - Work on updating their Technical Documentation and GitHub materials
 - Start finalizing the project deliverables!
+
+## Week 9
+
+Hello MEDS Capstone Advisors, 
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please don’t hesitate to reach out with any questions, comments, concerns, or suggestions.
+
+
+Best wishes!
+
+Carmen 
+
+{{< include /_email_signature.qmd >}}
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}
+
+<span style="font-weight: bold;">Upcoming Deadlines </span>
+
+<div id="table-week9-10"></div>
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+
+- <span style="font-weight: bold;">Final presentations are this Friday!</span> All teams have put a lot of work into preparing for this event and their presentations are, generally, in a good place. 
+
+- Students will have one final round of practice presentations today. <span style="font-weight: bold;">If you haven’t done so, please allocate time during a team meeting for a mock presentation or discussing any final edits to the student’s slides.</span>
+
+- <span style="font-weight: bold;">Please join us for a celebratory reception at the Bren courtyard at 4:15 pm after the presentations. It’d be great to see you there!</span> 🎊
+
+:::
+
+<br>
+
+
+<span style="font-weight: bold;">In 411B this week</span> [(slides @ website)]({{< var spring-week9-website >}}){style="color: #0066cc;"}
+
+- Teams had one final practice at BH 1414, received feedback, and practiced the Q&A.
+- Students worked independently with their capstone team.
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411B class:</span>
+
+- Work on wrapping up their projects!
+- Make final updates to their Technical Documentation 
+- Make final updates to GitHub repository 
 
 
 ## Previous bullet points

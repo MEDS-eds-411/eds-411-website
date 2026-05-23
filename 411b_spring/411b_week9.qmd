@@ -56,15 +56,24 @@ Your theam should work on their project outside of their "presentation block". T
 
 </details>
 
+<br>
+
 
 ## Optional assignment: Capstone Group Blog Post
 
-What? Adapting final Capstone presentations into blog posts for personal websites. This is an optional activity that does not contribute to grades or assessments but offers teams an opportunity to coordinate to showcase their Capstone project and experience. The course will offer this coordinated timeline for students who want to participate in giving and receiving feedback to others writing their Capstone blog posts:
-Week 9: Teams adapt their public presentation into a co-authored blog post for their personal websites.
-Wednesday week 9 (May 27): Teams submit their blog post to receive peer and instructor feedback
-Just send me an email with a link to the Google doc and I will redistribute the links among the participants. Each student will read one more blog post. 
-Wednesday week 10 (June 3): Peer and instructor feedback due.
-Students are not required to submit a final version of their blog post to the instructor, but integrating the feedback is greatly encouraged. 
-
+*This is an optional activity that does not contribute to grades or assessments.*
 
 [GUIDELINES HERE]({{< var capstone-blog-post-guidelines >}})
+
+The idea is to adapt your final Capstone presentations into blog post you can add to your personal website.  This is an opportunity to coordinate to showcase their Capstone project and experience! 
+
+The course will offer this coordinated timeline for students who want to participate in giving and receiving feedback to others writing their Capstone blog posts:
+
+- **Week 10:** Teams adapt their public presentation into a co-authored blog post for their personal websites.
+
+- **Week 10, {{< var final-academic-delierables-deadline >}}:** Teams submit their blog post to receive peer and instructor feedback.
+
+- **Finals Week, {{< var capstone-blogpost-feedback-deadline >}}:** Teams receive feedback from instructor and students who are also writing a blog post. 
+
+You are not required to submit a final version of their blog post after receiving feedback. 
+
