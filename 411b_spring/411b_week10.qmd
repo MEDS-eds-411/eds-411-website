@@ -2,29 +2,35 @@
 
 ## Materials
 
-📕 [Class slides](https://docs.google.com/presentation/d/1gGLS3jzgc0AGBM6ktiJsKK7C5b8buPxiNIeZokrgY_Q/edit?usp=sharing)
+📕 [Class slides]({{< var spring-week10-class-slides >}})
 
-📗 [MEDS Computational Server Offboarding](https://docs.google.com/presentation/d/1hA1uWbd2hh_yjHhSmQOUlzkHbWBMGPXYxES_vXG53Hc/edit?slide=id.g35e6e6f2d1d_0_5#slide=id.g35e6e6f2d1d_0_5)
+📗 [MEDS Computational Server Offboarding]({{< var computational-server-offboarding >}})
+
+💭 [In-class team reflections]({{< var team-reflections-411B >}})
 
 ## Surveys
 
-🗂 [UCSB Course Evaluation](https://ucsb.bluera.com/ucsb)
+**PLEASE FILL THIS ONE OUT AND LET ME KNOW WHAT WORKED WELL FOR YOU AND WHAT COULD BE IMPROVED**
 
-🗂 [Internal Course Survey](https://docs.google.com/forms/d/e/1FAIpQLSefV4zsK_ME85Dbled1o6xZTZHgRcSKUGEsozbYxov5kpkFYQ/viewform?usp=header)
+🗂 [UCSB Course Evaluation](https://ucsb.bluera.com/ucsb) 
 
 🗂 [Capstone Advisor Evaluation](https://ucsb.co1.qualtrics.com/jfe/form/SV_eFkt8W8NC512s2W)
 
 ## Schedule
 
-1:00 - 1:15 : Final Presentations Check-in
+12:30 - 12:45 : Final Presentations Check-in
 
-1:15 - 1:30 : Remaining deadlines
+12:45 - 1:00 : Remaining deadlines
 
-1:30 - 2:00 : GitHub releases
+1:00 - 1:30 : GitHub releases
 
-2:00 - 2:30 : Secure Copy Protocol (SCP) demo -  Kat Le, Bren School
+1:30 - 1:45 : Secure Copy Protocol (SCP) demo -  Kat Le, Bren School
 
-2:30 - 2:50 : Capstone Wrap-up: individual and team reflection
+1:45 - 2:45 : Group work
+
+2:45 3:00 : 
+
+2:00 - 2:50 : Capstone Wrap-up: individual and team reflection
 
 2:50 - 4:00 : Pizza and surveys! 🍕😋
 
@@ -89,3 +95,11 @@ The Capstone Advisor Evaluation is part of your MEDS academic final deliverables
 ## Congratulations on Finishing Your Capstone Projects!
 
 ![](/411b_spring/images/commencement.png)
+
+
+Hi Jamie, hope you had a nice weekend! I'm finishing the prep for today's capstone class. Could please share with me the following links:
+
+URL to Capstone advisor evaluation for students
+Link to the MEDS EOY survey.
+
+Also, here's what I have planned for the class today:
