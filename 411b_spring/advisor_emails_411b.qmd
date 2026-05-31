@@ -498,6 +498,62 @@ Carmen
 - Make final updates to GitHub repository 
 
 
+## Week 10
+
+Hello MEDS Capstone Advisors, 
+
+This is your weekly EDS 411 - MEDS Capstone project newsletter. Please don’t hesitate to reach out with any questions, comments, concerns, or suggestions.
+
+
+Best wishes!
+
+Carmen 
+
+{{< include /_email_signature.qmd >}}
+
+---
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}
+
+<span style="font-weight: bold;">Upcoming Deadlines </span>
+
+<div id="table-week10"></div>
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+
+- <span style="font-weight: bold;">Final presentations went great!</span> Seeing how far students have come in their projects and improved their communication skills was fantastic. <span style="font-weight: bold;">Thank you for helping students prepare for these presentations and your continuous advising through their capstone projects!</span>
+
+- <span style="font-weight: bold;">Students will send you their final Technical Documentation for review and signature today.</span> Please review the document, make any final, minor comments if necessary, and sign the signature page. I’ll sign after you have. The final submission of the TD for archival is this {{< var final-academic-delierables-deadline >}}.
+
+- <span style="font-weight: bold;">All capstone academic deliverables are due by the end of this week (see upcoming deadlines above for details).</span>
+
+- Most teams will have their final meetings with you this week or the next. <span style="font-weight: bold;">In this final team meeting, I encourage you to allocate time for students to reflect on their capstone process and give each of them time to share a few highlights of what they have learned, identify areas for improvement, and celebrate their achievements.</span>
+
+- <span style="font-weight: bold;">We will have a MEDS Capstone advisors meeting this Wednesday, 6/3 at 1-2.</span> I hope all of you can join us! Having your feedback and having a conversation about how the projects went helps us improve this process every year.
+
+:::
+
+<br>
+
+
+<span style="font-weight: bold;">In 411B this week</span> [(slides @ website)]({{< var spring-week9-website >}}){style="color: #0066cc;"}
+
+- Covered how to do a GitHub release for their code
+- Kat Le went over how to transfer files out of the workbench
+- We wrapped up the capstone course holding time for students to reflect on their project development
+- Students completed the MEDS EOY survey
+
+<span style="font-weight: bold;">Tasks all groups are expected to complete before next 411B class:</span>
+
+- Complete personal reflection & team/self evaluation
+- Submit final Technical Documentation and Signature Page
+- Send  final documentation, GitHub repository, and deliverables to clients
+- Complete Faculty Advisor Evaluation 
+- Complete course surveys 
+
+
 ## Previous bullet points
 
 ### Week 7

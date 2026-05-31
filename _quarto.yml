@@ -73,8 +73,8 @@ website:
             href: 411b_spring/411b_week8.qmd  
           - text: Week 9
             href: 411b_spring/411b_week9.qmd              
-          # - 411b_spring/411b_week9.qmd   
-          # - 411b_spring/411b_week10.qmd   
+          - text: Week 10
+            href: 411b_spring/411b_week10.qmd   
       
       - href: office_hours.qmd
         text: Student Hours          
