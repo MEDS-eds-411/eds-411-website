@@ -10,11 +10,9 @@
 
 ## Surveys
 
-**PLEASE FILL THIS ONE OUT AND LET ME KNOW WHAT WORKED WELL FOR YOU AND WHAT COULD BE IMPROVED**
+🗂 [UCSB 411B Course Evaluation](https://ucsb.bluera.com/ucsb) **: Please fill it out!**
 
-🗂 [UCSB Course Evaluation](https://ucsb.bluera.com/ucsb) 
-
-🗂 [Capstone Advisor Evaluation](https://ucsb.co1.qualtrics.com/jfe/form/SV_eFkt8W8NC512s2W)
+🗂 [Capstone Advisor Evaluation]({{< var advisor-evaluations >}}) **: Required for completing the course.**
 
 ## Schedule
 
@@ -37,45 +35,54 @@
 
 ## Upcoming deadlines
 
-![](/411b_spring/images/411b_2025_deadlines7.png)
+{{< include _spring_deadlines_tables.qmd >}}
+
+<div id="table-week10"></div>
+
 
 ## To do by Friday, June 6
 
-### 2. 🌱 Complete Personal Reflection 2
-**When? Due on Wednesday, June 4 at 5 PM.**
+### 1. 🌱 Complete Personal Reflection 2 & Self/Peer evaluation
 
-**How? Share document or send via email to instructor (detailed instructions in the template).**
-Please complete and share your Personal Reflection 2 with the instructor:
+**Due when?** Due on {{< var final-academic-delierables-deadline >}}.
 
-[[TEMPLATE] Personal Reflection 2 – 411B](https://docs.google.com/document/d/1kZvkDdX1syY6bKxbNKnaDtkfHZ2JY_zD7HelEkvwfyo/edit?usp=share_link)
+**How to submit:** Upload the two documents **as PDFs** to [this Box folder]({{< var reflection-2-box-folder-411B >}}). Make sure you use the following file names:
 
-Detailed instructions are included in the template.
+1. `YourGroupAlias_Firstname_Lastname_411B_CapstoneReflection2.pdf`
+2. `YourGroupAlias_Firstname_Lastname_411B_SelfPeerEvaluation2.pdf`
 
-This is an individual assignment. Each person is responsible for submitting their own reflection and making sure the instructor is notified once it’s shared.
+**You must also email your peer evaluation directly to your faculty advisor.**
 
-If you would like to set up a meeting with me (Carmen) to chat about anything, please message me and we can find a time that works.
+<details>
+<summary>**Instructions**</summary>
 
-### 🗂 Complete Faculty Advisor Evaluation and Course Surveys
+Please complete the following two documents:
 
-**When? Due on Friday, June 6 at 5 PM.**
+1. [[TEMPLATE] Personal Reflection 1 – 411B]({{< var personal-reflection-2-411B >}})
+2. [[TEMPLATE] Peer and Self Evaluation - Mid quarter 411B]({{< var peer-and-self-evaluation-endofquarter >}})
 
-**How? Just complete the surveys through the links.**
+Detailed instructions are included in the templates.
 
-Thank you completing these! Your feedback really helps to improve the capstone courses!
+This is an individual assignment. Each team member is responsible for submitting their own reflection and submitting it to the Box folder.
 
-1. [UCSB Course Evaluation](https://ucsb.bluera.com/ucsb)
+**If you would like to set up a meeting with me (Carmen) to chat about anything, please send me a Slack message and we can find a time that works.**
 
-2. [Internal Course Survey](https://docs.google.com/forms/d/e/1FAIpQLSc5ytdKeI0vduJyZMYPBHBsxSi1-ct6su6KyQ22U0jf9688hA/viewform?usp=pp_url)
+</details>
 
-3. [Capstone Advisor Evaluation](https://ucsb.co1.qualtrics.com/jfe/form/SV_eFkt8W8NC512s2W)
+<br>
 
-The Capstone Advisor Evaluation is part of your MEDS academic final deliverables.
 
-### 📥 Submit final Technical Documentation and GitHub repository
+### 2. 📥 Submit final Technical Documentation, signature page, and GitHub repository
 
-**When? Due on Friday, June 6 at 5 PM.**
+**Due when?** Due on {{< var final-academic-delierables-deadline >}}.
 
-**How? [Upload files to Box](https://ucsb.app.box.com/f/3825d6797ae94eb3bf50e94bb0bbe1cb).**
+**How to submit:**  Upload final version of the TD and signature page **as a PDFs** to [this shared Box folder]({{< var final-TDs-box >}}). 
+
+1. `YourGroupAlias_TechnicalDocumentation.pdf`
+2. `YourGroupAlias_TD_SingaturePage.pdf`
+
+<details>
+<summary>**Instructions**</summary>
 
 - Your faculty advisor must have approved it and signed before submitting it.
 - Collect signature from your advisor (first), then me. DocuSign might be the easiest way to do this.
@@ -83,23 +90,33 @@ The Capstone Advisor Evaluation is part of your MEDS academic final deliverables
     1. The final version of your TD with a blank signature page in PDF format with your Capstone Project short name 
     2. The signature page in PDF format.
 
-### 📥  Submit Peer/Self Evaluation
-**When? Due on Friday, June 6 at 5 PM.**
+</details>
 
-**How? [Upload file to Box](https://ucsb.app.box.com/f/894684b7664a4a018f3caee42d067139).**
+<br>
 
-- Each student must complete a [Capstone Project Peer & Self Evaluation Form](https://docs.google.com/document/d/1TVoy2lkgngVSVfaeYptlxgegg_y-Sb2B/edit?usp=share_link&ouid=111507336322611936333&rtpof=true&sd=true) for Winter Quarter. You can also find the form in the [Bren resources website](https://bren.ucsb.edu/academic-resources-current-students).
-- Upload your evaluation form to Box and save your document with your Capstone Project short name and your full name as the file name (e.g., SaferSeafood Emily Case).
-- You must also email your peer evaluation directly to your faculty advisor. 
+### 3. 📧 Send your final documentation, GitHub repository, and deliverables to your client 
+
+**Due when?** Due on {{< var final-academic-delierables-deadline >}}.
+
+**How to submit:**  Send your project documents, deliverables, and a link to your GitHub repository to your client. Thank them for their guidance and collaboration on this project!
+
+<br>
+
+### 4. 🗂 Complete Faculty Advisor Evaluation and Course Surveys
+
+**Due when?** Due on {{< var final-academic-delierables-deadline >}}.
+
+**How to submit:** Complete the surveys through the links.
+
+Thank you completing these! Your feedback really helps to improve the capstone courses!
+
+1. [UCSB Course Evaluation](https://ucsb.bluera.com/ucsb)
+
+3. [Capstone Advisor Evaluation]({{< var advisor-evaluations >}}): part of your MEDS academic final deliverables.
+
+<br>
+
 
 ## Congratulations on Finishing Your Capstone Projects!
 
 ![](/411b_spring/images/commencement.png)
-
-
-Hi Jamie, hope you had a nice weekend! I'm finishing the prep for today's capstone class. Could please share with me the following links:
-
-URL to Capstone advisor evaluation for students
-Link to the MEDS EOY survey.
-
-Also, here's what I have planned for the class today:
