@@ -14,23 +14,25 @@
 
 🗂 [Capstone Advisor Evaluation]({{< var advisor-evaluations >}}) **: Required for completing the course.**
 
+🗂 [MEDS EOY Program Learning Objectives Evaluation]({{< var eoy-plo-evaluation >}})
+
 ## Schedule
 
-12:30 - 12:45 : Final Presentations Check-in
+12:30 - 12:45 : Secure Copy Protocol (SCP) demo -  Kat Le, Bren School
 
-12:45 - 1:00 : Remaining deadlines
+12:45 - 1:00 : Final Presentations Check-in
 
-1:00 - 1:30 : GitHub releases
+1:00 - 1:15 : Remaining deadlines
 
-1:30 - 1:45 : Secure Copy Protocol (SCP) demo -  Kat Le, Bren School
+1:15 - 1:30 : GitHub releases
 
-1:45 - 2:45 : Group work
+1:30 - 2:00 : Group work 
 
-2:45 3:00 : 
+2:00 - 2:20 : Capstone Wrap-up: individual and team reflection
 
-2:00 - 2:50 : Capstone Wrap-up: individual and team reflection
+2:20 - 2:30 : BREAK
 
-2:50 - 4:00 : Pizza and surveys! 🍕😋
+2:30 - 3:30 : Surveys and snacks! 😋🍨
 
 
 ## Upcoming deadlines
@@ -116,6 +118,26 @@ Thank you completing these! Your feedback really helps to improve the capstone c
 
 <br>
 
+## Optional assignment: Capstone Group Blog Post
+
+*This is an optional activity that does not contribute to grades or assessments.*
+
+[GUIDELINES HERE]({{< var capstone-blog-post-guidelines >}})
+
+The idea is to adapt your final Capstone presentations into blog post you can add to your personal website.  This is an opportunity to coordinate to showcase their Capstone project and experience! 
+
+The course will offer this coordinated timeline for students who want to participate in giving and receiving feedback to others writing their Capstone blog posts:
+
+- **Week 10:** Teams adapt their public presentation into a co-authored blog post for their personal websites.
+
+- **Week 10, {{< var final-academic-delierables-deadline >}}:** Teams submit their blog post to receive peer and instructor feedback.
+
+- **Finals Week, {{< var capstone-blogpost-feedback-deadline >}}:** Teams receive feedback from instructor and students who are also writing a blog post. 
+
+You are not required to submit a final version of their blog post after receiving feedback. 
+
+
+<br>
 
 ## Congratulations on Finishing Your Capstone Projects!
 
