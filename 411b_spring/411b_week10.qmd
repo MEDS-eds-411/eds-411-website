@@ -14,6 +14,8 @@
 
 🗂 [Capstone Advisor Evaluation]({{< var advisor-evaluations >}}) **: Required for completing the course.**
 
+🗂 [Capstone Advisor Evaluation]({{< var meds-eoy-survey >}})
+
 🗂 [MEDS EOY Program Learning Objectives Evaluation]({{< var eoy-plo-evaluation >}})
 
 ## Schedule
