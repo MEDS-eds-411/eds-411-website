@@ -16,6 +16,15 @@ MEDS Capstone Updates - Spring Week X
 
 https://docs.google.com/document/d/1w3Efx8n2jHzPfC6P0Sfovc--FtqOgYyG8h7HEK0f0bQ/edit?tab=t.0
 
+
+
+
+## Previous bullet points
+
+### Week 7
+
+- As a reminder, students developed a Team Management Plan during the fall as part of their Design and Implementation Plan. You can encourage them to revisit this document, as well as the materials from their workshop with the Associated Ombuds on managing conflict and fostering healthy team dynamics.
+
 ## Week 1
 
 Hi MEDS Capstone Advisors, 
@@ -427,6 +436,7 @@ Carmen
 ::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
 
 <span style="font-weight: bold;">Advisor Check-ins</span>
+
 - <span style="font-weight: bold;">If you haven’t yet, please review your team’s Technical Documentation *and* GitHub repositories by the end of today. </span>
 
 - Final presentations are next week! Students are working on updating their presentations to practice this Wednesday. <span style="font-weight: bold;">Please review your team's presentation! It makes a huge difference.</span>
@@ -474,6 +484,8 @@ Carmen
 <div id="table-week9-10"></div>
 
 ::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+
+<span style="font-weight: bold;">Advisor Check-ins</span>
 
 - <span style="font-weight: bold;">Final presentations are this Friday!</span> All teams have put a lot of work into preparing for this event and their presentations are, generally, in a good place. 
 
@@ -523,6 +535,8 @@ Carmen
 
 ::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
 
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
 - <span style="font-weight: bold;">Final presentations went great!</span> Seeing how far students have come in their projects and improved their communication skills was fantastic. <span style="font-weight: bold;">Thank you for helping students prepare for these presentations and your continuous advising through their capstone projects!</span>
 
 - <span style="font-weight: bold;">Students will send you their final Technical Documentation for review and signature today.</span> Please review the document, make any final, minor comments if necessary, and sign the signature page. I’ll sign after you have. The final submission of the TD for archival is this {{< var final-academic-delierables-deadline >}}.
@@ -542,8 +556,8 @@ Carmen
 
 - Covered how to do a GitHub release for their code
 - Kat Le went over how to transfer files out of the workbench
-- We wrapped up the capstone course holding time for students to reflect on their project development
 - Students completed the MEDS EOY survey
+- Teams reflected on learnings through the capstone project, what they still want to improve, and  major wins. They summarized their thoughts leaving a message of encouragement and advice to the next MEDS cohort.
 
 <span style="font-weight: bold;">Tasks all groups are expected to complete before next 411B class:</span>
 
@@ -553,9 +567,52 @@ Carmen
 - Complete Faculty Advisor Evaluation 
 - Complete course surveys 
 
+## Finals week
 
-## Previous bullet points
+Hi MEDS Capstone Advisors, 
 
-### Week 7
 
-- As a reminder, students developed a Team Management Plan during the fall as part of their Design and Implementation Plan. You can encourage them to revisit this document, as well as the materials from their workshop with the Associated Ombuds on managing conflict and fostering healthy team dynamics.
+This is the last MEDS Capstone project newsletter.
+
+Wishing you all a great summer, 
+
+Carmen
+
+{{< include /_email_signature.qmd >}}
+
+---
+ 
+
+[EDS 411 Course website]({{< var 411-course-website >}}){style="color: #0066cc;"}
+
+[Capstone guidelines]({{< var capstone-guidelines >}}){style="color: #0066cc;"}
+
+
+::: {style="border: 2px solid #ff6600; padding: 15px; background-color: #fff5e6; border-radius: 5px;"}
+
+<span style="font-weight: bold;">Advisor Check-ins</span>
+
+- All students submitted all their final academic deliverables last Friday. There is nothing else left to submit to MEDS as an academic requirement.
+
+- You should have received a Peer and Self evaluation form from every student in your group.
+
+- <span style="font-weight: bold;">I have emailed you the proposed grades for students in your group.</span> If you have any comments, please let me know by the end of Wednesday. I’m planning to submit grades for EDS 411B on Thursday.
+
+- Your feedback on the MEDS capstone projects is really important to us. We’d greatly appreciate it if you could <span style="font-weight: bold;">please take 10 minutes to complete this short anonymous survey</span>:
+<br>
+
+<div style="text-align: center; font-size: 1.3em; font-weight: bold;">
+[Advisor End-of-Year Survey](https://docs.google.com/forms/d/e/1FAIpQLScqxxgFF_r4hYqUO4MoeXVwk0Ud01CR9O9VPD02S9e72AwVfw/viewform?usp=share_link&ouid=111507336322611936333){style="color: #0066cc;"}
+</div>
+:::
+
+<br>
+
+<span style="font-weight: bold;">Recap</span>
+
+The Capstone Projects are a cornerstone of the MEDS program and one of the top reasons students choose to enroll. These projects simply wouldn’t be possible without your advice and mentorship. So on behalf of the MEDS Capstone Team:
+
+![](images/meds_group_2026.jpg)
+
+If there are any lingering questions or topics you’d like to chat about, please feel free to reach out.
+
